@@ -19,9 +19,8 @@ service = Service(driver_path)
 driver = webdriver.Chrome(service=service, options=options)
 
 liste = []
-page = 1
 
-while True:
+for page in range(1, 51):
     url = f"https://www.trendyol.com/sr?q=laptop&qt=laptop&st=laptop&os={page}"
     driver.get(url)
 
@@ -47,20 +46,18 @@ while True:
 
         print(f"Sayfa {page} - Ürün sayısı: {len(names)}")
 
-        for name, desc, rating, price, image in zip(names, descs, ratings, prices, images):
-            liste.append([
-                name.text.strip(),
-                desc.text.strip() if desc else "N/A",
-                rating.text.strip() if rating else "N/A",
-                price.text.strip() if price else "N/A",
-                image.get_attribute("src") if image else "N/A",
-            ])
+        for i in range(len(names)):
+            name = names[i].text.strip() if i < len(names) else "N/A"
+            desc = descs[i].text.strip() if i < len(descs) else "N/A"
+            rating = ratings[i].text.strip() if i < len(ratings) else "N/A"
+            price = prices[i].text.strip() if i < len(prices) else "N/A"
+            image = images[i].get_attribute("src") if i < len(images) else "N/A"
 
-        page += 1
+            liste.append([name, desc, rating, price, image])
 
     except Exception as e:
         print(f"{page}. sayfada hata oluştu: {str(e)}")
-        break
+        continue
 
 driver.quit()
 
