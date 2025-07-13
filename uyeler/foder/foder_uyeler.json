@@ -1,0 +1,709 @@
+[
+  {
+    "title": "Aes Club Hotel",
+    "website": "https://www.aesclub.com",
+    "email": "info@aesclub.com",
+    "phone": "+90 252 616 77 64",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/aes-club-hotel.jpg.webp"
+  },
+  {
+    "title": "Alesta Yacht Otel",
+    "website": "https://www.alestayachthotel.com",
+    "email": "info@alestayachthotel.com",
+    "phone": "+90 252 601 00 00",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/alesta.jpg.webp"
+  },
+  {
+    "title": "ALİZE OTEL",
+    "website": "https://www.alizehotel.com",
+    "email": "info@alizehotel.com",
+    "phone": "+90(252) 617 0101",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/02/ALIZE-OTEL.jpg.jpg.webp"
+  },
+  {
+    "title": "Aymes Otel",
+    "website": "https://www.otelaymes.com",
+    "email": "info@otelaymes.com",
+    "phone": "+90 252 622 07 08",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/aymes1.jpg.webp"
+  },
+  {
+    "title": "Bahar Hotel",
+    "website": "https://www.hotelbahar.com",
+    "email": "info@hotelbahar.com",
+    "phone": "+90 252 622 11 55",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/bahar-1.jpg"
+  },
+  {
+    "title": "Balkaya Hotel",
+    "website": "https://www.balkayahotel.com",
+    "email": "info@balkayahotel.com",
+    "phone": "+90252 616 71 81",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/balkayaindir.jpg.webp"
+  },
+  {
+    "title": "Barut Fethiye Sensatori",
+    "website": "https://www.baruthotels.com/tr/fethiye",
+    "email": "fethiye@baruthotels.com",
+    "phone": "+90 252 661 02 10",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/IMAGES-02.jpg.webp"
+  },
+  {
+    "title": "Bayram Otel",
+    "website": "https://www.bayramsplace.com",
+    "email": "info@bayramsplace.com",
+    "phone": "+90 252 616 63 26",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/BAYRAMdefault_page.jpg.webp"
+  },
+  {
+    "title": "Belcekız Hotel",
+    "website": "https://www.belcekiz.com",
+    "email": "info@belcekiz.com",
+    "phone": "+90 252 617 00 77",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/Picture-021.jpg"
+  },
+  {
+    "title": "Beyaz Yunus Hotel",
+    "website": "https://www.beyazyunus.com",
+    "email": "info@beyazyunus.com",
+    "phone": "+90 252 617 02 44",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/BEYAZ-YUNUS15551d6dad3e94.jpg.webp"
+  },
+  {
+    "title": "Blue Lagoon Hotel",
+    "website": "https://www.bluelagoonoludeniz.com",
+    "email": "info@bluelagoonoludeniz.com",
+    "phone": "+90 252 617 0046",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/blue-45ebe28e328d.jpg.webp"
+  },
+  {
+    "title": "Blue Star Hotel",
+    "website": "https://www.hotelbluestaroludeniz.com",
+    "email": "info@hotelbluestaroludeniz.com\u0003",
+    "phone": "0 252 617 00 69",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/121_DSC_7351.png.webp"
+  },
+  {
+    "title": "Caretta Apart Otel",
+    "website": "https://www.carettaapart.com",
+    "email": "info@carettaapart.com",
+    "phone": "+90 252 613 1917",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/2-2.jpg.webp"
+  },
+  {
+    "title": "Celay Hotel",
+    "website": "https://www.celayhotel.com",
+    "email": "info@celayhotel.com",
+    "phone": "+90 252 616 80 02",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/MEHT0297.jpg.webp"
+  },
+  {
+    "title": "Cennet Life Otel",
+    "website": "https://www.cennetlifeotel.com",
+    "email": "info@cennetlifehotel.com",
+    "phone": "02526141440",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/cennet-life-Ozel.jpg.webp"
+  },
+  {
+    "title": "Club Turkuaz Garden",
+    "website": "https://www.clubturkuaz.com",
+    "email": "info@clubturkuaz.com",
+    "phone": "+90 252 622 0177",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/4-1.jpg"
+  },
+  {
+    "title": "D-Resort Göcek",
+    "website": "https://www.dresortgocek.com",
+    "email": "info@dresortgocek.com.tr",
+    "phone": "+90 252 661 09 00",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/D-Resort-Gocek_Genel.jpg.webp"
+  },
+  {
+    "title": "Delta Hotel",
+    "website": "https://www.hoteldeltafethiye.com",
+    "email": "info@hoteldeltafethiye.com",
+    "phone": "+90252 622 05 41",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/06/delta1.png.webp"
+  },
+  {
+    "title": "ECCLESIA HOTEL",
+    "website": "https://www.ecclesiahotel.com",
+    "email": "info@ecclesiahotel.com",
+    "phone": "02526170641",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/ecclesia-Ozel.jpg.webp"
+  },
+  {
+    "title": "Ece Butik Otel",
+    "website": "https://www.ecehotelsovalye.com",
+    "email": "ece@sovalyeisland.com",
+    "phone": "+90 252 613 28 60",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/ece37904333.jpg.1024x0.jpg.webp"
+  },
+  {
+    "title": "Efe Hotel Göcek",
+    "website": "https://www.efehotelgocek.com",
+    "email": "info@efehotelgocek.com",
+    "phone": "+ 90 252 645 26 46",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/general7.jpg.webp"
+  },
+  {
+    "title": "Flamingo Hotel",
+    "website": "https://www.hotelflamingoclub.com",
+    "email": "info@hotelflamingoclub.com",
+    "phone": "+90 252 617 03 61",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/flamingo-otel.jpg.webp"
+  },
+  {
+    "title": "Florapalm Resort & Spa",
+    "website": "https://www.florapalmresort.com",
+    "email": "info@florapalmresort.com",
+    "phone": "+90 252 616 69 93",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/otel.jpg.webp"
+  },
+  {
+    "title": "Garcia Resort & Spa",
+    "website": "https://www.garciahotels.com",
+    "email": "info@garciahotels.com",
+    "phone": "+90 252 661 03 00",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/3.jpg.webp"
+  },
+  {
+    "title": "Göcek Naz Hotel",
+    "website": "https://www.goceknazotel.com",
+    "email": "info@goceknazhotel.com",
+    "phone": "+90 252 645 30 33",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/naz-otel-slide-01.jpg.webp"
+  },
+  {
+    "title": "Golden Moon Hotel",
+    "website": "https://www.goldenmoonhotel.com",
+    "email": "info@goldenmoonhotel.com",
+    "phone": "+90 252 613 3235",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/golden_7231.jpg"
+  },
+  {
+    "title": "Green Anatolia Hotel",
+    "website": "https://www.greenanatolia.com",
+    "email": "info@greenanatolia.com",
+    "phone": "+90 252 616 7400",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/g13.jpg.webp"
+  },
+  {
+    "title": "Green Peace Hotel",
+    "website": "https://www.greenpeacefethiye.com",
+    "email": "info@greenpeacefethiye.com",
+    "phone": "+90 252 616 78 98",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/4.jpg.webp"
+  },
+  {
+    "title": "Greenland Hotel",
+    "website": "https://www.hotelgreenland.com",
+    "email": "info@hotelgreenland.com",
+    "phone": "+90 252 616 7999",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/1530621cdaa942.jpg.webp"
+  },
+  {
+    "title": "Grove Hotel",
+    "website": "https://www.grovehotel.com.tr",
+    "email": "info@grovehotel.com.tr",
+    "phone": "+90 252 616 66 06",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/84141005_1.jpg.webp"
+  },
+  {
+    "title": "Harman Otel",
+    "website": "https://www.harmanotel.com",
+    "email": "info@harmanhotel.com",
+    "phone": "+90 252 6133686",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/57224570.jpg.webp"
+  },
+  {
+    "title": "Hayat Apart Otel",
+    "website": "https://www.villahayatapart.com",
+    "email": "info@villahayatapart.com",
+    "phone": "+90 252 616 62 84",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/97.jpg"
+  },
+  {
+    "title": "Hisar Holiday Club",
+    "website": "https://www.hisarholidayclub.com",
+    "email": "info@hisarholidayclub.com",
+    "phone": "+90 252 616 66 99",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/2_1.jpg"
+  },
+  {
+    "title": "Hotel Forest Gate",
+    "website": "https://www.hotelforestgate.com",
+    "email": "info@hotelforestgate.com",
+    "phone": "+90 252 645 26 29 - 30",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/17474503.jpg"
+  },
+  {
+    "title": "Hotel Telmessos",
+    "website": "https://www.hoteltelmessos.com",
+    "email": "info@hoteltelmessos.com",
+    "phone": "+90 252 616 68 88",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/9085054.jpg"
+  },
+  {
+    "title": "Hotel Unique Fethiye",
+    "website": "https://www.hoteluniqueturkey.com",
+    "email": "info@hoteluniqueturkey.com/",
+    "phone": "90 252 612 11 45",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/unique-hotel.jpg.webp"
+  },
+  {
+    "title": "Hotel Villa Daffodil",
+    "website": "https://www.villadaffodil",
+    "email": "villadaffodil@gmail.com",
+    "phone": "+90 252 614 95 95",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/Suit-Room2.jpg.webp"
+  },
+  {
+    "title": "Idee Hotel",
+    "website": "https://www.ideehotel.com",
+    "email": "info@hotelidee.com",
+    "phone": "+90 252 622 1164",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/9681672.jpg"
+  },
+  {
+    "title": "INFINITY EXCLUSIVE CİTY HOTEL",
+    "website": "https://www.infinitycityhotel.com",
+    "email": "info@infinitycityhotel.com",
+    "phone": "02526145006",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/infinity-Ozel.jpg.webp"
+  },
+  {
+    "title": "JİVA Beach Resort",
+    "website": "https://www.jivabeachresort.com",
+    "email": "info@jivabeachresort.com",
+    "phone": "+90 252 622 00 55",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/17519898.jpg.webp"
+  },
+  {
+    "title": "Karbel Otel",
+    "website": "https://karbelhotel.com",
+    "email": "info@karbelhotel.com",
+    "phone": "+90 252 617 00 13",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/karbel-hotel-4.jpg.webp"
+  },
+  {
+    "title": "KORDON APART",
+    "website": "https://www.kordonapart.com",
+    "email": "info@kordonapart.com",
+    "phone": "05323451596",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/kordon-apart-Ozel.jpg.webp"
+  },
+  {
+    "title": "Lemon Tree Hotel",
+    "website": "https://www.lemontreehoteloludeniz.com",
+    "email": "info@lemontreehoteloludeniz.com",
+    "phone": "+90 252 617 03 49",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/426050_326214790799879_809613247_n.jpg"
+  },
+  {
+    "title": "Levent Otel",
+    "website": "https://www.v-gohotel.com",
+    "email": "info@bluecruisesturkey.com",
+    "phone": "0 252 612 54 09",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/fethiye-1.jpg.webp"
+  },
+  {
+    "title": "Leytur Otel",
+    "website": "https://www.hotelleytur.com",
+    "email": "info@hotelleytur.com",
+    "phone": "+90 252 616 69 59",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/dscf6744.jpg.webp"
+  },
+  {
+    "title": "Liberty Hotels Lykia Resort",
+    "website": "https://www.libertyhotelslykia.com",
+    "email": "info@libertyhotelslykia.com",
+    "phone": "+90 252 617 0200",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/40d4f8e5-7ef4-4bae-9535-b870bfed23e7.jpg"
+  },
+  {
+    "title": "Majestic Hotel",
+    "website": "https://www.majesticoludeniz.com",
+    "email": "info@majesticoludeniz.com",
+    "phone": "+90 252 617 0208",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/majestic-hotel-pool.jpg.webp"
+  },
+  {
+    "title": "Malahit Otel",
+    "website": "https://",
+    "email": "info@malahithotel.com",
+    "phone": "+90 252 612 18 00",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/baslik-1436105360-dsc_0219-copy.jpg.webp"
+  },
+  {
+    "title": "Malhun Otel",
+    "website": "https://www.malhun.com",
+    "email": "info@malhun.com",
+    "phone": "+90 252 622 12 53",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/WARVT235DB.jpg.webp"
+  },
+  {
+    "title": "Manaspark Hotel Ölüdeniz",
+    "website": "https://www.manaspark.com",
+    "email": "oludeniz@manaspark.com",
+    "phone": "+90 252 617 01 24",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/manas5.jpg.webp"
+  },
+  {
+    "title": "Marina Botique Hotel",
+    "website": "https://www.marinaboutiquefethiye.com",
+    "email": "info@marinaboutiquefethiye.com",
+    "phone": "+90 252 614 54 43",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/02.jpg.webp"
+  },
+  {
+    "title": "Mavruka Hotel",
+    "website": "https://www.mavrukahotel.net",
+    "email": "info@mavrukahotel.net",
+    "phone": "+90 252 617 00 35",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/EB7A6518.jpg.webp"
+  },
+  {
+    "title": "Mendos Hotel",
+    "website": "https://www.hotelmendos.com",
+    "email": "info@hotelmendos.com",
+    "phone": "0 252 622 1148",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/35625393.jpg.webp"
+  },
+  {
+    "title": "Milkyway Apart Hotel",
+    "website": "https://www.milkywayapart.com",
+    "email": "milkyway@milkywayapart.com",
+    "phone": "+90 252 616 77 25",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/KNN_5856.jpg.webp"
+  },
+  {
+    "title": "MİNU HOTEL",
+    "website": "https://www.minuhotel.com",
+    "email": "info@minuhotel.com",
+    "phone": "02526122050",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/minu-hotel-Ozel.jpeg.webp"
+  },
+  {
+    "title": "Monta Verde Hotel",
+    "website": "https://www.montaverde.com",
+    "email": "info@montaverde.com",
+    "phone": "+90 252 616 80 05-06",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/Pool-19.jpg.webp"
+  },
+  {
+    "title": "Montana Pine Resort",
+    "website": "https://www.montanapine.com",
+    "email": "info@montanapine.com",
+    "phone": "+90 252 661 04 20 ( Pbx )",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/montana-07.jpg"
+  },
+  {
+    "title": "Montebello Beach Hotel",
+    "website": "https://www.villabeldeniz.com",
+    "email": "info@montebellobeach.com",
+    "phone": "+90 252 6170022",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/10.jpg.webp"
+  },
+  {
+    "title": "Montebello Resort Hotel",
+    "website": "https://www.villabeldeniz.com",
+    "email": "info@montebellobeach.com",
+    "phone": "+90 252 6170022",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/a.jpg.webp"
+  },
+  {
+    "title": "Morina Otel",
+    "website": "https://www.morinahotel.com",
+    "email": "info@morinahotel.com",
+    "phone": "+90 252 617 0255",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/Morina-Hotel-Oludeniz-Fethiye-4.jpg.webp"
+  },
+  {
+    "title": "Mozaik Hotel",
+    "website": "https://http://www.mozaik-apartments.com/tr/",
+    "email": "info@mozaik-apartments.com",
+    "phone": "+90 252 617 0496",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/mozaik5.jpg.webp"
+  },
+  {
+    "title": "Mutlu Hotel",
+    "website": "https://www.hotelmutlu.com",
+    "email": "info@hotelmutlu.com",
+    "phone": "+90 252 622 11 80",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/11111.jpg"
+  },
+  {
+    "title": "Nevada Hotel & Spa",
+    "website": "https://nevadahotelspa.com",
+    "email": "info@nevadahotelspa.com",
+    "phone": "+90 252 622 00 17",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/banner1.jpg.webp"
+  },
+  {
+    "title": "Ocean Blue Hotel",
+    "website": "https://www.oceanbluehighclass.com",
+    "email": "info@oceanbluehighclass.com",
+    "phone": "+90 252 616 76 46",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/Ocean-Blue-High-Class-Hotel-Mugla-Fethiye-Galeri-Ozel.jpg.webp"
+  },
+  {
+    "title": "Ölüdeniz Hotel",
+    "website": "https://www.oludenizotel.com",
+    "email": "oludenizotel@superonline.com",
+    "phone": "+90 252 6170084 - 85",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/IMG_1495.jpg"
+  },
+  {
+    "title": "Ölüdeniz Turquoise Hotel",
+    "website": "https://www.turquoisehotel.com",
+    "email": "info@turquoisehotel.com",
+    "phone": "+90 252 617 01 78",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/DSC_92019.jpg.webp"
+  },
+  {
+    "title": "Oran Apart",
+    "website": "https://",
+    "email": "info@oranapart.com",
+    "phone": "+90 252 616 60 59",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/2677440.jpg.webp"
+  },
+  {
+    "title": "Orka Club",
+    "website": "https://www.orkaclub.com",
+    "email": "info@orkaclub.com",
+    "phone": "+90 252 616 67 94",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/06/orka.jpg.webp"
+  },
+  {
+    "title": "Orka Sunlife Resort Hotel",
+    "website": "https://www.orkasunlifehotel.com",
+    "email": "info@orkasunlifehotel.com",
+    "phone": "+90 252 661 02 00",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/IMAGE-PICTURE-1.jpg.webp"
+  },
+  {
+    "title": "OYKUN HOTEL",
+    "website": "https://www.oykunhotel.com",
+    "email": "info@oykunhotel.com",
+    "phone": "02526133111",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/oykun-Ozel.jpg.webp"
+  },
+  {
+    "title": "Öztürk Hotel",
+    "website": "https://www.ozturkhotel.com",
+    "email": "info@ozturkhotel.com",
+    "phone": "+90 252 616 63 33",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/2-1.jpg"
+  },
+  {
+    "title": "Pelin Hotel",
+    "website": "https://www.hotelpelin.com.tr",
+    "email": "info@hotelpelin.com.tr",
+    "phone": "+90 252 6221080",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/f-12.jpg.webp"
+  },
+  {
+    "title": "Pine Valley Hotel",
+    "website": "https://www.hotelpinevalley.com",
+    "email": "info@hotelpinevalley.com",
+    "phone": "+90 252 616 78 13",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/1.jpg.webp"
+  },
+  {
+    "title": "RIXOS PREMİUM GÖCEK",
+    "website": "https://www.rixos.com",
+    "email": "",
+    "phone": "02526453200",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/RIXOS-Ozel-2.jpg.webp"
+  },
+  {
+    "title": "Rosary Beach Otel",
+    "website": "https://www.rosarybeach.com",
+    "email": "info@rosarybeach.com",
+    "phone": "+90 252 622 12 32",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/2-1920x675-1-1.jpg"
+  },
+  {
+    "title": "Royal Park Club Otel",
+    "website": "https://www.artemisiaclub.com",
+    "email": "bulenterten@gmail.com",
+    "phone": "+90 252 616 7368",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/67201524522731.jpg"
+  },
+  {
+    "title": "Rüya Hotel",
+    "website": "https://www.ruyahotel.com",
+    "email": "rezervasyon@ruyahotel.com",
+    "phone": "+90 252 616 7771",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/11551688.jpg.webp"
+  },
+  {
+    "title": "S3 Hotels Orange",
+    "website": "https://s3hotels.com",
+    "email": "Info@s3hotels.com",
+    "phone": "+90 252 617 0678",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/3Y3Z44YD3Y.jpg.webp"
+  },
+  {
+    "title": "Saray Hotel",
+    "website": "https://www.sarayhotelhisaronu.com",
+    "email": "info@sarayhotelhisaronu.com",
+    "phone": "+90 252 616 7399",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/3-1.jpg.webp"
+  },
+  {
+    "title": "Sea Breeze Hotel & Apartmens",
+    "website": "https://www.seabreezeapart.com",
+    "email": "info@seabreezeapart.com",
+    "phone": "+90 252 6167714 - 15",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/DSC_3669-copy.jpg.webp"
+  },
+  {
+    "title": "Sea Horse Beach Club",
+    "website": "https://www.seahorsebeachclub.com",
+    "email": "info@seahorsebeachclub.com",
+    "phone": "+90 252 617 08 88",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/4NJS7FD29Q.jpg.webp"
+  },
+  {
+    "title": "SERTİL DELUXE HOTEL",
+    "website": "https://www.sertildeluxe.com",
+    "email": "info@sertilhotel.com",
+    "phone": "02526166465",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/Sertil-Deluxe-Hotel_5_822020-200759-Ozel.jpg.webp"
+  },
+  {
+    "title": "SUGAR BEACH CLUB ÖLÜDENİZ",
+    "website": "https://www.thesugarbeachclub.com",
+    "email": "info@thesugarbeachclub.com",
+    "phone": "02526170048",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/SUGAR-Ozel.jpeg.webp"
+  },
+  {
+    "title": "SUNDİA BY LİBERTY HİSARÖNÜ",
+    "website": "https://www.sundiahisaronu.com",
+    "email": "info@sundiahisaronu.com",
+    "phone": "90 252 616 67 13",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/2dsc-0027.jpg"
+  },
+  {
+    "title": "SUNDİA BY LİBERTY ÖLÜDENİZ",
+    "website": "https://www.sundiaoludeniz.com",
+    "email": "info@sundiaoludeniz.com",
+    "phone": "+90 252 617 01 54",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/main-photo3.jpg"
+  },
+  {
+    "title": "Suzanne Hotel",
+    "website": "https://www.suzanneotel.com",
+    "email": "",
+    "phone": "+90 252 6167218",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/9708992.jpg.webp"
+  },
+  {
+    "title": "Taner Otel",
+    "website": "https://www.tanerotel.com.tr",
+    "email": "info@tanerotel.com.tr",
+    "phone": "+90 252 617 01 22",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/image9.jpg.webp"
+  },
+  {
+    "title": "TEN APART OTEL",
+    "website": "https://www.tenapartotel.com",
+    "email": "info@tenapartotel.com",
+    "phone": "05432983110",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/ten-apart-Ozel.jpg.webp"
+  },
+  {
+    "title": "THE GREEN VALLEY HOTEL",
+    "website": "https://www.thegreenvalleyhotel.com",
+    "email": "",
+    "phone": "02522770213",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/the-green-valley-Ozel.jpg.webp"
+  },
+  {
+    "title": "The Olive Tree Hotel",
+    "website": "https://www.theolivetreestudios.com",
+    "email": "info@theolivetreestudios.com",
+    "phone": "+90 252 616 63 6",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/2_900x6001.jpg.webp"
+  },
+  {
+    "title": "The Tower Hotel",
+    "website": "https://www.thetowerhotel.net",
+    "email": "info@thetowerhotel.net",
+    "phone": "+90 252 617 00 38",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/DSC_9432.jpg.webp"
+  },
+  {
+    "title": "Tonoz Beach Hotel",
+    "website": "https://www.tonozbeach.com",
+    "email": "info@tonozbeach.com",
+    "phone": "+90 252 617 04 03",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/70907450.jpg"
+  },
+  {
+    "title": "TT Hotels Palace",
+    "website": "https://tr.tthotels.com",
+    "email": "info@tthotels.com",
+    "phone": "+90 252 286 85 01",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/magic-sarigerme-hotel.jpg"
+  },
+  {
+    "title": "TT Hotels Tropical",
+    "website": "https://tr.tthotels.com",
+    "email": "info@tthotels.com",
+    "phone": "+90 252 286 85 10",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/tropical-sarigerme.jpg.webp"
+  },
+  {
+    "title": "Türk Hotel",
+    "website": "https://www.turkhotel.net",
+    "email": "info@turkhotel.net",
+    "phone": "+90 252 617 04 44",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/10829620151055573IKTMN10PQ1.jpg.webp"
+  },
+  {
+    "title": "Villa Beldeniz Hotel",
+    "website": "https://www.villabeldeniz.com",
+    "email": "info@montebellobeach.com",
+    "phone": "+90 252 6170022",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2017/01/banner-2.jpg"
+  },
+  {
+    "title": "WHITE OTEL",
+    "website": "https://www.whiteotel.com",
+    "email": "info@whiteotel.com",
+    "phone": "02526170617",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/white-hotel-Ozel.jpg.webp"
+  },
+  {
+    "title": "Yacht Boheme Hotel",
+    "website": "https://www.yachthotelturkey.com",
+    "email": "info@yachthotelturkey.com",
+    "phone": "+90 252 614 15 30",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/06/butik1.jpg.webp"
+  },
+  {
+    "title": "Yacht Classic Hotel",
+    "website": "https://www.yachtclassichotel.com",
+    "email": "info@yachtclassichotel.com",
+    "phone": "+90 252 612 50 67",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/25.jpg"
+  },
+  {
+    "title": "Yeniçeri Otel",
+    "website": "https://www.yenicerihotel.com",
+    "email": "info@yenicerihotel.com",
+    "phone": "+902526121100",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2016/12/otel-dis-cephe.jpg.webp"
+  },
+  {
+    "title": "Z EXCLUSIVE HOTEL AND VILLAS",
+    "website": "https://www.zexclusivehotel.com",
+    "email": "info@zexclusivehotel.com",
+    "phone": "02526170008",
+    "image": "https://www.foder.com.tr/wp-content/uploads/2021/04/z-exclusive-Ozel.jpg.webp"
+  }
+]

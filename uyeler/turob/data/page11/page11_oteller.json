@@ -1,0 +1,1190 @@
+[
+    {
+        "title": "Adana HiltonSA",
+        "adress": "Sinanpaşa Mah. 1. Sok. / Akdeniz / Yüreğir",
+        "telefon": "+90 322 355 50 00",
+        "fax": "+90 322 355 50 50",
+        "email": "sales.adana@hilton.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/adana/adana-hiltonsa/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ajwa Hotels Sultanahmet",
+        "adress": "Emin Sinan Mh. Piyer Loti Cd. No:30 Fatih / İstanbul",
+        "telefon": "+90 212 638 22 14",
+        "fax": "+90 212 638 22 00",
+        "email": "info@ajwa.com.tr",
+        "website": "https://www.ajwa.com.tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Akgün İstanbul Hotel",
+        "adress": "Adnan Menderes Bulvarı Vatan Cad. Topkapı / Marmara / Fatih",
+        "telefon": "+90 212 534 48 79",
+        "fax": "+90 212 534 91 26",
+        "email": "info@akgunhotel.com",
+        "website": "http://www.akgunhotel.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Almira Hotel",
+        "adress": "Ulubatli Hasan Bulvarı No: 5 / Marmara / Osmangazi",
+        "telefon": "+90 224 250 20 20",
+        "fax": "+90 224 250 20 52",
+        "email": "almira@almira.com.tr",
+        "website": "http://www.almira.com.tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ankara HiltonSA",
+        "adress": "Tahran Cad. No:12 Kavaklıdere / İç Anadolu / Merkez",
+        "telefon": "+90 312 455 00 00",
+        "fax": "+90 312 455 00 50",
+        "email": "sales.ankara@hilton.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/ankara/ankara-hiltonsa/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Barcelo İstanbul Hotel",
+        "adress": "Kocatepe Mah. Abdülhak Hamit Cad. No:25 Beyoğlu / İstanbul",
+        "telefon": "+90 212 377 45 45",
+        "fax": "+90 212 361 97 98",
+        "email": "istanbul@barcelo.com",
+        "website": "https://www.barcelo.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Byotell İstanbul",
+        "adress": "Saniye Ermutlu Sok. No: 3 Kozyatağı / İst - Anadolu Yakası / Kadıköy",
+        "telefon": "+90 216 571 61 00",
+        "fax": "+90 216 571 61 10",
+        "email": "info@byotell.com.trr",
+        "website": "https://www.byotell.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Conrad İstanbul Bosphorus",
+        "adress": "Cihannüma Mah. Saray Cad. No: 5 / Marmara / Beşiktaş",
+        "telefon": "+90 212 310 25 25",
+        "fax": "+90 212 259 66 67",
+        "email": "istanbulinfo@conradhotels.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/istanbul/conrad-istanbul-bosphorus/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Asia",
+        "adress": "Dedepaşa Cad. No: 15 Kurtköy / İst - Anadolu Yakası / Pendik",
+        "telefon": "+90 216 585 6060",
+        "fax": "+90 216 585 6061",
+        "email": "info@cpistanbulasia.com",
+        "website": "http://www.cpistanbulasia.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Florya",
+        "adress": "Şenlikköy Mah. Yeşilköy Halkalı Cd. No:95 Florya / Bakırköy / İstanbul",
+        "telefon": "+90 212 463 05 00",
+        "fax": "+90 212 463 05 25",
+        "email": "info@cpistanbulflorya.com",
+        "website": "https://www.cpistanbulflorya.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Harbiye",
+        "adress": "Bozkurt Mah. Dolapdere Cad. No:163/1 Şişli / İstanbul",
+        "telefon": "+90 212 291 60 80",
+        "fax": "+90 212 291 91 01",
+        "email": "info@cpistanbulharbiye.com",
+        "website": "http://www.cpistanbulharbiye.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Old City",
+        "adress": "Balabanağa Mah. Fethibey caddesi 34134 Laleli / İst - Avrupa Yakası / Fatih",
+        "telefon": "+90 212 514 90 00",
+        "fax": "+90 212 514 90 16",
+        "email": "info@cpoldcity.com",
+        "website": "https://www.ihg.com/crowneplaza/hotels/tr/tr/istanbul/istbm/hoteldetail",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Oryapark",
+        "adress": "İnkılâp Mah. Küçüksu Cad. No: 58 / 1 / İst - Anadolu Yakası / Ümraniye",
+        "telefon": "+90 216 666 64 00",
+        "fax": "+90 216 666 64 20",
+        "email": "info@cporyapark.com",
+        "website": "http://www.cporyapark.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Çınar Hotel",
+        "adress": "Yeşilköy Mah. Serbesti Cad. No: 66 / İst - Avrupa Yakası / Bakırköy",
+        "telefon": "+90 212 663 29 00",
+        "fax": "+90 212 663 29 21",
+        "email": "reservation@cinarhotel.com.tr",
+        "website": "http://www.cinarhotel.com.tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Çırağan Palace Kempinski",
+        "adress": "Çırağan Cad. No: 32 Ortaköy / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 326 46 46",
+        "fax": "+90 212 259 66 87",
+        "email": "reservationoffice.ciraganpalace@kempinski.com",
+        "website": "https://www.kempinski.com/tr/istanbul/ciragan-palace/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Dedeman Bostancı İstanbul Hotel & Convention Center",
+        "adress": "Değirmenyolu Cad. No: 39 / B Bostancı / İst - Anadolu Yakası / Ataşehir",
+        "telefon": "+90 216 469 66 00",
+        "fax": "+90 216 469 61 60",
+        "email": "bostanci@dedeman.com",
+        "website": "http://www.dedeman.com/otel-bostanci/dedeman-bostanci.aspx",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Dedeman İstanbul",
+        "adress": "Yıldız Posta Cad. No: 50 Gayrettepe / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 337 45 00",
+        "fax": "+90 212 275 11 00",
+        "email": "istanbul@dedeman.com",
+        "website": "http://www.dedeman.com/otel-istanbul/dedeman-istanbul.aspx",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Dedeman Zonguldak",
+        "adress": "İncivez Mah. Milli Egemenlik Cad. No: 128 / Karadeniz / Merkez",
+        "telefon": "+90 372 291 00 00",
+        "fax": "+90 372 291 00 01",
+        "email": "zonguldak@dedeman.com",
+        "website": "http://www.dedeman.com/otel-zonguldak/dedeman-zonguldak.aspx",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Divan İstanbul",
+        "adress": "Asker Ocağı Caddesi No: 1 Taksim / İst - Avrupa Yakası / Beyoğlu",
+        "telefon": "+90 212 315 55 00",
+        "fax": "+90 212 315 55 15",
+        "email": "info.divanistanbul@divan.com.tr",
+        "website": "http://www.divan.com.tr/divan-istanbul/tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "DoubleTree By Hilton İstanbul Avcılar",
+        "adress": "Cihangir MG. D100 Güney Yan Yol No:289 Avcılar / İstanbul",
+        "telefon": "+90 212 456 46 46",
+        "fax": "+90 212 456 46 06",
+        "email": "istav.info@hilton.com",
+        "website": "https://www.hilton.com.tr/oteller/turkiye/istanbul/doubletree-by-hilton-istanbul-avcilar",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "DoubleTree By Hilton Trabzon",
+        "adress": "Söğütlü Mah. Barbaros Hyarettin Paşa Sok. No:35 Akçaabat / Trabzon",
+        "telefon": "+90 462 455 00 00",
+        "fax": "+90 462 666 00 60",
+        "email": "",
+        "website": "https://www.hilton.com.tr/oteller/turkiye/trabzon/doubletree-by-hilton-trabzon/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "DoubleTree by Hilton Esentepe",
+        "adress": "Esentepe Mh. Büyükdere Cd. No:117 Şişli / İstanbul",
+        "telefon": "+90 212 999 96 00",
+        "fax": "+90 212 266 66 10",
+        "email": "",
+        "website": "https://doubletree3.hilton.com/en/hotels/turkey/doubletree-by-hilton-istanbul-esentepe-ISTESDI/maps-directions/index.html",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "DoubleTree by Hilton Hotel Avanos-Cappadocia",
+        "adress": "Yeni Mah. Kızılırmak Cad. No: 1 / İç Anadolu / Avanos",
+        "telefon": "+90 384 511 11 11",
+        "fax": "+90 384 511 11 22",
+        "email": "info@doubletreebyhiltoncappadocia.com.tr",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/nevsehir/doubletree-by-hilton-hotel-avanos-cappadocia/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "DoubleTree by Hilton Hotel İstanbul - Moda",
+        "adress": "Caferağa Mah. Albay Faik Sözdener Cad. No: 31 / İst - Anadolu Yakası / Kadıköy",
+        "telefon": "+90 216 542 43 44",
+        "fax": "+90 216 542 43 00",
+        "email": "istim_ds@hilton.com",
+        "website": "https://www.hilton.com/tr/hotels/istimdi-doubletree-istanbul-moda/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "DoubleTree by Hilton İstanbul - Piyalepaşa",
+        "adress": "Piyalepaşa Bulvarı Kaptanpaşa Mah. No: 5 Kasımpaşa / İst - Avrupa Yakası / Beyoğlu",
+        "telefon": "+90 212 311 43 11",
+        "fax": "+90 212 311 43 33",
+        "email": "istik_ds@hilton.com",
+        "website": "",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "DoubleTree By Hilton Bodrum Işıl Club Resort",
+        "adress": "Torba Mh. Kaynar Cad. No:11 Bodrum / Muğla / Ege / Bodrum",
+        "telefon": "+90 252 337 10 10",
+        "fax": "+90 252 337 10 05",
+        "email": "bodrumisilclub_info@hilton.com",
+        "website": "https://www.hilton.com/en/hotels/bjvtrdi-doubletree-bodrum-isil-club-resort/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Elite World İstanbul Florya",
+        "adress": "Gültepe Mah. Şehit Zafer Kızıltaş Sok. No: 1 Florya E5 üzeri / İst - Avrupa Yakası / Küçükçekmece",
+        "telefon": "+90 212 411 46 46",
+        "fax": "+90 212 411 46 96",
+        "email": "infobusiness@eliteworldhotels.com.tr",
+        "website": "http://www.eliteworldhotels.com.tr/elite-world-business-otel.aspx",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Elite World Comfy İstanbul Taksim",
+        "adress": "Şehit Muhtar Cad. No: 42 Taksim / İst - Avrupa Yakası / Beyoğlu",
+        "telefon": "+90 212 313 83 83",
+        "fax": "+90 212 313 83 93",
+        "email": "infoistanbul@eliteworldhotels.com.tr",
+        "website": "http://www.eliteworldhotels.com.tr/elite-world-istanbul-otel.aspx",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Eresin Hotels Topkapı",
+        "adress": "Topkapı mh. Turgut Özal Millet cd. No:184/1-186 Fatih/İstanbul",
+        "telefon": "+90 212 631 12 12",
+        "fax": "+90 212 631 37 02",
+        "email": "eresin@eresintopkapi.com.tr",
+        "website": "https://www.eresin.com.tr/tr/eresintopkapi/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Eser Premium Hotel & Spa Büyükçekmece",
+        "adress": "Fatih Mah. Gazi Mustafa Kemal Cad. No: 11 / İst - Avrupa Yakası / Büyükçekmece",
+        "telefon": "+90 212 867 70 00",
+        "fax": "+90 212 867 70 70",
+        "email": "info@eserhotel.com",
+        "website": "http://www.eserpremiumhotel.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Euro Park Hotel",
+        "adress": "Barbaros Hayrettin Paşa Mah. 1992. Sok. No: 4 / İst - Avrupa Yakası / Esenyurt",
+        "telefon": "+90 212 428 21 21",
+        "fax": "+90 212 423 86 00",
+        "email": "info@europarkotel.com",
+        "website": "http://www.europarkotel.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Fairmont Quasar İstanbul",
+        "adress": "Büyükdere Cad. No:76 Mecidiyeköy / İstanbul",
+        "telefon": "+90 212 403 85 11",
+        "fax": "+90 212 403 86 00",
+        "email": "istanbul@fairmont.com",
+        "website": "https://www.fairmont-tr.com/istanbul/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Four Seasons Hotel Istanbul at The Bosphorus",
+        "adress": "Çırağan Cad. No: 28 / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 381 40 00",
+        "fax": "+90 212 381 40 10",
+        "email": "Pbx.Bosphorus@fourseasons.com",
+        "website": "http://www.fourseasons.com/bosphorus/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Golden Tulip Hotel Bayrampaşa",
+        "adress": "Topçular Mah. Cicoz Cad. Maltepe Mevki / Bayrampaşa / İstanbul",
+        "telefon": "+90 212 647 00 00",
+        "fax": "+90 212 647 07 77",
+        "email": "reservation@goldentulipbayrampasa.com",
+        "website": "http://www.goldentulipbayrampasa.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Grand Cevahir Hotel ve Kongre Merkezi",
+        "adress": "Halide Edip Adıvar Mah. Darülaceze Cad. No: 5 / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 314 42 42",
+        "fax": "+90 212 314 42 44",
+        "email": "info@gch.com.tr",
+        "website": "http://www.gch.com.tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Grand Hyatt İstanbul",
+        "adress": "Harbiye Mah. Taşkışla Cad. No: 1 / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 368 12 34",
+        "fax": "+90 212 368 10 00",
+        "email": "istanbul.grand@hyatt.com",
+        "website": "http://istanbul.grand.hyatt.com.tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Grand Makel Hotel",
+        "adress": "Maltepe Mah. Serçekale Sk. No:1/1 Zeytinburnu / İstanbul",
+        "telefon": "+90 212 482 30 40",
+        "fax": "+90 212 481 01 22",
+        "email": "info@grandmakelhotel.com",
+        "website": "https://www.grandmakelhotel.com/tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Hilton İstanbul Maslak",
+        "adress": "Büyükdere Cad. No:233 Sarıyer / İst - Avrupa Yakası",
+        "telefon": "+90 212 305 10 00",
+        "fax": "+90 212 305 10 10",
+        "email": "info@hiltonistanbulmaslak.com",
+        "website": "https://www.hilton.com.tr/oteller/turkiye/istanbul/hilton-istanbul-maslak/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Hilton İstanbul Bomonti Hotel & Conference Center",
+        "adress": "Silahşör Cad. No: 42 Bomonti / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 375 30 00",
+        "fax": "+90 212 375 30 01",
+        "email": "bomonti.info@hilton.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/istanbul/hilton-istanbul-bomonti-hotel-conference-center/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Hilton İstanbul Bosphorus",
+        "adress": "Cumhuriyet Cad. No: 50 Harbiye / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 315 60 00",
+        "fax": "+90 212 231 15 52",
+        "email": "info.istanbul@hilton.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/istanbul/hilton-istanbul-bosphorus/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Holiday İnn Ankara Çukurambar",
+        "adress": "İşçi Blokları Mh. 1484. Sok. No:30 Çukurambar / Çankaya / Ankara",
+        "telefon": "+90 312 342 55 55",
+        "fax": "+90 312 342 55 56",
+        "email": "info@hicukurambar.com",
+        "website": "http://www.hicukurambar.com/tr/index.html",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Holiday Inn İstanbul City",
+        "adress": "Turgut Özal Cad. (Millet Cad.) No: 189 Topkapı / İst - Avrupa Yakası / Fatih",
+        "telefon": "+90 212 530 99 00",
+        "fax": "+90 212 585 64 05",
+        "email": "info@hiistanbulcity.com",
+        "website": "http://www.hiistanbulcity.com.tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Holiday Inn İstanbul Şişli",
+        "adress": "Halaskargazi Cad. No:206 / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 373 38 00",
+        "fax": "+90 212 233 59 44",
+        "email": "info@hisisli.com",
+        "website": "http://www.hisisli.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Hyatt Regency İstanbul Ataköy",
+        "adress": "Ataköy 2-5-6. Kısım Rauf Orbay Caddesi No: 2/1 / İst - Avrupa Yakası / Bakırköy",
+        "telefon": "+90 212 463 12 34",
+        "fax": "+90 212 463 12 35",
+        "email": "istanbul.regency@hyatt.com",
+        "website": "https://istanbulatakoy.regency.hyatt.com/en/hotel/home.html",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "InterContinental İstanbul",
+        "adress": "Asker Ocağı Cad. No: 1 Taksim / İst - Avrupa Yakası / Beyoğlu",
+        "telefon": "+90 212 368 44 44",
+        "fax": "+90 212 368 44 99",
+        "email": "istanbul@intercontinental.com",
+        "website": "http://istanbul.intercontinental.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Wyndham Grand İstanbul Levent",
+        "adress": "Esentepe Mah. Büyükdere Cad. No: 177-183 / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 386 10 00",
+        "fax": "+90 212 381 10 10",
+        "email": "info@wyndhamgrandlevent.com",
+        "website": "http://www.wyndhamgrandlevent.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "İstanbul Marriott Hotel Asia",
+        "adress": "Kayışdağı Cad. No: 3 / İst - Anadolu Yakası / Ataşehir",
+        "telefon": "+90 216 570 00 00",
+        "fax": "+90 216 469 99 99",
+        "email": "mhrs.istmc.gm@marriotthotels.com",
+        "website": "http://www.marriott.com/hotels/travel/istmc-istanbul-marriott-hotel-asia/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "İstanbul Marriott Hotel Şişli",
+        "adress": "Abide-i Hürriyet Cad. No: 42 / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 375 01 00",
+        "fax": "N/A",
+        "email": "info.marriottsisli@marriott.com",
+        "website": "http://www.marriott.com/hotels/travel/istdt-istanbul-marriott-hotel-sisli/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Mandarin Oriental Bosphorus İstanbul",
+        "adress": "Kuruçeşme Mah. Muallim Naci Cad. No:62 Beşiktaş/İstanbul",
+        "telefon": "+90 212 349 88 88",
+        "fax": "+90 212 349 88 31",
+        "email": "info@mohg.com",
+        "website": "www.mandarinoriental.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "JW Marriott Ankara",
+        "adress": "Kızılırmak Mah. Muhsin Yazıcıoğlu Cad. No:1 Çankaya / Ankara / İç Anadolu",
+        "telefon": "+90 312 248 88 88",
+        "fax": "+90 312 248 88 08",
+        "email": "",
+        "website": "https://www.marriott.com/hotels/travel/esbjw-jw-marriott-hotel-ankara/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Address İstanbul",
+        "adress": "Ünalan Mah. Libadiye Cad. No:80 / 325 Üsküdar / İSTANBUL",
+        "telefon": "+90 216 285 11 11",
+        "fax": "N/A",
+        "email": "",
+        "website": "www.addresshotels.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Kaya İstanbul Fair & Convention Center",
+        "adress": "Gökevler Mah. 2317. Sok. No: 1 / İst - Avrupa Yakası / Esenyurt",
+        "telefon": "+90 212 866 23 23",
+        "fax": "+90 212 886 17 85",
+        "email": "info@kayaramada.com",
+        "website": "http://www.kayahotels.com/oteller/sehir-otelleri/kaya-ramada-plaza/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Hilton İstanbul Bakırköy Hotel & Conference Center",
+        "adress": "Sakızağacı Mahallesi Kennedy Caddesi No:103 İç Kapı No:1",
+        "telefon": "+90 212 942 25 00",
+        "fax": "N/A",
+        "email": "",
+        "website": "www.istanbulbakirkoy.hilton.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Cvk Hotels & Resorts-Park Bosphorus İstanbul",
+        "adress": "Gümüşsuyu mh. İnönü Cd. No:8 Beyoğlu İstanbul",
+        "telefon": "0212 377 88 88",
+        "fax": "0212 377 88 89",
+        "email": "",
+        "website": "www.cvkhotelsandresorts.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Kolin Hotel",
+        "adress": "Atatürk Cad. Boğazkent Mevkii No:2 Kepez / Çanakkale",
+        "telefon": "+90 286 218 08 08",
+        "fax": "+90 286 218 08 00",
+        "email": "info@kolinhotel.com",
+        "website": "http://www.kolinhotel.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Gorrion Hotel İstanbul",
+        "adress": "Yenibosna Merkez mh. Sanayi cd. No:9 Bahçelievler İstanbul",
+        "telefon": "0212 454 48 00",
+        "fax": "0212 652 12 28",
+        "email": "info@gorrion.com",
+        "website": "https://www.gorrion.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Lasagrada Hotel",
+        "adress": "Halaskargazi Cad. No: 96 Osmanbey / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 373 66 66",
+        "fax": "+90 212 373 66 00",
+        "email": "info@lasagradahotel.com",
+        "website": "http://www.lasagradahotel.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Mandarin Oriental Bodrum",
+        "adress": "Gölköy mah. 314.sk No:10 Bodrum Muğla",
+        "telefon": "0212 311 18 18",
+        "fax": "0212 311 26 24",
+        "email": "",
+        "website": "https://www.mandarinoriental.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Lazzoni Hotel",
+        "adress": "Sütlüce Mah. İmrahor Cad. No:14 Beyoğlu / İstanbul",
+        "telefon": "+90 212 311 00 00",
+        "fax": "+90 212 311 00 11",
+        "email": "",
+        "website": "https://www.lazzonihotel.com/tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "The Ritz-Carlton İstanbul",
+        "adress": "Askerocağı Cad. Süzer Plaza No: 9 Elmadağ / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 334 44 44",
+        "fax": "+90 212 334 44 55",
+        "email": "reservations@ritzcarlton.com.tr",
+        "website": "http://www.ritzcarlton.com/en/hotels/europe/istanbul",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Le Meridien Istanbul Etiler",
+        "adress": "Cengiz Topel Caddesi No: 39 Etiler / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 384 00 00",
+        "fax": "+90 212 384 01 00",
+        "email": "info.istanbul.etiler@lemeridien.com",
+        "website": "http://www.lemeridienistanbuletiler.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "The St. Regis İstanbul",
+        "adress": "Mim Kemal Öke Cad. No: 35 Nişantaşı / İst - Avrupa Yakası / Şişli",
+        "telefon": "+ 90 212 368 00 00",
+        "fax": "+90 212 368 08 01",
+        "email": "stregis.istanbul@stregis.com",
+        "website": "http://www.thestregisistanbul.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Legacy Ottoman Hotel",
+        "adress": "Hobyar Mah. Hamidiye Cad. No: 16 Sirkeci / İst - Avrupa Yakası / Eminönü",
+        "telefon": "+90 212 527 67 67",
+        "fax": "+90 212 519 87 63",
+        "email": "info@legacyottomanhotel.com",
+        "website": "http://www.legacyottomanhotel.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Titanic Business Kartal",
+        "adress": "Orta Mah. Kaptan-ı Derya Cad. No: 37 / İst - Anadolu Yakası / Kartal",
+        "telefon": "+90 216 453 50 50",
+        "fax": "+90 216 309 84 84",
+        "email": "businesskartal@titanic.com.tr",
+        "website": "http://www.titanic.com.tr/titanicbusinesskartal",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Titanic Port Bakırköy",
+        "adress": "Fişekhane Cad. No: 7/3 / İst - Avrupa Yakası / Bakırköy",
+        "telefon": "+90 212 413 70 00",
+        "fax": "+90 212 661 18 29",
+        "email": "portbakirkoy@titanic.com.tr",
+        "website": "http://www.titanic.com.tr/titanicportbakirkoy",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Lionel Hotel İstanbul",
+        "adress": "Yeni Doğan Mah. Abdi İpekçi Cad. No:84 Bayrampaşa / İstanbul",
+        "telefon": "+90 212 467 20 00",
+        "fax": "+90 212 467 20 11",
+        "email": "info@lionelhotel.com.tr",
+        "website": "http://www.lionelhotel.com.tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Tryp By Wyndham İstanbul Basın Ekspres",
+        "adress": "Mahmutbey Mah. Ordu Cad. No:13 Bağcılar / İstanbul / İst - Avrupa Yakası / BAĞCILAR",
+        "telefon": "+90 212 460 60 00",
+        "fax": "+90 212 460 60 30",
+        "email": "info@trypbywyndhamibe.com",
+        "website": "https://www.wyndhamhotels.com/tr-tr/tryp/istanbul-turkey/tryp-by-wyndham-istanbul-airport/overview",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Tüyap Palas Hotel",
+        "adress": "Tüyap Fuar ve Kongre Merkezi 34500 / İst - Avrupa Yakası / Büyükçekmece",
+        "telefon": "+90 212 867 14 14",
+        "fax": "+90 212 886 69 01",
+        "email": "tuyappalas@tuyappalas.com",
+        "website": "http://www.tuyappalas.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Wishmore Hotel İstanbul",
+        "adress": "Kocatepe Mah. Cicoz Yolu Cad. No: 207 / İst - Avrupa Yakası / Bayrampaşa",
+        "telefon": "+90 212 443 10 00",
+        "fax": "+90 212 443 10 99",
+        "email": "info@wishmore.com.tr",
+        "website": "http://www.wishmore.com.tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "WOW İstanbul Hotel",
+        "adress": "Yeşilköy Mah. Atatürk Cad. No: 15-17-19 / İst - Avrupa Yakası / Bakırköy",
+        "telefon": "+90 212 468 50 00",
+        "fax": "+90 212 465 06 55",
+        "email": "info@wowhotelsistanbul.com",
+        "website": "http://www.wowhotelsistanbul.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Wyndham Grand İstanbul Europe",
+        "adress": "Basın Ekspres Yolu Yavuz Sultan Selim Cad. No: 1-3 Güneşli / İst - Avrupa Yakası / Bağcılar",
+        "telefon": "+90 212 464 00 00",
+        "fax": "+90 212 464 01 00",
+        "email": "info@wyndhamistanbuleurope.com",
+        "website": "http://wyndhamgrandistanbuleurope.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Sheraton Grand İstanbul Ataşehir Hotel",
+        "adress": "Barbaros Mah. Mor Sümbül Sok. No:1 Ataşehir / İstanbul / Anadolu Yakası / ATAŞEHİR",
+        "telefon": "+90 216 547 00 00",
+        "fax": "+90 216 547 00 99",
+        "email": "info@sheratonatasehir.com",
+        "website": "https://www.marriott.com/hotels/travel/istgs-sheraton-grand-istanbul-atasehir/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Sheraton İstanbul City Center",
+        "adress": "Hacı Ahmet Mah. Kurtuluş Deresi Cad. No: 23/27 Beyoğlu - İstanbul / İst - Avrupa Yakası / BEYOĞLU",
+        "telefon": "0090 212 806 10 10",
+        "fax": "0090 212 806 10 11",
+        "email": "",
+        "website": "https://www.sheratonistanbulcitycenter.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Sheraton İstanbul Levent",
+        "adress": "Emniyet Evleri Mah. Akarsu Cad. No:2 Kağıthane / İstanbul / Avrupa Yakası / KAĞITHANE",
+        "telefon": "+90 212 319 29 29",
+        "fax": "+90 212 319 29 00",
+        "email": "info.sheratonistanbullevent@sheraton.com",
+        "website": "https://www.marriott.com/hotels/travel/istsl-sheraton-istanbul-levent/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Susona Bodrum LXR Hotels & Resorts",
+        "adress": "Torba Mh. Kaynar Cad. No:15 Bodrum / Muğla / Ege / Bodrum",
+        "telefon": "00 90 252 211 27 00",
+        "fax": "00 90 252 211 27 99",
+        "email": "SusonaBodrum_Info@Hilton.com",
+        "website": "https://lxrhotels3.hilton.com/lxr/susona-bodrum/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Sürmeli İstanbul",
+        "adress": "Gayrettepe Mah. Prof. Dr. Bülent Tarcan Sok. No: 3 / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 272 11 61",
+        "fax": "+90 212 272 05 16",
+        "email": "info@surmelihotels.com",
+        "website": "http://www.surmelihotels.com/istanbul",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Martı Resort",
+        "adress": "Cumhuriyet Mah. 78. Sok. No: 2 İçmeler / Ege / Marmaris",
+        "telefon": "+90 252 455 34 40",
+        "fax": "+90 252 455 34 48",
+        "email": "marti@marti.com.tr",
+        "website": "https://www.marti.com.tr/resort",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Swissotel Büyük Efes",
+        "adress": "Gaziosmanpaşa Bulvarı No: 1 / Ege / Alsancak",
+        "telefon": "+90 232 414 00 00",
+        "fax": "+90 232 414 10 10",
+        "email": "izmir@swissotel.com",
+        "website": "http://www.swissotel.com.tr/hotels/izmir/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Maxx Royal Belek Golf Resort",
+        "adress": "Belek Mah. İskele Mevkii / Akdeniz / Serik",
+        "telefon": "+90 242 710 27 00",
+        "fax": "+90 242 715 38 05",
+        "email": "info@maxxroyal.com",
+        "website": "https://www.maxxroyal.com/tr/Belek-Golf-Resort",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Swissotel The Bosphorus",
+        "adress": "Vişnezade Mah. Acısu Sok. No: 19 Maçka / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 326 11 00",
+        "fax": "+90 212 326 11 22",
+        "email": "istanbul@swissotel.com",
+        "website": "http://www.swissotel.com.tr/hotels/istanbul/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Mercure Hotel İstanbul City Bosphorus",
+        "adress": "Barbaros Bulvarı No: 165 Balmumcu / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 370 20 20",
+        "fax": "+90 212 370 20 70",
+        "email": "HA477@accor.com",
+        "website": "http://www.mercureistanbulcitybosphorus.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Taksim International Abant Palace",
+        "adress": "Abant Göl Kenarı Örencik Köyü Yukarı Mahalle 106/2 / Marmara / Mudurnu",
+        "telefon": "+90 374 224 50 12",
+        "fax": "+90 374 224 50 28",
+        "email": "abant@taksimotelcilik.com.tr",
+        "website": "http://www.taksimotelcilik.com.tr/tr/abant-palace-otel",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Mersin HiltonSA",
+        "adress": "Palmiye Mah. 1225 Sok. No: 1 / Akdeniz / Merkez",
+        "telefon": "+90 324 241 50 00",
+        "fax": "+90 324 241 50 40",
+        "email": "sales.mersin@hilton.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/mersin/mersin-hiltonsa/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "The Marmara Taksim",
+        "adress": "Osmanlı Sok. No: 1/B Taksim / İst - Avrupa Yakası / Beyoğlu",
+        "telefon": "+90 212 334 83 00",
+        "fax": "+90 212 244 05 09",
+        "email": "taksim-info@themarmarahotels.com",
+        "website": "https://www.themarmarahotels.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "The Museum Hotel Antakya",
+        "adress": "St. Pierre Mevki Haraparası Mah. Hacılar Sok. No:26/1 Antakya / Hatay / Akdeniz",
+        "telefon": "+90 326 290 00 00",
+        "fax": "+90 326 290 00 29",
+        "email": "info@themuseumhotelantakya.com",
+        "website": "http://www.themuseumhotelantakya.com/tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Mövenpick Hotel Istanbul Golden Horn",
+        "adress": "Silahtarağa Cad. No: 87 / İst - Avrupa Yakası / Eyüp",
+        "telefon": "+90 212 600 16 00",
+        "fax": "+90 212 600 16 16",
+        "email": "hotel.istanbul.goldenhorn@movenpick.com",
+        "website": "http://www.movenpick.com/tr/europe/turkey/istanbul/istanbul-golden-horn/genel-bilgi/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Mövenpick Hotel Malatya",
+        "adress": "İnönü Caddesi No: 174 / İç Anadolu / Merkez",
+        "telefon": "+90 422 377 70 00",
+        "fax": "+90 422 377 70 70",
+        "email": "HB757@movenpick.com",
+        "website": "https://all.accor.com/hotel/B757/index.tr.shtml",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "NG Sapanca Wellness & Convention",
+        "adress": "Tepebaşı Mah. Şehit Cevdet Koç Cad. No: 73 Kırkpınar / Marmara / Sapanca",
+        "telefon": "+90 264 242 56 00",
+        "fax": "+90 264 592 09 32",
+        "email": "infosapanca@nghotels.com.tr",
+        "website": "https://nghotels.com.tr/ng-sapanca",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Raffles İstanbul",
+        "adress": "Levazım Mah. Koru Sok. Zorlu Center No: 2/170 / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 924 02 00",
+        "fax": "+90 212 924 02 01",
+        "email": "istanbul@raffles.com",
+        "website": "http://www.raffles.com/istanbul",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Novotel İstanbul Bosphorus",
+        "adress": "Kemankeş Cad. No:57-59 Beyoğlu / İstanbul / Avrupa Yakası",
+        "telefon": "+90 212 372 07 00",
+        "fax": "+90 212 372 07 07",
+        "email": "h8654@accor.com",
+        "website": "https://www.novotelistanbulbosphorus.com/tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ramada Hotels & Suites İstanbul Merter",
+        "adress": "Güngören Mah. Eski Londra Asfaltı Cad. No:83 Güngören / Merter / İst - Avrupa Yakası / GÜNGÖREN",
+        "telefon": "+90 212 506 08 08",
+        "fax": "+90 212 487 02 40",
+        "email": "info@ramadahotelmerter.com",
+        "website": "http://www.ramadahotelmerter.com/index.php",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ramada Plaza İstanbul by Wyndham İstanbul City Center",
+        "adress": "Halaskargazi Cad. No: 63 / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 315 44 44",
+        "fax": "+90 212 315 44 45",
+        "email": "info@ramadaplazaistanbul.com",
+        "website": "http://www.ramadaplazaistanbul.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ommer Hotel",
+        "adress": "Selimiye Mah. No: 425 / İç Anadolu / Melikgazi",
+        "telefon": "+90 352 315 00 00",
+        "fax": "+90 325 315 00 50",
+        "email": "ommer@ommerhotel.com",
+        "website": "http://www.ommerhotel.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ramada Plaza İstanbul Tekstilkent",
+        "adress": "Oruç Reis Mah. Tekstilciler Cad. No: 3 / İst - Avrupa Yakası / Esenler",
+        "telefon": "+90 212 443 03 03",
+        "fax": "+90 212 443 03 04",
+        "email": "info@ramadaplazatekstilkent.com",
+        "website": "http://www.ramadaplazatekstilkent.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ramada Plaza İzmit",
+        "adress": "Yahya Kaptan Mah. Şehit Ergün Köncü Sok No: 10 / Marmara / İzmit",
+        "telefon": "+90 262 310 11 11",
+        "fax": "+90 262 311 62 61",
+        "email": "info@ramadaplazaizmit.com",
+        "website": "http://www.ramadaplazaizmit.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ramada Tekirdağ Hotel",
+        "adress": "Malkara Yolu Üzeri 2. Km / Marmara / Süleymapaşa",
+        "telefon": "+90 282 229 29 29",
+        "fax": "+90 282 229 29 30",
+        "email": "info@ramadatekirdag.com",
+        "website": "http://www.ramadatekirdag.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Richmond Nua Wellness Spa",
+        "adress": "Sahilyolu Mevkii 54600 / Marmara / Sapanca",
+        "telefon": "+90 264 582 21 00",
+        "fax": "+90 264 582 21 01",
+        "email": "richmondnua@richmondnua.com",
+        "website": "http://www.richmondnua.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ottoman's Life Hotel Deluxe",
+        "adress": "Molla Gürani Mah. No:8/6 FATİH / İSTANBUL / İst - Avrupa Yakası",
+        "telefon": "+90 212 533 36 36",
+        "fax": "+90 212 532 13 43",
+        "email": "info@ottomanslifedeluxe.com",
+        "website": "https://www.ottomanslifedeluxe.com/tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Shangri La Bosphorus İstanbul",
+        "adress": "Sinanpaşa Mah. Hayrettin İskelesi Sok. No: 1 / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 275 88 88",
+        "fax": "+90 212 275 88 89",
+        "email": "slib@shangri-la.com",
+        "website": "http://www.shangri-la.com/tr/istanbul",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Sheraton Bursa Hotel - Aloft Bursa",
+        "adress": "Odunluk Mah. Akpınar Cad. No:4 Nilüfer / Bursa / Marmara",
+        "telefon": "+90 224 300 16 16",
+        "fax": "+90 224 300 16 66",
+        "email": "sales@sheratonbursahotel.com",
+        "website": "https://www.sheratonbursahotel.com/tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Sheraton İstanbul Ataköy",
+        "adress": "Rauf Orbay Cadd. Sahilyolu No: 10 / İst - Avrupa Yakası / Bakırköy",
+        "telefon": "+90 212 413 06 00",
+        "fax": "+90 212 560 81 55",
+        "email": "reservation@sheratonistanbulatakoy.com.tr",
+        "website": "https://www.sheratonistanbulatakoy.com.tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Radisson Blu Hotel İstanbul Ottomare",
+        "adress": "Kazlıçeşme Mah. Abay Cad. No:223/A Zeytinburnu / İstanbul",
+        "telefon": "+90 212 939 45 00",
+        "fax": "+90 212 939 45 15",
+        "email": "info.ottomare.istanbul@radissonblu.com",
+        "website": "https://www.radissonhotels.com/tr-tr/oteller/radisson-blu-istanbul-ottomare#",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Park Dedeman Eskişehir",
+        "adress": "Büyükdere Cad. Bayraktepe Sok. No:4 Odunpazarı / Eskişehir / İç Anadolu",
+        "telefon": "+90 222 233 12 22",
+        "fax": "+90 222 233 52 22",
+        "email": "parkeskisehir@dedeman.com",
+        "website": "https://bit.ly/3h7eDxf",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Radisson Collection Vadistanbul Hotel",
+        "adress": "Ayazağa Mah. Cendere Cad. No:109 Sarıyer / İstanbul",
+        "telefon": "+90 212 341 00 00",
+        "fax": "+90 212 323 34 34",
+        "email": "sales.vadistanbul@radissonblu.com",
+        "website": "https://www.radissonblu.com/tr/hotel-vadistanbul",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Point Hotel",
+        "adress": "Topçu cad. No:8 Taksim İstanbul / İst - Avrupa Yakası / Taksim",
+        "telefon": "90 212 313 50 00",
+        "fax": "90 212 313 50 30",
+        "email": "info@pointhotel.com",
+        "website": "http://www.pointhotel.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Radisson Blu Bosphorus Hotel",
+        "adress": "Çırağan Caddesi No: 46 Ortaköy / İst - Avrupa Yakası / Beşiktaş",
+        "telefon": "+90 212 310 15 00",
+        "fax": "+90 212 310 15 15",
+        "email": "info.bosphorus.istanbul@radissonblu.com",
+        "website": "https://www.radissonblu.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Radisson Blu Hotel İstanbul Şişli",
+        "adress": "19 Mayıs Cad. No: 2 / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 375 00 00",
+        "fax": "+90 212 375 00 55",
+        "email": "info.sisli.istanbul@radissonblu.com",
+        "website": "https://www.radissonblu.com/tr/hotel-istanbul-sisli/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Point Hotel Barbaros",
+        "adress": "Esentepe Mah. Yıldız Posta Cad. No: 29 / İst - Avrupa Yakası / Şişli",
+        "telefon": "+90 212 337 30 00",
+        "fax": "+90 212 337 30 30",
+        "email": "contact@pointhotel.com",
+        "website": "http://www.pointhotel.com/point-hotel-barbaros.aspx",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Radisson Blu Hotel Kayseri",
+        "adress": "Hunat Mah. Sivas Cad. No: 24/A / İç Anadolu / Melikgazi",
+        "telefon": "+90 352 315 50 00",
+        "fax": "+90 352 315 50 50",
+        "email": "info.kayseri@radissonblu.com",
+        "website": "https://www.radissonblu.com/tr/hotel-kayseri/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "All Seasons Hotel",
+        "adress": "Sultan Selim mah. Sultan Selim Cad. no178/3Molla Gurani Cad, Emin Ali Yesim Sk No5 / İst - Avrupa Yakası / Fındıkzade",
+        "telefon": "90 212 635 83 83",
+        "fax": "90 212 621 45 35",
+        "email": "info@hotelallseasons.com",
+        "website": "http://www.hotelallseasons.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Amethyst Hotel",
+        "adress": "MESİHPAŞA MH. AKSARAY CD. NO:6 FATİH-İSTANBUL / İst - Avrupa Yakası / Fatih",
+        "telefon": "+90 212 638 60 70",
+        "fax": "+90 212 638 60 70",
+        "email": "info@amethysthotel.com",
+        "website": "http://www.amethysthotel.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Armada Hotel",
+        "adress": "Cankurtaran Mh., Ahırkapı Cd No:24 / İst - Avrupa Yakası / Fatih",
+        "telefon": "90 212 455 44 55",
+        "fax": "90 212 455 44 99",
+        "email": "info@armadahotel.com.tr",
+        "website": "http://www.armadahotel.com.tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Avantgarden Taksim Hotel",
+        "adress": "Sultan Selim mah. Sultan Selim Cad. no178/3",
+        "telefon": "90 212 235 81 60",
+        "fax": "90 212 235 81 69",
+        "email": "taksim@avantgardecollection.com",
+        "website": "http://www.avantgardecollection.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Baron Hotel",
+        "adress": "Mimar Kemalettin Mah, Büyük Tulumba Sok., 34490 / İst - Avrupa Yakası / Beyazıt / Fatih",
+        "telefon": "+90 212 516 70 25",
+        "fax": "+90 212 516 70 24",
+        "email": "info@baronhotel.com.tr",
+        "website": "http://www.baronhotel.com.tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Berr Hotel",
+        "adress": "Akdeniz Cad. No: 78 Fatih-İstanbul / İst - Avrupa Yakası / Fatih",
+        "telefon": "90 212 534 20 70",
+        "fax": "90 212 534 20 79",
+        "email": "info@berrhotel.com",
+        "website": "http://www.berrhotel.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Radisson Hotel President Old Town Istanbul",
+        "adress": "Mimar Hayrettin Mahallesi, Tiyatro Cd. No:25, 34126 Fatih / İst - Avrupa Yakası / Fatih / Beyazıt",
+        "telefon": "90 212 516 69 80",
+        "fax": "90 212 516 69 98",
+        "email": "info.president@radisson.com",
+        "website": "https://www.radissonhotels.com/en-us/hotels/radisson-old-town-istanbul",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Bilek Hotel",
+        "adress": "Eski Büyükdere Cad. No:29 4.Levent İstanbul / İst - Avrupa Yakası / 4 Levent",
+        "telefon": "90 212 324 20 24",
+        "fax": "90 212 283 90 41",
+        "email": "info@bilekistanbul.com",
+        "website": "http://www.bilekistanbul.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Bulvar Palas Hotel",
+        "adress": "Atatürk Bulvarı No:152 Saraçhane - Aksaray / İstanbul Avrupa Yakası / Aksaray",
+        "telefon": "+90 212 528 58 81",
+        "fax": "+90 212 528 60 81",
+        "email": "info@hotelbulvarpalas.com",
+        "website": "http://www.hotelbulvarpalas.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Büyük Şahinler Hotel",
+        "adress": "",
+        "telefon": "",
+        "fax": "N/A",
+        "email": "",
+        "website": "",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Carlton Hotel",
+        "adress": "Fevziye cad. No.22 Şehzadebaşı İstanbul / İst - Avrupa Yakası / Şehzadebaşı",
+        "telefon": "90 212 511 42 24",
+        "fax": "90 212 519 35 07",
+        "email": "info@carltonhotelistanbul.com",
+        "website": "http://www.carltonhotelistanbul.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Centro Westside İstanbul By Rotana Hotel",
+        "adress": "Mahmutbey Merkez Mah. Taşocağı Yolu Cad. No:39 Bağcılar / İstanbul / İst - Avrupa Yakası / BAĞCILAR",
+        "telefon": "+90 212 953 50 00",
+        "fax": "+90 212 953 50 60",
+        "email": "",
+        "website": "https://tr.rotana.com/centrohotels/turkey/istanbul/centrowestside",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Clarion Hotel Golden Horn",
+        "adress": "Örnektepe Mah. Sivaseli Sok. No:10 Sütlüce / Beyoğlu / İst - Avrupa Yakası / Beyoğlu",
+        "telefon": "+90 212 314 0 444",
+        "fax": "+90 212 314 04 04",
+        "email": "info@clariongoldenhorn.com",
+        "website": "http://www.clariongoldenhorn.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Delta Hotels by Marriott Istanbul West",
+        "adress": "Fatih Cd., Dereboyu sk. No. 2A, Halkalı, İstanbul",
+        "telefon": "90 212 692 00 00",
+        "fax": "90 212 692 00 01",
+        "email": "istanbul.reservations@marriott.com",
+        "website": "https://marriott.com/istdw",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Cuci Hotel Di Mare Bayramoğlu (Cuci Hotel)",
+        "adress": "Bayramoğlu Mah. Fatih Sultan Mehmet Cd. Kaptan Sok. No:11/1 Darıca / Gebze / Kocaeli",
+        "telefon": "+90 262 653 30 30",
+        "fax": "+90 262 653 13 23",
+        "email": "info@cucihotel.com",
+        "website": "http://www.cucihotel.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Darkhill Hotel",
+        "adress": "Koca Ragıp Paşa cad. No.19 Laleli İst. / İst - Avrupa Yakası / Laleli",
+        "telefon": "90 212 638 89 00",
+        "fax": "90 212 638 33 43",
+        "email": "info@darkhillhotel.com",
+        "website": "http://www.darkhillhotel.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Dila Hotel",
+        "adress": "Osmanağa mh. Mühürdar Fuat sk. No.5 Kadıköy İstanbul / İst - Anadolu Yakası / Kadıköy",
+        "telefon": "90 216 418 83 83",
+        "fax": "90 216 418 98 94",
+        "email": "info@dilahotel.com",
+        "website": "http://www.dilahotel.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Divan City İstanbul",
+        "adress": "Büyükdere Cad. No:84 Gayrettep / İstanbul / Avrupa Yakası / Gayrettepe",
+        "telefon": "90 212 337 49 00",
+        "fax": "90 212 337 49 49",
+        "email": "divancity@divan.com.tr",
+        "website": "http://www.divan.com.tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Divan Çorlu",
+        "adress": "Kazimiye Mah. Salih Omurtak Cad. No:38 / Çorlu / Tekirdağ / Marmara / Çorlu",
+        "telefon": "+90 282 684 12 00",
+        "fax": "+90 282 684 12 12",
+        "email": "sales.divancorlu@divan.com.tr",
+        "website": "http://www.divan.com.tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Dosso Dossi Sultanahmet Hotel",
+        "adress": "Alemdar Mah. Alayköşkü Cad. No:12 Sultanahmet / Fatih / İstanbul",
+        "telefon": "+90 212 526 40 90",
+        "fax": "+90 212 528 08 83",
+        "email": "info@dossodossihotels.com",
+        "website": "http://www.dossodossihotels.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Doubletree By Hilton Bodrum Marina Vista",
+        "adress": "Eski Çeşme Mah. Neyzen Tevfik Cad. No:168 Bodrum / Muğla / Ege / BODRUM",
+        "telefon": "+90 252 316 03 56",
+        "fax": "+90 252 316 03 02",
+        "email": "BodrumMarinaVista_info@hilton.com",
+        "website": "https://www.hilton.com/en/hotels/bjvmvdi-doubletree-bodrum-marina-vista/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Doubletree By Hilton Sirkeci",
+        "adress": "Nöbethane cad. Kargılı Sk. No.5 Sirkeci İstanbul / İst - Avrupa Yakası / Sirkeci",
+        "telefon": "90 212 513 25 50",
+        "fax": "90 212 522 43 59",
+        "email": "muhasebe@dtbhsirkeci.com",
+        "website": "http://doubletree3.hilton.com/tr_TR/languagegateway/index.htm",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    },
+    {
+        "title": "Elegance Resort Hotel Spa & Wellness Aqua (Elegance Resort Hotel)",
+        "adress": "Tavşanlı Beldesi Topçular Altınova Yalova / Marmara / Altınova",
+        "telefon": "90 226 465 66 22",
+        "fax": "90 226 465 66 11",
+        "email": "info@eleganceresort.com.tr",
+        "website": "http://www.eleganceresort.com.tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/4_star.png"
+    }
+]

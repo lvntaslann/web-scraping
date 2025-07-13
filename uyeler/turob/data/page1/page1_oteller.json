@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Adana HiltonSA",
+        "adress": "Sinanpaşa Mah. 1. Sok. / Akdeniz / Yüreğir",
+        "telefon": "+90 322 355 50 00",
+        "fax": "+90 322 355 50 50",
+        "email": "sales.adana@hilton.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/adana/adana-hiltonsa/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ajwa Hotels Sultanahmet",
+        "adress": "Emin Sinan Mh. Piyer Loti Cd. No:30 Fatih / İstanbul",
+        "telefon": "+90 212 638 22 14",
+        "fax": "+90 212 638 22 00",
+        "email": "info@ajwa.com.tr",
+        "website": "https://www.ajwa.com.tr/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Akgün İstanbul Hotel",
+        "adress": "Adnan Menderes Bulvarı Vatan Cad. Topkapı / Marmara / Fatih",
+        "telefon": "+90 212 534 48 79",
+        "fax": "+90 212 534 91 26",
+        "email": "info@akgunhotel.com",
+        "website": "http://www.akgunhotel.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Almira Hotel",
+        "adress": "Ulubatli Hasan Bulvarı No: 5 / Marmara / Osmangazi",
+        "telefon": "+90 224 250 20 20",
+        "fax": "+90 224 250 20 52",
+        "email": "almira@almira.com.tr",
+        "website": "http://www.almira.com.tr",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Ankara HiltonSA",
+        "adress": "Tahran Cad. No:12 Kavaklıdere / İç Anadolu / Merkez",
+        "telefon": "+90 312 455 00 00",
+        "fax": "+90 312 455 00 50",
+        "email": "sales.ankara@hilton.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/ankara/ankara-hiltonsa/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Barcelo İstanbul Hotel",
+        "adress": "Kocatepe Mah. Abdülhak Hamit Cad. No:25 Beyoğlu / İstanbul",
+        "telefon": "+90 212 377 45 45",
+        "fax": "+90 212 361 97 98",
+        "email": "istanbul@barcelo.com",
+        "website": "https://www.barcelo.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Byotell İstanbul",
+        "adress": "Saniye Ermutlu Sok. No: 3 Kozyatağı / İst - Anadolu Yakası / Kadıköy",
+        "telefon": "+90 216 571 61 00",
+        "fax": "+90 216 571 61 10",
+        "email": "info@byotell.com.trr",
+        "website": "https://www.byotell.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Conrad İstanbul Bosphorus",
+        "adress": "Cihannüma Mah. Saray Cad. No: 5 / Marmara / Beşiktaş",
+        "telefon": "+90 212 310 25 25",
+        "fax": "+90 212 259 66 67",
+        "email": "istanbulinfo@conradhotels.com",
+        "website": "http://www.hilton.com.tr/oteller/turkiye/istanbul/conrad-istanbul-bosphorus/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Asia",
+        "adress": "Dedepaşa Cad. No: 15 Kurtköy / İst - Anadolu Yakası / Pendik",
+        "telefon": "+90 216 585 6060",
+        "fax": "+90 216 585 6061",
+        "email": "info@cpistanbulasia.com",
+        "website": "http://www.cpistanbulasia.com",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Florya",
+        "adress": "Şenlikköy Mah. Yeşilköy Halkalı Cd. No:95 Florya / Bakırköy / İstanbul",
+        "telefon": "+90 212 463 05 00",
+        "fax": "+90 212 463 05 25",
+        "email": "info@cpistanbulflorya.com",
+        "website": "https://www.cpistanbulflorya.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Harbiye",
+        "adress": "Bozkurt Mah. Dolapdere Cad. No:163/1 Şişli / İstanbul",
+        "telefon": "+90 212 291 60 80",
+        "fax": "+90 212 291 91 01",
+        "email": "info@cpistanbulharbiye.com",
+        "website": "http://www.cpistanbulharbiye.com/",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    },
+    {
+        "title": "Crowne Plaza İstanbul Old City",
+        "adress": "Balabanağa Mah. Fethibey caddesi 34134 Laleli / İst - Avrupa Yakası / Fatih",
+        "telefon": "+90 212 514 90 00",
+        "fax": "+90 212 514 90 16",
+        "email": "info@cpoldcity.com",
+        "website": "https://www.ihg.com/crowneplaza/hotels/tr/tr/istanbul/istbm/hoteldetail",
+        "rating": "https://www.turob.com/public/_resources/themes/sources/assets/ui/img/icon/5_star.png"
+    }
+]
