@@ -1,0 +1,1377 @@
+{
+  "title": "Bilgisayar Sistemleri ve Ekipmanları",
+  "href": "https://www.hepsiburada.com/bilgisayar-sistemleri-ve-ekipmanlari-c-2147483646",
+  "children": [
+    {
+      "title": "Yazıcı",
+      "href": "https://www.hepsiburada.com/yazicilar-c-3013118",
+      "children": [
+        {
+          "title": "Tanklı Yazıcılar",
+          "href": "https://www.hepsiburada.com/tankli-yazici-c-80194056",
+          "children": [],
+          "category": "Tanklı Yazıcılar",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Lazer Yazıcılar",
+          "href": "https://www.hepsiburada.com/lazer-yazicilar-c-6",
+          "children": [],
+          "category": "Lazer Yazıcılar",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Mürekkep Püskürtmeli Yazıcılar (Inkjet)",
+          "href": "https://www.hepsiburada.com/murekkep-puskurtmeli-yazicilar-c-4",
+          "children": [],
+          "category": "Mürekkep Püskürtmeli Yazıcılar (Inkjet)",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Nokta Vuruşlu Yazıcılar",
+          "href": "https://www.hepsiburada.com/nokta-vuruslu-yazicilar-c-5",
+          "children": [],
+          "category": "Nokta Vuruşlu Yazıcılar",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Sarf Malzemeleri",
+          "href": "https://www.hepsiburada.com/sarf-malzemeleri-c-3013119",
+          "children": [
+            {
+              "title": "Mürekkep Kartuşları",
+              "href": "https://www.hepsiburada.com/murekkep-kartuslar-c-243",
+              "children": [
+                {
+                  "title": "Muadil",
+                  "href": "https://www.hepsiburada.com/muadil-c-80857386",
+                  "children": [],
+                  "category": "Muadil",
+                  "supercategory": "Yazıcı"
+                },
+                {
+                  "title": "Orijinal",
+                  "href": "https://www.hepsiburada.com/orijinal-c-80857385",
+                  "children": [],
+                  "category": "Orijinal",
+                  "supercategory": "Yazıcı"
+                }
+              ],
+              "category": "Mürekkep Kartuşları",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Toner",
+              "href": "https://www.hepsiburada.com/tonerler-c-320",
+              "children": [
+                {
+                  "title": "Muadil",
+                  "href": "https://www.hepsiburada.com/muadil-c-80857384",
+                  "children": [],
+                  "category": "Muadil",
+                  "supercategory": "Yazıcı"
+                },
+                {
+                  "title": "Orijinal",
+                  "href": "https://www.hepsiburada.com/orijinal-c-80857383",
+                  "children": [],
+                  "category": "Orijinal",
+                  "supercategory": "Yazıcı"
+                }
+              ],
+              "category": "Toner",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Yazıcı Şeritleri",
+              "href": "https://www.hepsiburada.com/yazici-seritleri-c-114",
+              "children": [],
+              "category": "Yazıcı Şeritleri",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Drum",
+              "href": "https://www.hepsiburada.com/bilgisayar-drumlar-c-636",
+              "children": [],
+              "category": "Drum",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Filament",
+              "href": "https://www.hepsiburada.com/filament-c-60006369",
+              "children": [],
+              "category": "Filament",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Chip",
+              "href": "https://www.hepsiburada.com/yazici-chipleri-c-60008548",
+              "children": [],
+              "category": "Chip",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Dolum Seti",
+              "href": "https://www.hepsiburada.com/dolum-seti-c-80475023",
+              "children": [],
+              "category": "Dolum Seti",
+              "supercategory": "Yazıcı"
+            }
+          ],
+          "category": "Sarf Malzemeleri",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Fotoğraf Yazıcısı",
+          "href": "https://www.hepsiburada.com/fotograf-yazicisi-c-60008974",
+          "children": [],
+          "category": "Fotoğraf Yazıcısı",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Tarayıcılar (Scanner)",
+          "href": "https://www.hepsiburada.com/tarayicilar-c-37",
+          "children": [],
+          "category": "Tarayıcılar (Scanner)",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Barkod Ürünleri",
+          "href": "https://www.hepsiburada.com/barkod-urunleri-c-162",
+          "children": [
+            {
+              "title": "Barkod, Etiket Yazıcı",
+              "href": "https://www.hepsiburada.com/barkod-yazicilar-c-106502",
+              "children": [],
+              "category": "Barkod, Etiket Yazıcı",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Barkod Okuyucu",
+              "href": "https://www.hepsiburada.com/barkod-okuyucular-c-106503",
+              "children": [],
+              "category": "Barkod Okuyucu",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "El Terminalleri",
+              "href": "https://www.hepsiburada.com/el-terminalleri-c-95088",
+              "children": [],
+              "category": "El Terminalleri",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Barkod Etiketi",
+              "href": "https://www.hepsiburada.com/barkod-etiketi-c-80131007",
+              "children": [],
+              "category": "Barkod Etiketi",
+              "supercategory": "Yazıcı"
+            },
+            {
+              "title": "Ribon",
+              "href": "https://www.hepsiburada.com/ribon-c-80137035",
+              "children": [],
+              "category": "Ribon",
+              "supercategory": "Yazıcı"
+            }
+          ],
+          "category": "Barkod Ürünleri",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "3D Yazıcılar",
+          "href": "https://www.hepsiburada.com/3d-yazici-c-60008975",
+          "children": [],
+          "category": "3D Yazıcılar",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Çiziciler",
+          "href": "https://www.hepsiburada.com/ciziciler-c-90909",
+          "children": [],
+          "category": "Çiziciler",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Süblimasyon Baskı Makinası",
+          "href": "https://www.hepsiburada.com/sublimasyon-baski-makinesi-c-80077014",
+          "children": [],
+          "category": "Süblimasyon Baskı Makinası",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Süblimasyon Kalıpları",
+          "href": "https://www.hepsiburada.com/sublimasyon-kaliplari-c-80077015",
+          "children": [],
+          "category": "Süblimasyon Kalıpları",
+          "supercategory": "Yazıcı"
+        },
+        {
+          "title": "Yazıcı Yedek Parça & Aksesuarları",
+          "href": "https://www.hepsiburada.com/yazici-yedek-parca-aksesuarlari-c-80369001",
+          "children": [],
+          "category": "Yazıcı Yedek Parça & Aksesuarları",
+          "supercategory": "Yazıcı"
+        }
+      ],
+      "category": "Yazıcı"
+    },
+    {
+      "title": "Bilgisayarlar",
+      "href": "https://www.hepsiburada.com/bilgisayarlar-c-3000500",
+      "children": [
+        {
+          "title": "Masaüstü Bilgisayar",
+          "href": "https://www.hepsiburada.com/masaustu-bilgisayarlar-c-34",
+          "children": [],
+          "category": "Masaüstü Bilgisayar",
+          "supercategory": "Bilgisayarlar"
+        },
+        {
+          "title": "Hazır Sistem",
+          "href": "https://www.hepsiburada.com/hazir-sistem-c-80561022",
+          "children": [],
+          "category": "Hazır Sistem",
+          "supercategory": "Bilgisayarlar"
+        },
+        {
+          "title": "Dizüstü Bilgisayar Laptop",
+          "href": "https://www.hepsiburada.com/laptop-notebook-dizustu-bilgisayarlar-c-98",
+          "children": [],
+          "category": "Dizüstü Bilgisayar Laptop",
+          "supercategory": "Bilgisayarlar"
+        },
+        {
+          "title": "Monitör PC (All-in-One)",
+          "href": "https://www.hepsiburada.com/monitor-bilgisayarlar-c-116465",
+          "children": [],
+          "category": "Monitör PC (All-in-One)",
+          "supercategory": "Bilgisayarlar"
+        },
+        {
+          "title": "Mini Masaüstü",
+          "href": "https://www.hepsiburada.com/mini-masaustu-bilgisayarlar-c-111001",
+          "children": [],
+          "category": "Mini Masaüstü",
+          "supercategory": "Bilgisayarlar"
+        },
+        {
+          "title": "Serverlar",
+          "href": "https://www.hepsiburada.com/serverlar-c-758",
+          "children": [],
+          "category": "Serverlar",
+          "supercategory": "Bilgisayarlar"
+        },
+        {
+          "title": "Yenilenmiş Dizüstü Bilgisayar Laptop",
+          "href": "https://www.hepsiburada.com/ikinci-el-dizustu-bilgisayar-laptop-c-80365001",
+          "children": [],
+          "category": "Yenilenmiş Dizüstü Bilgisayar Laptop",
+          "supercategory": "Bilgisayarlar"
+        },
+        {
+          "title": "Dokunmatik Pos PC",
+          "href": "https://www.hepsiburada.com/dokunmatik-pos-pc-c-80562181",
+          "children": [],
+          "category": "Dokunmatik Pos PC",
+          "supercategory": "Bilgisayarlar"
+        }
+      ],
+      "category": "Bilgisayarlar"
+    },
+    {
+      "title": "Veri Depolama",
+      "href": "https://www.hepsiburada.com/veri-depolama-urunleri-c-3013121",
+      "children": [
+        {
+          "title": "Usb Bellek",
+          "href": "https://www.hepsiburada.com/usb-bellekler-c-970",
+          "children": [],
+          "category": "Usb Bellek",
+          "supercategory": "Veri Depolama"
+        },
+        {
+          "title": "Taşınabilir Disk",
+          "href": "https://www.hepsiburada.com/tasinabilir-diskler-c-100225",
+          "children": [],
+          "category": "Taşınabilir Disk",
+          "supercategory": "Veri Depolama"
+        },
+        {
+          "title": "Taşınabilir SSD",
+          "href": "https://www.hepsiburada.com/tasinabilir-ssd-c-80081047",
+          "children": [],
+          "category": "Taşınabilir SSD",
+          "supercategory": "Veri Depolama"
+        },
+        {
+          "title": "Hafıza Kartları",
+          "href": "https://www.hepsiburada.com/hafiza-kartlari-c-111161",
+          "children": [],
+          "category": "Hafıza Kartları",
+          "supercategory": "Veri Depolama"
+        },
+        {
+          "title": "Çoklu Depolama Ünitesi (NAS)",
+          "href": "https://www.hepsiburada.com/coklu-depolama-uniteleri-nas-c-102820",
+          "children": [],
+          "category": "Çoklu Depolama Ünitesi (NAS)",
+          "supercategory": "Veri Depolama"
+        },
+        {
+          "title": "SSD (Solid State Drive)",
+          "href": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814",
+          "children": [],
+          "category": "SSD (Solid State Drive)",
+          "supercategory": "Veri Depolama"
+        }
+      ],
+      "category": "Veri Depolama"
+    },
+    {
+      "title": "Bilgisayar Bileşenleri",
+      "href": "https://www.hepsiburada.com/bilgisayar-parcalari-c-8",
+      "children": [
+        {
+          "title": "Anakartlar",
+          "href": "https://www.hepsiburada.com/anakartlar-c-152",
+          "children": [],
+          "category": "Anakartlar",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Ekran Kartları",
+          "href": "https://www.hepsiburada.com/ekran-kartlari-c-204",
+          "children": [],
+          "category": "Ekran Kartları",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Bellek (Ram)",
+          "href": "https://www.hepsiburada.com/bellek-ramler-c-47",
+          "children": [],
+          "category": "Bellek (Ram)",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "İşlemciler",
+          "href": "https://www.hepsiburada.com/islemciler-c-46",
+          "children": [],
+          "category": "İşlemciler",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Hard Diskler",
+          "href": "https://www.hepsiburada.com/hdd-harddiskler-c-100221",
+          "children": [],
+          "category": "Hard Diskler",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Bilgisayar Kasası",
+          "href": "https://www.hepsiburada.com/bilgisayar-kasalari-c-1013",
+          "children": [],
+          "category": "Bilgisayar Kasası",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Power Supply (Psu)",
+          "href": "https://www.hepsiburada.com/power-supply-psu-c-1012",
+          "children": [],
+          "category": "Power Supply (Psu)",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Optik Sürücüler",
+          "href": "https://www.hepsiburada.com/optik-suruculer-c-3009846",
+          "children": [
+            {
+              "title": "Çoklu Kopyalama Sistemleri",
+              "href": "https://www.hepsiburada.com/coklu-kopyalama-sistemleri-c-3009847",
+              "children": [],
+              "category": "Çoklu Kopyalama Sistemleri",
+              "supercategory": "Bilgisayar Bileşenleri"
+            },
+            {
+              "title": "Bluray Yazıcılar",
+              "href": "https://www.hepsiburada.com/bluray-yazicilar-c-3009848",
+              "children": [],
+              "category": "Bluray Yazıcılar",
+              "supercategory": "Bilgisayar Bileşenleri"
+            },
+            {
+              "title": "CD/DVD Yazıcılar",
+              "href": "https://www.hepsiburada.com/cd-dvd-yazicilar-c-17",
+              "children": [],
+              "category": "CD/DVD Yazıcılar",
+              "supercategory": "Bilgisayar Bileşenleri"
+            }
+          ],
+          "category": "Optik Sürücüler",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Soğutucular / Overclock",
+          "href": "https://www.hepsiburada.com/sogutucular-overclock-c-1125",
+          "children": [],
+          "category": "Soğutucular / Overclock",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Tv Kartları",
+          "href": "https://www.hepsiburada.com/tv-kartlari-c-54",
+          "children": [],
+          "category": "Tv Kartları",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Ses Kartları",
+          "href": "https://www.hepsiburada.com/ses-kartlari-c-218",
+          "children": [],
+          "category": "Ses Kartları",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "SSD (Solid State Drive)",
+          "href": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010",
+          "children": [],
+          "category": "SSD (Solid State Drive)",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Dijital Video İşleme",
+          "href": "https://www.hepsiburada.com/dijital-video-isleme-urunleri-c-589",
+          "children": [],
+          "category": "Dijital Video İşleme",
+          "supercategory": "Bilgisayar Bileşenleri"
+        },
+        {
+          "title": "Server Donanımları",
+          "href": "https://www.hepsiburada.com/server-donanimlari-c-60005722",
+          "children": [],
+          "category": "Server Donanımları",
+          "supercategory": "Bilgisayar Bileşenleri"
+        }
+      ],
+      "category": "Bilgisayar Bileşenleri"
+    },
+    {
+      "title": "Oyuncu Özel",
+      "href": "https://www.hepsiburada.com/oyuncular-ozel-bilgisayar-bilesenleri-c-86008",
+      "children": [
+        {
+          "title": "Oyun Bilgisayarı",
+          "href": "https://www.hepsiburada.com/oyun-bilgisayarlari-c-409",
+          "children": [
+            {
+              "title": "Oyuncu Masaüstü Bilgisayar",
+              "href": "https://www.hepsiburada.com/oyuncu-masaustu-bilgisayarlari-c-95582",
+              "children": [],
+              "category": "Oyuncu Masaüstü Bilgisayar",
+              "supercategory": "Oyuncu Özel"
+            },
+            {
+              "title": "Oyuncu Laptop Bilgisayar",
+              "href": "https://www.hepsiburada.com/oyuncu-laptoplari-c-95583",
+              "children": [],
+              "category": "Oyuncu Laptop Bilgisayar",
+              "supercategory": "Oyuncu Özel"
+            }
+          ],
+          "category": "Oyun Bilgisayarı",
+          "supercategory": "Oyuncu Özel"
+        },
+        {
+          "title": "Oyun Donanımları",
+          "href": "https://www.hepsiburada.com/oyuncu-donanimlari-c-499",
+          "children": [
+            {
+              "title": "Oyuncu Monitör",
+              "href": "https://www.hepsiburada.com/oyuncu-monitorleri-c-1988",
+              "children": [],
+              "category": "Oyuncu Monitör",
+              "supercategory": "Oyuncu Özel"
+            },
+            {
+              "title": "Oyuncu Mouse",
+              "href": "https://www.hepsiburada.com/oyuncu-mouselari-c-1590",
+              "children": [],
+              "category": "Oyuncu Mouse",
+              "supercategory": "Oyuncu Özel"
+            },
+            {
+              "title": "Oyuncu Klavye",
+              "href": "https://www.hepsiburada.com/oyuncu-klavyeleri-c-1190",
+              "children": [],
+              "category": "Oyuncu Klavye",
+              "supercategory": "Oyuncu Özel"
+            },
+            {
+              "title": "Oyuncu Kulaklık",
+              "href": "https://www.hepsiburada.com/oyuncu-kulakliklari-c-1196",
+              "children": [],
+              "category": "Oyuncu Kulaklık",
+              "supercategory": "Oyuncu Özel"
+            },
+            {
+              "title": "Oyuncu Mousepad",
+              "href": "https://www.hepsiburada.com/oyuncu-mousepadleri-c-1182",
+              "children": [],
+              "category": "Oyuncu Mousepad",
+              "supercategory": "Oyuncu Özel"
+            },
+            {
+              "title": "Oyuncu Ergonomik Ürünler",
+              "href": "https://www.hepsiburada.com/oyuncu-ergonomik-urunler-c-60005779",
+              "children": [],
+              "category": "Oyuncu Ergonomik Ürünler",
+              "supercategory": "Oyuncu Özel"
+            },
+            {
+              "title": "Oyuncu Masası",
+              "href": "https://www.hepsiburada.com/oyuncu-masasi-c-60005780",
+              "children": [],
+              "category": "Oyuncu Masası",
+              "supercategory": "Oyuncu Özel"
+            }
+          ],
+          "category": "Oyun Donanımları",
+          "supercategory": "Oyuncu Özel"
+        }
+      ],
+      "category": "Oyuncu Özel"
+    },
+    {
+      "title": "Tablet",
+      "href": "https://www.hepsiburada.com/tablet-c-3008012",
+      "children": [],
+      "category": "Tablet"
+    },
+    {
+      "title": "Çevre Birimleri",
+      "href": "https://www.hepsiburada.com/cevre-birimleri-c-3013120",
+      "children": [
+        {
+          "title": "Monitörler",
+          "href": "https://www.hepsiburada.com/monitorler-c-57",
+          "children": [
+            {
+              "title": "Led Monitörler",
+              "href": "https://www.hepsiburada.com/led-monitorler-c-3002879",
+              "children": [],
+              "category": "Led Monitörler",
+              "supercategory": "Çevre Birimleri"
+            },
+            {
+              "title": "IPS Monitörler",
+              "href": "https://www.hepsiburada.com/ips-monitorler-c-60000209",
+              "children": [],
+              "category": "IPS Monitörler",
+              "supercategory": "Çevre Birimleri"
+            },
+            {
+              "title": "Dokunmatik Lcd Monitörler",
+              "href": "https://www.hepsiburada.com/dokunmatik-lcd-monitorler-c-108811",
+              "children": [],
+              "category": "Dokunmatik Lcd Monitörler",
+              "supercategory": "Çevre Birimleri"
+            },
+            {
+              "title": "PLS Monitörler",
+              "href": "https://www.hepsiburada.com/pls-monitorler-c-60002242",
+              "children": [],
+              "category": "PLS Monitörler",
+              "supercategory": "Çevre Birimleri"
+            }
+          ],
+          "category": "Monitörler",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Mouse",
+          "href": "https://www.hepsiburada.com/mouse-c-52",
+          "children": [],
+          "category": "Mouse",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Klavye",
+          "href": "https://www.hepsiburada.com/klavyeler-c-1",
+          "children": [
+            {
+              "title": "Klavye & Mouse Setler",
+              "href": "https://www.hepsiburada.com/klavye-mouse-setleri-c-3007055",
+              "children": [],
+              "category": "Klavye & Mouse Setler",
+              "supercategory": "Çevre Birimleri"
+            },
+            {
+              "title": "Klavye",
+              "href": "https://www.hepsiburada.com/klavyeler-c-51",
+              "children": [],
+              "category": "Klavye",
+              "supercategory": "Çevre Birimleri"
+            }
+          ],
+          "category": "Klavye",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Güç Kaynakları Ups / Akü",
+          "href": "https://www.hepsiburada.com/bilgisayar-guc-kaynaklari-ups-aku-c-36",
+          "children": [
+            {
+              "title": "Güç Kaynakları UPS",
+              "href": "https://www.hepsiburada.com/guc-kaynaklari-ups-c-60001544",
+              "children": [],
+              "category": "Güç Kaynakları UPS",
+              "supercategory": "Çevre Birimleri"
+            },
+            {
+              "title": "Akü",
+              "href": "https://www.hepsiburada.com/bilgisayar-akuleri-c-60001545",
+              "children": [],
+              "category": "Akü",
+              "supercategory": "Çevre Birimleri"
+            }
+          ],
+          "category": "Güç Kaynakları Ups / Akü",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Ses Ve Görüntü Ürünleri",
+          "href": "https://www.hepsiburada.com/ses-goruntu-urunleri-c-18",
+          "children": [
+            {
+              "title": "Speaker",
+              "href": "https://www.hepsiburada.com/speaker-hoparlorler-c-256",
+              "children": [],
+              "category": "Speaker",
+              "supercategory": "Çevre Birimleri"
+            },
+            {
+              "title": "Kulaklık",
+              "href": "https://www.hepsiburada.com/kulakliklar-c-520",
+              "children": [
+                {
+                  "title": "Kulak İçi Kulaklık",
+                  "href": "https://www.hepsiburada.com/kulak-ici-kulakliklar-c-60004547",
+                  "children": [],
+                  "category": "Kulak İçi Kulaklık",
+                  "supercategory": "Çevre Birimleri"
+                },
+                {
+                  "title": "Kulak Üstü Kulaklık",
+                  "href": "https://www.hepsiburada.com/kulak-ustu-kulakliklar-c-60004548",
+                  "children": [],
+                  "category": "Kulak Üstü Kulaklık",
+                  "supercategory": "Çevre Birimleri"
+                },
+                {
+                  "title": "Kulaklık Aksesuarları",
+                  "href": "https://www.hepsiburada.com/kulaklik-aksesuarlari-c-100978",
+                  "children": [],
+                  "category": "Kulaklık Aksesuarları",
+                  "supercategory": "Çevre Birimleri"
+                }
+              ],
+              "category": "Kulaklık",
+              "supercategory": "Çevre Birimleri"
+            },
+            {
+              "title": "Webcam",
+              "href": "https://www.hepsiburada.com/webcamler-c-1065",
+              "children": [],
+              "category": "Webcam",
+              "supercategory": "Çevre Birimleri"
+            },
+            {
+              "title": "Mikrofon",
+              "href": "https://www.hepsiburada.com/bilgisayar-mikrofonu-c-60001543",
+              "children": [],
+              "category": "Mikrofon",
+              "supercategory": "Çevre Birimleri"
+            }
+          ],
+          "category": "Ses Ve Görüntü Ürünleri",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Grafik Tabletler",
+          "href": "https://www.hepsiburada.com/grafik-tabletler-c-217",
+          "children": [],
+          "category": "Grafik Tabletler",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Dvd/Hdd Kasaları",
+          "href": "https://www.hepsiburada.com/dvd-harddisk-kutulari-c-813",
+          "children": [],
+          "category": "Dvd/Hdd Kasaları",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Elektronik Sözlükler",
+          "href": "https://www.hepsiburada.com/elektronik-sozlukler-c-848",
+          "children": [],
+          "category": "Elektronik Sözlükler",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Usb / Firewire Ürünleri",
+          "href": "https://www.hepsiburada.com/usb-firewire-urunleri-c-639",
+          "children": [],
+          "category": "Usb / Firewire Ürünleri",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Tarayıcılar",
+          "href": "https://www.hepsiburada.com/tarayicilar-c-60003463",
+          "children": [],
+          "category": "Tarayıcılar",
+          "supercategory": "Çevre Birimleri"
+        },
+        {
+          "title": "Simülasyon Aksesuarları",
+          "href": "https://www.hepsiburada.com/simulasyon-aksesuarlari-c-80448051",
+          "children": [],
+          "category": "Simülasyon Aksesuarları",
+          "supercategory": "Çevre Birimleri"
+        }
+      ],
+      "category": "Çevre Birimleri"
+    },
+    {
+      "title": "Ağ / Modem",
+      "href": "https://www.hepsiburada.com/ag-modemler-c-3013122",
+      "children": [
+        {
+          "title": "Modemler",
+          "href": "https://www.hepsiburada.com/modemler-c-45",
+          "children": [],
+          "category": "Modemler",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Access Point",
+          "href": "https://www.hepsiburada.com/access-pointler-c-410",
+          "children": [
+            {
+              "title": "Access Pointler",
+              "href": "https://www.hepsiburada.com/access-pointler-c-80312248",
+              "children": [],
+              "category": "Access Pointler",
+              "supercategory": "Ağ / Modem"
+            },
+            {
+              "title": "Tavan Tipi Access Point",
+              "href": "https://www.hepsiburada.com/tavan-tipi-access-point-c-80312249",
+              "children": [],
+              "category": "Tavan Tipi Access Point",
+              "supercategory": "Ağ / Modem"
+            },
+            {
+              "title": "Outdoor Access Point",
+              "href": "https://www.hepsiburada.com/outdoor-access-point-c-80312250",
+              "children": [],
+              "category": "Outdoor Access Point",
+              "supercategory": "Ağ / Modem"
+            }
+          ],
+          "category": "Access Point",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "3G/4G Router",
+          "href": "https://www.hepsiburada.com/3g-4g-router-c-60005119",
+          "children": [],
+          "category": "3G/4G Router",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Router",
+          "href": "https://www.hepsiburada.com/routerlar-c-60001272",
+          "children": [],
+          "category": "Router",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Menzil Arttırıcı",
+          "href": "https://www.hepsiburada.com/menzil-arttiricilar-c-60004516",
+          "children": [],
+          "category": "Menzil Arttırıcı",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Network Aksesuarları",
+          "href": "https://www.hepsiburada.com/network-aksesuarlari-c-60001671",
+          "children": [],
+          "category": "Network Aksesuarları",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Wireless Adaptör",
+          "href": "https://www.hepsiburada.com/wireless-adaptorler-c-103939",
+          "children": [],
+          "category": "Wireless Adaptör",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Powerline Ürünleri",
+          "href": "https://www.hepsiburada.com/powerline-urunleri-c-3016744",
+          "children": [],
+          "category": "Powerline Ürünleri",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "IP Kameralar",
+          "href": "https://www.hepsiburada.com/ip-kameralar-c-97965",
+          "children": [],
+          "category": "IP Kameralar",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Switch",
+          "href": "https://www.hepsiburada.com/ag-modem-switchleri-c-121",
+          "children": [],
+          "category": "Switch",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Network Kartları",
+          "href": "https://www.hepsiburada.com/network-kartlari-c-3008077",
+          "children": [],
+          "category": "Network Kartları",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Print Server",
+          "href": "https://www.hepsiburada.com/print-serverlar-c-390",
+          "children": [],
+          "category": "Print Server",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Bluetooth Ürünler",
+          "href": "https://www.hepsiburada.com/ag-modem-bluetooth-urunleri-c-319",
+          "children": [],
+          "category": "Bluetooth Ürünler",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Ethernet Kartlar",
+          "href": "https://www.hepsiburada.com/ethernet-kartlari-c-119",
+          "children": [],
+          "category": "Ethernet Kartlar",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Antenler / Kablolar",
+          "href": "https://www.hepsiburada.com/modem-antenler-kablolar-c-2699",
+          "children": [],
+          "category": "Antenler / Kablolar",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Kabinetler",
+          "href": "https://www.hepsiburada.com/kabinet-c-60008040",
+          "children": [],
+          "category": "Kabinetler",
+          "supercategory": "Ağ / Modem"
+        },
+        {
+          "title": "Firewall",
+          "href": "https://www.hepsiburada.com/firewall-c-80774003",
+          "children": [],
+          "category": "Firewall",
+          "supercategory": "Ağ / Modem"
+        }
+      ],
+      "category": "Ağ / Modem"
+    },
+    {
+      "title": "Aksesuarlar",
+      "href": "https://www.hepsiburada.com/bilgisayar-aksesuarlari-c-42",
+      "children": [
+        {
+          "title": "Klavye Aksesuarları",
+          "href": "https://www.hepsiburada.com/klavye-aksesuarlari-c-112970",
+          "children": [],
+          "category": "Klavye Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Notebook Aksesuarları",
+          "href": "https://www.hepsiburada.com/notebook-aksesuarlari-c-115714",
+          "children": [
+            {
+              "title": "Notebook Çantaları",
+              "href": "https://www.hepsiburada.com/notebook-cantalari-c-676",
+              "children": [],
+              "category": "Notebook Çantaları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Notebook Soğutucuları",
+              "href": "https://www.hepsiburada.com/notebook-sogutuculari-c-106859",
+              "children": [],
+              "category": "Notebook Soğutucuları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Notebook Ekran Koruyucuları",
+              "href": "https://www.hepsiburada.com/notebook-ekran-koruyuculari-c-3009672",
+              "children": [],
+              "category": "Notebook Ekran Koruyucuları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Notebook Standları",
+              "href": "https://www.hepsiburada.com/notebook-standlari-c-106861",
+              "children": [],
+              "category": "Notebook Standları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Notebook Adaptörleri",
+              "href": "https://www.hepsiburada.com/notebook-adaptorleri-c-106858",
+              "children": [],
+              "category": "Notebook Adaptörleri",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Notebook Pilleri",
+              "href": "https://www.hepsiburada.com/notebook-pilleri-c-106854",
+              "children": [],
+              "category": "Notebook Pilleri",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Notebook Kilitleri",
+              "href": "https://www.hepsiburada.com/notebook-kilitleri-c-106855",
+              "children": [],
+              "category": "Notebook Kilitleri",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Nümerik Klavyeler",
+              "href": "https://www.hepsiburada.com/numerik-klavyeler-c-106856",
+              "children": [],
+              "category": "Nümerik Klavyeler",
+              "supercategory": "Aksesuarlar"
+            }
+          ],
+          "category": "Notebook Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Tablet ve iPad Aksesuarları",
+          "href": "https://www.hepsiburada.com/tablet-ipad-aksesuarlari-c-60000203",
+          "children": [
+            {
+              "title": "Tablet Kılıfları",
+              "href": "https://www.hepsiburada.com/tablet-kiliflari-c-60000818",
+              "children": [],
+              "category": "Tablet Kılıfları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Tablet Ekran Koruyucuları",
+              "href": "https://www.hepsiburada.com/tablet-ekran-koruyuculari-c-60001212",
+              "children": [],
+              "category": "Tablet Ekran Koruyucuları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Tablet Klavyeleri",
+              "href": "https://www.hepsiburada.com/tablet-klavyeleri-c-60000840",
+              "children": [],
+              "category": "Tablet Klavyeleri",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Tablet Kalemleri",
+              "href": "https://www.hepsiburada.com/tablet-kalemleri-c-60001183",
+              "children": [],
+              "category": "Tablet Kalemleri",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Tablet Kabloları",
+              "href": "https://www.hepsiburada.com/tablet-kablolari-c-60001185",
+              "children": [],
+              "category": "Tablet Kabloları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Tablet Çevirici ve Adaptör",
+              "href": "https://www.hepsiburada.com/tablet-cevirici-adaptorler-c-60001184",
+              "children": [],
+              "category": "Tablet Çevirici ve Adaptör",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Tablet Şarj Cihazları",
+              "href": "https://www.hepsiburada.com/tablet-sarj-cihazlari-c-60004337",
+              "children": [],
+              "category": "Tablet Şarj Cihazları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Tablet Standı",
+              "href": "https://www.hepsiburada.com/tablet-standlari-c-60001144",
+              "children": [],
+              "category": "Tablet Standı",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Tablet Çantaları",
+              "href": "https://www.hepsiburada.com/tablet-cantalari-c-80494050",
+              "children": [],
+              "category": "Tablet Çantaları",
+              "supercategory": "Aksesuarlar"
+            }
+          ],
+          "category": "Tablet ve iPad Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Kablolar/Swich ve Çoklayıcılar",
+          "href": "https://www.hepsiburada.com/kablo-switch-coklayicilar-c-757",
+          "children": [
+            {
+              "title": "Konnektör ve Pense",
+              "href": "https://www.hepsiburada.com/konnektor-penseler-c-105304",
+              "children": [],
+              "category": "Konnektör ve Pense",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Disk Kabloları",
+              "href": "https://www.hepsiburada.com/disk-kablolari-c-105306",
+              "children": [],
+              "category": "Disk Kabloları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Çevirici ve Adaptörler",
+              "href": "https://www.hepsiburada.com/cevirici-adaptorler-c-105307",
+              "children": [],
+              "category": "Çevirici ve Adaptörler",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Güç Kabloları",
+              "href": "https://www.hepsiburada.com/bilgisayar-guc-kablolari-c-105325",
+              "children": [],
+              "category": "Güç Kabloları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Network Kabloları",
+              "href": "https://www.hepsiburada.com/network-kablolari-c-505",
+              "children": [],
+              "category": "Network Kabloları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Usb/Seri/Paralel Kablolar",
+              "href": "https://www.hepsiburada.com/usb-seri-paralel-kablolar-c-1250",
+              "children": [],
+              "category": "Usb/Seri/Paralel Kablolar",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Ses ve Görüntü Kabloları",
+              "href": "https://www.hepsiburada.com/ses-goruntu-kablolari-c-84120",
+              "children": [],
+              "category": "Ses ve Görüntü Kabloları",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Switch Box Ve Çoklayıcılar",
+              "href": "https://www.hepsiburada.com/switch-box-coklayicilar-c-189",
+              "children": [],
+              "category": "Switch Box Ve Çoklayıcılar",
+              "supercategory": "Aksesuarlar"
+            }
+          ],
+          "category": "Kablolar/Swich ve Çoklayıcılar",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Mp3 Player Aksesuarları",
+          "href": "https://www.hepsiburada.com/mp3-player-aksesuarlari-c-98045",
+          "children": [],
+          "category": "Mp3 Player Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Taşınabilir Disk Aksesuarları",
+          "href": "https://www.hepsiburada.com/tasinabilir-disk-aksesuarlari-c-111885",
+          "children": [],
+          "category": "Taşınabilir Disk Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Usb Aksesuar",
+          "href": "https://www.hepsiburada.com/usb-aksesuarlari-c-114325",
+          "children": [],
+          "category": "Usb Aksesuar",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Mouse Pad",
+          "href": "https://www.hepsiburada.com/mouse-padleri-c-29",
+          "children": [],
+          "category": "Mouse Pad",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Temizlik Ürünleri",
+          "href": "https://www.hepsiburada.com/bilgisayar-temizlik-urunleri-c-827",
+          "children": [
+            {
+              "title": "Kompresör",
+              "href": "https://www.hepsiburada.com/bilgisayar-kompresorleri-c-83843",
+              "children": [],
+              "category": "Kompresör",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Temizleme Spreyi",
+              "href": "https://www.hepsiburada.com/temizleme-spreyi-c-60005734",
+              "children": [],
+              "category": "Temizleme Spreyi",
+              "supercategory": "Aksesuarlar"
+            }
+          ],
+          "category": "Temizlik Ürünleri",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Monitör Aksesuarları",
+          "href": "https://www.hepsiburada.com/monitor-aksesuarlari-c-98499",
+          "children": [],
+          "category": "Monitör Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Apple Aksesuarları",
+          "href": "https://www.hepsiburada.com/imac-macbook-aksesuarlari-c-60001378",
+          "children": [],
+          "category": "Apple Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "CD/DVD ve Aksesuarları",
+          "href": "https://www.hepsiburada.com/cd-dvd-aksesuarlari-c-60004413",
+          "children": [
+            {
+              "title": "Yazılabilir CD",
+              "href": "https://www.hepsiburada.com/yazilabilir-cdler-c-3011535",
+              "children": [],
+              "category": "Yazılabilir CD",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "Yazılabilir DVD",
+              "href": "https://www.hepsiburada.com/yazilabilir-dvdler-c-3011536",
+              "children": [],
+              "category": "Yazılabilir DVD",
+              "supercategory": "Aksesuarlar"
+            },
+            {
+              "title": "CD & DVD Çantaları",
+              "href": "https://www.hepsiburada.com/cd-dvd-cantalari-c-60000178",
+              "children": [],
+              "category": "CD & DVD Çantaları",
+              "supercategory": "Aksesuarlar"
+            }
+          ],
+          "category": "CD/DVD ve Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Ekran Kartı Aksesuarları",
+          "href": "https://www.hepsiburada.com/ekran-karti-aksesuarlari-c-80545011",
+          "children": [],
+          "category": "Ekran Kartı Aksesuarları",
+          "supercategory": "Aksesuarlar"
+        },
+        {
+          "title": "Ek Güvence Paketleri",
+          "href": "https://www.hepsiburada.com/ek-guvence-paketleri-c-80760000",
+          "children": [],
+          "category": "Ek Güvence Paketleri",
+          "supercategory": "Aksesuarlar"
+        }
+      ],
+      "category": "Aksesuarlar"
+    },
+    {
+      "title": "Yazılım Ürünleri",
+      "href": "https://www.hepsiburada.com/yazilim-urunleri-c-41",
+      "children": [
+        {
+          "title": "Dijital İndirilebilir Lisans",
+          "href": "https://www.hepsiburada.com/dijital-indirilebilir-lisans-c-80058013",
+          "children": [],
+          "category": "Dijital İndirilebilir Lisans",
+          "supercategory": "Yazılım Ürünleri"
+        },
+        {
+          "title": "Antivirüs ve Güvenlik",
+          "href": "https://www.hepsiburada.com/guvenlik-antivirus-programlari-c-60000207",
+          "children": [],
+          "category": "Antivirüs ve Güvenlik",
+          "supercategory": "Yazılım Ürünleri"
+        },
+        {
+          "title": "Çeviri ve Sözlük Yazılımları",
+          "href": "https://www.hepsiburada.com/ceviri-sozluk-yazilimlari-c-740",
+          "children": [],
+          "category": "Çeviri ve Sözlük Yazılımları",
+          "supercategory": "Yazılım Ürünleri"
+        },
+        {
+          "title": "Eğitim Yazılımları",
+          "href": "https://www.hepsiburada.com/egitim-yazilimlari-c-3007065",
+          "children": [],
+          "category": "Eğitim Yazılımları",
+          "supercategory": "Yazılım Ürünleri"
+        },
+        {
+          "title": "İşletim Sistemleri",
+          "href": "https://www.hepsiburada.com/bilgisayar-isletim-sistemleri-c-139",
+          "children": [],
+          "category": "İşletim Sistemleri",
+          "supercategory": "Yazılım Ürünleri"
+        },
+        {
+          "title": "Kültür ve Hobi Yazılımları",
+          "href": "https://www.hepsiburada.com/kultur-hobi-yazilimlari-c-60000204",
+          "children": [],
+          "category": "Kültür ve Hobi Yazılımları",
+          "supercategory": "Yazılım Ürünleri"
+        },
+        {
+          "title": "Office Yazılımları",
+          "href": "https://www.hepsiburada.com/office-yazilimlari-c-91410",
+          "children": [],
+          "category": "Office Yazılımları",
+          "supercategory": "Yazılım Ürünleri"
+        },
+        {
+          "title": "Tasarım Yazılımları",
+          "href": "https://www.hepsiburada.com/tasarim-yazilimlari-c-60000206",
+          "children": [],
+          "category": "Tasarım Yazılımları",
+          "supercategory": "Yazılım Ürünleri"
+        },
+        {
+          "title": "Ticari Yazılımlar",
+          "href": "https://www.hepsiburada.com/ticari-yazilimlar-c-60000208",
+          "children": [],
+          "category": "Ticari Yazılımlar",
+          "supercategory": "Yazılım Ürünleri"
+        }
+      ],
+      "category": "Yazılım Ürünleri"
+    },
+    {
+      "title": "MP3 / Ses Kayıt Cihazları",
+      "href": "https://www.hepsiburada.com/mp3-ses-kayit-cihazlari-c-3013123",
+      "children": [
+        {
+          "title": "Mp3 Player",
+          "href": "https://www.hepsiburada.com/mp3-playerlar-c-9181",
+          "children": [],
+          "category": "Mp3 Player",
+          "supercategory": "MP3 / Ses Kayıt Cihazları"
+        },
+        {
+          "title": "Ses Kayıt  Cihazları",
+          "href": "https://www.hepsiburada.com/ses-kayit-cihazlari-c-103913",
+          "children": [],
+          "category": "Ses Kayıt  Cihazları",
+          "supercategory": "MP3 / Ses Kayıt Cihazları"
+        }
+      ],
+      "category": "MP3 / Ses Kayıt Cihazları"
+    },
+    {
+      "title": "Bilgisayar Yedek Parçaları",
+      "href": "https://www.hepsiburada.com/bilgisayar-yedek-parcalari-c-60008823",
+      "children": [
+        {
+          "title": "Dizüstü Bilgisayar Laptop",
+          "href": "https://www.hepsiburada.com/dizustu-bilgisayar-laptop-yedek-parcalari-c-60008824",
+          "children": [
+            {
+              "title": "Ekran (LCD Panel)",
+              "href": "https://www.hepsiburada.com/ekran-lcd-panel-yedek-parca-c-60008834",
+              "children": [],
+              "category": "Ekran (LCD Panel)",
+              "supercategory": "Bilgisayar Yedek Parçaları"
+            },
+            {
+              "title": "Kasa & Kasa Parçaları",
+              "href": "https://www.hepsiburada.com/laptop-kasa-yedek-parcasi-c-60008835",
+              "children": [],
+              "category": "Kasa & Kasa Parçaları",
+              "supercategory": "Bilgisayar Yedek Parçaları"
+            },
+            {
+              "title": "Ekran Menteşesi",
+              "href": "https://www.hepsiburada.com/ekran-mentesesi-c-60008836",
+              "children": [],
+              "category": "Ekran Menteşesi",
+              "supercategory": "Bilgisayar Yedek Parçaları"
+            },
+            {
+              "title": "Dahili Klavye",
+              "href": "https://www.hepsiburada.com/dahili-klavye-yedek-parcalari-c-60008837",
+              "children": [],
+              "category": "Dahili Klavye",
+              "supercategory": "Bilgisayar Yedek Parçaları"
+            }
+          ],
+          "category": "Dizüstü Bilgisayar Laptop",
+          "supercategory": "Bilgisayar Yedek Parçaları"
+        },
+        {
+          "title": "Tablet",
+          "href": "https://www.hepsiburada.com/tablet-yedek-parca-c-60008825",
+          "children": [
+            {
+              "title": "Ekran (LCD Panel)",
+              "href": "https://www.hepsiburada.com/tablet-ekran-lcd-panel-c-60008826",
+              "children": [],
+              "category": "Ekran (LCD Panel)",
+              "supercategory": "Bilgisayar Yedek Parçaları"
+            },
+            {
+              "title": "Batarya",
+              "href": "https://www.hepsiburada.com/tablet-bataryasi-c-60008827",
+              "children": [],
+              "category": "Batarya",
+              "supercategory": "Bilgisayar Yedek Parçaları"
+            },
+            {
+              "title": "Tuş Takımı",
+              "href": "https://www.hepsiburada.com/tablet-tus-takimi-c-60008833",
+              "children": [],
+              "category": "Tuş Takımı",
+              "supercategory": "Bilgisayar Yedek Parçaları"
+            }
+          ],
+          "category": "Tablet",
+          "supercategory": "Bilgisayar Yedek Parçaları"
+        }
+      ],
+      "category": "Bilgisayar Yedek Parçaları"
+    }
+  ],
+  "category": "Bilgisayar Sistemleri ve Ekipmanları"
+}

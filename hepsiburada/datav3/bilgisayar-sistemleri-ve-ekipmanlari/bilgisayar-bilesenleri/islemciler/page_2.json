@@ -1,0 +1,326 @@
+[
+  {
+    "model": "AMD",
+    "title": "AMD Ryzen 9 5950X 3,4 GHz 64 MB Cache AM4 İşlemci",
+    "price": "15.299,73 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-9-5950x-3-4-ghz-64-mb-cache-am4-islemci-pm-HB00001295AK",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core Ultra 9 285K 3.7-5.7 Ghz 36MB 1851 No Fan Box",
+    "price": "30.749 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-ultra-9-285k-3-7-5-7-ghz-36mb-1851-no-fan-box-pm-HBC00007E1X4H",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Amd Ryzen 7 9800X3D Am5 Tray Islemcı",
+    "price": "24.479,04 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-7-9800x3d-am5-tray-islemci-pm-HBC000091K1T0",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core i5 12400F 2,5 GHz 18 MB Cache 1700 Pin İşlemci",
+    "price": "4.799,04 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i5-12400f-2-5-ghz-18-mb-cache-1700-pin-islemci-pm-HBC00001E41JN",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core i5 13500 2,5 GHz 24 MB Cache 1700 Pin İşlemci",
+    "price": "6.139 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i5-13500-2-5-ghz-24-mb-cache-1700-pin-islemci-pm-HBC00003N7XU0",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core i5 3470 3,2 GHz 6 MB Cache 1155 Pin İşlemci",
+    "price": "1.074,04 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i5-3470-3-2-ghz-6-mb-cache-1155-pin-islemci-pm-HB00000JHOF1",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Amd Ryzen 9 9900X 4,4 GHz 64 MB Cache AM5 İşlemci",
+    "price": "18.854 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-9-9900x-4-4-ghz-64-mb-cache-am5-islemci-pm-HBC000076UUK4",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD MD Ryzen 5 5500 3,6 GHz 16 MB Cache AM4 İşlemci TRAY",
+    "price": "3.043,99 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/md-ryzen-5-5500-3-6-ghz-16-mb-cache-am4-islemci-tray-pm-HBC000061I5DJ",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core I5-14600KF 3.50GHZ 20MB Tray",
+    "price": "7.999 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i5-14600kf-3-50ghz-20mb-tray-pm-HBC00007RDX2N",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core i5 10400F 2,9 GHz 12 MB Cache 1200 Pin İşlemci",
+    "price": "3.713,55 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i5-10400f-2-9-ghz-12-mb-cache-1200-pin-islemci-pm-HBC00000TYH5J",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Amd Ryzen 9 9950X3D 5.0ghz 128MB 170W Am5 Fansız Tray",
+    "price": "34.483,28 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-9-9950x3d-5-0ghz-128mb-170w-am5-fansiz-tray-pm-HBC000089BUET",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD RYZEN 5 5600G 19MB 6çekirdekli O/B AMD R7 AM4 65w TRAY Kutusuz+Fansız",
+    "price": "5.789 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-5-5600g-19mb-6cekirdekli-o-b-amd-r7-am4-65w-tray-kutusuz-fansiz-pm-HBC000058M9RE",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Ryzen 5 5600 3.5 Ghz 32 Mb Am4 Box (65 W) Novga Kutulu İşlemci",
+    "price": "5.349 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-5-5600-3-5-ghz-32-mb-cache-am4-islemci-pm-HBC000021L61K",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core i9 14900K 3,2 GHz 36 MB Cache 1700 Pin İşlemci",
+    "price": "21.999 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i9-14900k-3-2-ghz-36-mb-cache-1700-pin-islemci-pm-HBC000056HKKT",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Ryzen 5 3600 3,6 GHz 32 MB Cache AM4 İşlemci",
+    "price": "3.551,04 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-5-3600-3-6-ghz-32-mb-cache-am4-islemci-pm-HB00000LLPAL",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Ryzen 5 5600G 3,9 GHz 16 MB Cache AM4 İşlemci",
+    "price": "5.499 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-5-5600g-3-9-ghz-16-mb-cache-am4-islemci-pm-HBC0000268907",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core I5 14400F 4.7ghz 20MB 1700_TRAY Kutusuz, Fansız",
+    "price": "5.357,06 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i5-14400f-4-7ghz-20mb-1700-tray-kutusuz-fansiz-pm-HBC00006YASYY",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Amd Ryzen 9 9950X 4.30GHZ 64MB Am4 Tray Işlemci (Grafik Kart Var, Fan Yok)",
+    "price": "25.499 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-9-9950x-4-30ghz-64mb-am4-tray-islemci-grafik-kart-var-fan-yok-pm-HBC00006X2BKF",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Ryzen 5 7500F 3,7 GHz 32 MB Cache AM5 İşlemci",
+    "price": "6.994,33 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-5-7500f-3-7-ghz-32-mb-cache-am5-islemci-pm-HBC000058MUCL",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Cpu Core i5 4440 3,1 GHz 6 MB Cache 1150 Pin İşlemci",
+    "price": "1.038,99 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-cpu-core-i5-4440-3-1-ghz-6-mb-cache-1150-pin-islemci-pm-HBC00006QQI2F",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core Ultra 9 285K 3.7ghz- 5.7 Ghz 36MB İşlemci",
+    "price": "28.999 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-ultra-9-285k-3-7ghz-5-7-ghz-36mb-islemci-pm-HBC000077N6IL",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core 2 Quad Q6700 2.66GHZ 8mb 4 Çekirdek 775P Fansız Tray Işlemci",
+    "price": "493,39 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-2-quad-q6700-2-66ghz-8mb-4-cekirdek-775p-fansiz-tray-islemci-pm-HBC00008SUNTV",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core i5 6500 3,2 GHz 6 MB Cache 1151 Pin İşlemci",
+    "price": "1.649,99 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i5-6500-3-2-ghz-6-mb-cache-1151-pin-islemci-pm-HBC00001MJBN8",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core i7 14700KF 3,4 GHz 33 MB Cache 1700 Pin İşlemci",
+    "price": "17.999 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i7-14700kf-3-4-ghz-33-mb-cache-1700-pin-islemci-pm-HBC0000577Y4R",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Ryzen 9 7950X 4,5 GHz 64 MB Cache AM5 İşlemci",
+    "price": "22.999 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-9-7950x-4-5-ghz-64-mb-cache-am5-islemci-pm-HBC00004ZAAV0",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core I5-2,6 GHz 24 MB Cache 14. Nesil 1700P 14500 Tray Işlemci",
+    "price": "7.332 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i5-2-6-ghz-24-mb-cache-14-nesil-1700p-14500-tray-islemci-pm-HBC00008Q6TTV",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core I3-13100T 4c 2.5ghz 5mb 1700P Kutusuz Fansız Işlemci",
+    "price": "3.410 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i3-13100t-4c-2-5ghz-5mb-1700p-kutusuz-fansiz-islemci-pm-HBC00007HEKL2",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Amd Ryzen 9 9950X 4.3ghz 64MB 170W Am5 Fansız Tray",
+    "price": "27.499 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-9-9950x-4-3ghz-64mb-170w-am5-fansiz-tray-pm-HBC00007EZFUA",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core i7 2600 3,4 GHz 8 MB Cache 1155 Pin İşlemci",
+    "price": "1.495 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i7-2600-3-4-ghz-8-mb-cache-1155-pin-islemci-pm-HBC00006JBFAH",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Amd Ryzen 5 8500G Mpk 3.5ghz  65W Am5",
+    "price": "6.499 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-5-8500g-mpk-3-5ghz-65w-am5-pm-HBC000086B675",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Amd Ryzen 7 8700G 8c 4.2ghz 16MB Am5 TRAY Kutusuz Fansız Işlemci",
+    "price": "13.299,41 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-7-8700g-8c-4-2ghz-16mb-am5-tray-kutusuz-fansiz-islemci-pm-HBC00008RIFCB",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Ryzen 7 5800X3D 3,4 GHz 96 MB Cache AM4 İşlemci",
+    "price": "19.999 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-7-5800x3d-3-4-ghz-96-mb-cache-am4-islemci-pm-HBC000027MK3T",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD RYZEN 5 7500F TRAY 5.0GHZ AM5",
+    "price": "8.100 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-5-7500f-3-7-ghz-32-mb-cache-am5-islemci-pm-HBC00006473XS",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "AMD",
+    "title": "AMD Ryzen 5 5500 3,6 GHz 16 MB Cache AM4 İşlemci",
+    "price": "3.464,01 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/amd-ryzen-5-5500-3-6-ghz-16-mb-cache-am4-islemci-pm-HBC00005RMN1W",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core I7 14700F 33MB 12çekirdekli VGA Yok 1700P 65W Kutusuz+Fansız",
+    "price": "14.908,97 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i7-14700f-33mb-12cekirdekli-vga-yok-1700p-65w-kutusuz-fansiz-pm-HBC000088USQW",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel Core I3 10105 3.70GHZ 6mb Önbellek 4 Çekirdek 1200 14NM Box Işlemci (Fanlı)",
+    "price": "6.615 TL",
+    "category_url": "https://www.hepsiburada.com/islemciler-c-46?sayfa=2",
+    "product_url": "https://www.hepsiburada.com/intel-core-i3-10105-3-70ghz-6mb-onbellek-4-cekirdek-1200-14nm-box-islemci-fanli-pm-HBC000088XKXF",
+    "category": "İşlemciler",
+    "supercategory": "Bilgisayar Bileşenleri"
+  }
+]

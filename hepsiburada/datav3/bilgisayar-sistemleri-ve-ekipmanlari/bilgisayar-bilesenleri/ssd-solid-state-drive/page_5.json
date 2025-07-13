@@ -1,0 +1,317 @@
+[
+  {
+    "model": "Seagate",
+    "title": "Seagate Barracuda 510 250GB 3100-1200MB PCIe Gen3 X4 NVMe M2 SSD",
+    "price": "7.101 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/seagate-barracuda-510-250gb-3100-1200mb-pcie-gen3-x4-nvme-m2-ssd-pm-HB00000ZOLMM",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Goodram",
+    "title": "Goodram 120 GB SSD Disk CL100 2.5'' Sata Iıı Gen 2. 485 Mb/s 380 Mb/s SSDPR-CL100-120-G2",
+    "price": "4.532 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/goodram-120-gb-ssd-disk-cl100-2-5-sata-iii-gen-2-485-mb-s-380-mb-s-ssdpr-cl100-120-g2-pm-HB00000OH4JG",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Colorful",
+    "title": "Colorful Sl300 120Gb SSD",
+    "price": "677,35 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/colorful-sl300-120gb-ssd-pm-HB00000BETVN",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Goodram",
+    "title": "Goodram 480 GB SSD Disk CL100 2.5'' Sata Iıı Gen 2. 550 Mb/s 450 Mb/s SSDPR-CL100-480-G2",
+    "price": "9.731 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/goodram-480-gb-ssd-disk-cl100-2-5-sata-iii-gen-2-550-mb-s-450-mb-s-ssdpr-cl100-480-g2-pm-HB00000OH4JI",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "TwinMos",
+    "title": "TwinMos Twinmos Tm1000Gh2U 1TB 580MB-550MB Sata3 SSD",
+    "price": "5.850 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/twinmos-tm1000gh2u-1tb-580mb-550mb-sata3-ssd-pm-HBC00000BZ1JC",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Longline",
+    "title": "Longline SSD 1TB 1700MB-2500MB/s NVMe M.2 SATA M-KEY LNG2500/1TB",
+    "price": "2.459 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/longline-ssd-1tb-1700mb-2500mb-s-nvme-m-2-sata-m-key-lng2500-1tb-pm-HB00000QXC25",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Codegen",
+    "title": "Codegen 1tb 500MB-450MB/S 2.5\" Sata 3 SSD (CDG-1TB-SSD25)",
+    "price": "3.556,53 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/codegen-1tb-500mb-450mb-s-2-5-sata-3-ssd-cdg-1tb-ssd25-pm-HB00000Y58VC",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Sandisk",
+    "title": "Sandisk Extreme Pro 480GB Sata3 SSD",
+    "price": "5.508 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/sandisk-extreme-pro-480gb-sata3-ssd-pm-bd802894",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Seagate",
+    "title": "Seagate Barracuda 510 500GB 3400MB-2400MB NVMe SSD + 3 Yıl Veri Kurtarma",
+    "price": "1.999 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/seagate-barracuda-510-500gb-3400mb-2400mb-nvme-ssd-3-yil-veri-kurtarma-pm-HB00000SWOOO",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Samsung",
+    "title": "Samsung 860 Evo 2TB 560MB-520MB Sata3 SSD",
+    "price": "25.299 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/samsung-860-evo-2tb-560mb-520mb-sata3-ssd-pm-HB00000A5BLE",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Samsung",
+    "title": "Samsung 860 Evo 250GB SSD Disk MZ-76E250BW",
+    "price": "21.900 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/samsung-860-evo-250gb-ssd-disk-mz-76e250bw-pm-HB00000VLVFO",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "WD",
+    "title": "WD Wd Black 1TB 3430MB-3000MB M.2 SSD",
+    "price": "42.172,80 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/wd-black-1tb-3430mb-3000mb-m-2-ssd-pm-HB00000VUSIQ",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Patriot",
+    "title": "Patriot Vpn100-512Gm28H 512GB 3300MB-2200MB PCIe NVMe SSD",
+    "price": "19.203,85 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/patriot-vpn100-512gm28h-512gb-3300mb-2200mb-pcie-nvme-ssd-pm-HB00000P1DJ3",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Patriot",
+    "title": "Patriot Burst 480GB 560-540MB SATA3 SSD",
+    "price": "9.731 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/patriot-burst-480gb-560-540mb-sata3-ssd-pm-HB00000OHDCF",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Netac",
+    "title": "Netac N930E 512GB M.2 2280 Nvme SSD PCle Gen3X4 2080MB/S-1700MB/S",
+    "price": "11.858,34 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/netac-n930e-512gb-ssd-m-2-nvme-ssd-nt01n930e-512g-pm-HB000011AGAA",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Kingston",
+    "title": "Kingston A1000 480GB 1500MB-1000MB PCIe NVMe SSD",
+    "price": "18.929 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/kingston-a1000-480gb-1500mb-1000mb-pcie-nvme-ssd-pm-HB00000IC3QF",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Crucial",
+    "title": "Crucial MX500 500GB 560MB-510MB M.2 SATA 2280 SSD",
+    "price": "15.778 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/crucial-mx500-500gb-560mb-510mb-m-2-sata-2280-ssd-pm-HB00000BPGOI",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Kingston",
+    "title": "Kingston Uv500 480GB 520MB-500MB M.2 SSD",
+    "price": "15.745,80 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/kingston-uv500-480gb-520mb-500mb-m-2-ssd-pm-HB00000E6Z6D",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "WD",
+    "title": "WD Wd Black SN750 500 GB Nvme SSD 3470/2600 (WDS500G3X0C)",
+    "price": "9.121,52 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/wd-black-sn750-500-gb-nvme-ssd-3470-2600-wds500g3x0c-pm-HB00000NHIFX",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "WD",
+    "title": "WD Wd Sata Blue 2TB M.2 2280 SSD",
+    "price": "13.337,70 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/wd-sata-blue-2tb-m-2-2280-ssd-pm-HB00000NCTWP",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Lexar",
+    "title": "Lexar Nm610 NVMe 1TB 2100-1600MB M.2 PCIe SSD",
+    "price": "19.316,55 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/lexar-nm610-nvme-1tb-2100-1600mb-m-2-pcie-ssd-pm-HB00000VITQX",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Apacer",
+    "title": "Apacer AS2280P2 480GB 580-950MB M.2 PCIe NVMe SSD",
+    "price": "8.032 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/apacer-as2280p2-480gb-580-950mb-m-2-pcie-nvme-ssd-pm-HB00000L2FWE",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Kingspec",
+    "title": "Kingspec KingSpec NE-512GB/2280 512GB 2400MB-1900MB/S M.2 2280 SSD",
+    "price": "11.451 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/kingspec-ne-512gb-2280-512gb-2400mb-1900mb-s-m-2-2280-ssd-pm-HB00000Y4I9S",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Kingston",
+    "title": "Kingston Kc2500 500GB 3500MB-2500MB NVMe PCIe SSD",
+    "price": "19.874,30 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/kingston-kc2500-500gb-3500mb-2500mb-nvme-pcie-ssd-pm-HB00000ZH81A",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Seagate",
+    "title": "Seagate Barracuda 500GB 540MB-520MB/s Sata 3 SSD ZA500CM1A002",
+    "price": "4.099 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/seagate-barracuda-500gb-540mb-520mb-s-sata-3-ssd-za500cm1a002-pm-HB00000M01G1",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Gigabyte",
+    "title": "Gigabyte Aorus 500GB 5000MB-2500MB M.2 2280 SSD",
+    "price": "26.200 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/gigabyte-aorus-500gb-5000mb-2500mb-m-2-2280-ssd-pm-HB00000NG9YA",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Micron",
+    "title": "Micron 1100 2TB SATA 2.5\" Non SED Client Solid State Drive",
+    "price": "11.111,10 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/micron-1100-2tb-sata-2-5-non-sed-client-solid-state-drive-pm-HB00000AJB38",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Mushkin",
+    "title": "Mushkin Source 120GB 510MB-375MB M.2 Sata SSD",
+    "price": "991,09 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/mushkin-source-120gb-510mb-375mb-m-2-sata-ssd-pm-HB00000PKBG7",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Gigabyte",
+    "title": "Gigabyte Aorus Gen4 1TB 5000-4400 M.2 SSD",
+    "price": "26.250 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/gigabyte-aorus-gen4-1tb-5000-4400-m-2-ssd-pm-HBC00000BR8SJ",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Samsung",
+    "title": "Samsung 860 Pro 512GB 500MB-599MB/s Sata 3 2.5\" SSD (MZ-76P512BW)",
+    "price": "4.899 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/samsung-860-pro-512gb-500mb-599mb-s-sata-3-2-5-ssd-mz-76p512bw-pm-HB00000W3WHK",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Hikvision",
+    "title": "Hikvision E100N-1024G 1TB 560MB-510MB M.2 SSD",
+    "price": "5.198 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/hikvision-e100n-1024g-1tb-560mb-510mb-m-2-ssd-pm-HB000014V5XE",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "WD",
+    "title": "WD Wd Black 1TB 3400MB-2800MB M.2 NVMe M.2 SSD",
+    "price": "23.548,55 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/wd-black-1tb-3400mb-2800mb-m-2-nvme-m-2-ssd-pm-HB00000IV6YD",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Kingston",
+    "title": "Kingston Kc2500 250GB 3500MB-1200MB NVMe PCIe SSD",
+    "price": "12.421,38 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/kingston-kc2500-250gb-3500mb-1200mb-nvme-pcie-ssd-pm-HB00000ZH81U",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "OCZ",
+    "title": "OCZ Toshıba Ocz Rd400A 1 Tb M.2 Pcı-Ex Sata Ssd Read:2700Mb/S Write:1600Mb/S",
+    "price": "44.025,50 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/toshiba-ocz-rd400a-1-tb-m-2-pci-ex-sata-ssd-read-2700mb-s-write-1600mb-s-pm-HB000004AGAU",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  },
+  {
+    "model": "Mushkin",
+    "title": "Mushkin Pilot-E 500GB 3500MB-2300MB NVMe M.2 PCIe SSD",
+    "price": "5.088,05 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-60000010?sayfa=5",
+    "product_url": "https://www.hepsiburada.com/mushkin-pilot-e-500gb-3500mb-2300mb-nvme-m-2-pcie-ssd-pm-HB00000PKBFT",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Bilgisayar Bileşenleri"
+  }
+]

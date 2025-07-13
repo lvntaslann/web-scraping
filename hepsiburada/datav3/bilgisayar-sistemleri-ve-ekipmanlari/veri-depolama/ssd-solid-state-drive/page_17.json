@@ -1,0 +1,326 @@
+[
+  {
+    "model": "Dahua",
+    "title": "Dahua C900N 512GB 2000-1450MB Nvme SSD",
+    "price": "1.429,44 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/dahua-c900n-512gb-2000-1450mb-nvme-ssd-pm-HBC00004IVO4K",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Kingston",
+    "title": "Kingston SEDC600M-960G 960GB 560-530MBS 2.5 SATA SUNUCU SSD",
+    "price": "7.459 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/kingston-dc600m-960gb-sata3-ssd-pm-HBC00004KP41P",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Intenso",
+    "title": "Intenso Premium 1TB 2100-1700MB/S M.2 NVMe Gen3 PCIe SSD (3835460)",
+    "price": "2.778,84 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/intenso-premium-1tb-2100-1700mb-s-m-2-nvme-gen3-pcie-ssd-3835460-pm-HBC0000823LMG",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Hikvision",
+    "title": "Hikvision Hs-SSD-E1000-256G E1000 256GB 1900MB-1200MB M.2 2280 SSD",
+    "price": "7.614,84 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/hikvision-hs-ssd-e1000-256g-e1000-256gb-1900mb-1200mb-m-2-2280-ssd-pm-HB000012WX9V",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Kingspec",
+    "title": "Kingspec Pata (Ide) 8gb Mlc Solid State Disk - Siyah (Yurt Dışından)",
+    "price": "2.320,80 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/kingspec-pata-ide-8gb-mlc-solid-state-disk-siyah-yurt-disindan-p-HBCV0000120NUL",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Samsung",
+    "title": "Samsung 980 Pro 2TB 7000MB-5100MB PCIe 4.0 X4 NVMe M.2 2280 SSD",
+    "price": "9.499 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/samsung-980-pro-2tb-7000mb-5100mb-pcie-4-0-x4-nvme-m-2-2280-ssd-pm-HBC00000YRFBT",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Twinmos",
+    "title": "Twinmos NVME512GB2280AP, Alphapro, 512GB, 3600-3250MB/S, Gen3, Nvme Pcıe M.2 2280, Ssd, Tlc, 3dnand",
+    "price": "2.237,44 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/twinmos-nvme512gb2280ap-alphapro-512gb-3600-3250mb-s-gen3-nvme-pcie-m-2-2280-ssd-tlc-3dnand-pm-HBC000072MR1B",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "WD",
+    "title": "WD Wd Black SN850X, WDS800T2X0E, 8tb, 7300/6600, Gen4, Nvme Pcıe M.2 2280, SSD",
+    "price": "59.999 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/wd-black-sn850x-wds800t2x0e-8tb-7300-6600-gen4-nvme-pcie-m-2-2280-ssd-pm-HBC00008D0AQ4",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Team",
+    "title": "Team 512GB Cx2 T253X6512G0C101 530- 470MB/S SSD Sata-3 Disk",
+    "price": "2.018,88 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/team-512gb-cx2-t253x6512g0c101-530-470mb-s-ssd-sata-3-disk-pm-HBC00007T2UFR",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Kingspec",
+    "title": "Kingspec KINGSPECXF-512GB2230PCIE4-5000-4400MBS",
+    "price": "3.048 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/kingspecxf-512gb2230pcie4-5000-4400mbs-pm-HBC00008B0N3F",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Kingspec",
+    "title": "Kingspec KINGSPECNE-512GB2280PCIE3-3200-2000MBS",
+    "price": "1.580 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/kingspecne-512gb2280pcie3-3200-2000mbs-pm-HBC00008AZ8E2",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Transcend",
+    "title": "Transcend 500GB TS500GMTE110Q 1900-900MB/S M2 Nvme Gen3 Disk",
+    "price": "2.885 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/transcend-500gb-ts500gmte110q-1900-900mb-s-m2-nvme-gen3-disk-pm-HBC00008Q4IEH",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Bory",
+    "title": "Bory 256 GB Bory Sata3 R500-C256G SSD 550/510 Mbs (3 Yıl Garantili)",
+    "price": "1.284,01 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/256-gb-bory-sata3-r500-c256g-ssd-550-510-mbs-3-yil-garantili-pm-HBC000076PNK4",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "N/A",
+    "title": "Wd Green SN350, WDS100T3G0C, 1tb, 3200/2500, Gen3, Nvme Pcıe M.2, SSD",
+    "price": "3.526,41 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/wd-green-sn350-wds100t3g0c-1tb-3200-2500-gen3-nvme-pcie-m-2-ssd-pm-HBC00008AL4J7",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Hi-Level",
+    "title": "Hi-Level Ultra Series Hlv-SSD30Ult-120G 120GB 550-530MB Sata SSD",
+    "price": "798,22 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/hi-level-ultra-series-hlv-ssd30ult-120g-120gb-550-530mb-sata-ssd-pm-HBC000040Z3ZS",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Afila",
+    "title": "Afila 15-DG0000NT 128GB SSD",
+    "price": "1.074,34 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/afila-15-dg0000nt-128gb-ssd-pm-HBC00000XS1T5",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Afila",
+    "title": "Afila F751L F751LA F751LAV 128GB SSD",
+    "price": "1.074,34 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/afila-f751l-f751la-f751lav-128gb-ssd-pm-HBC00000XS1TF",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Biosis",
+    "title": "Biosis Adata 1tb Legend 860 SLEG-860-1000GCS 6000- 5000MB/S M2 Nvme Gen4 Disk",
+    "price": "3.819,08 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/adata-1tb-legend-860-sleg-860-1000gcs-6000-5000mb-s-m2-nvme-gen4-disk-pm-HBC00008JPIB3",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store HKED4161DAA2F0ZB2 U10 Ddr4 3200 Mhz 16 GB Udımm 288 Pin CL16 Pc Ram",
+    "price": "2.242,63 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-hked4161daa2f0zb2-u10-ddr4-3200-mhz-16-gb-udimm-288-pin-cl16-pc-ram-pm-HBC00006O6IMC",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel D3-S4510 SSDSC2KB480G8L 480GB 2.5\\",
+    "price": "49.571,90 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/intel-d3-s4510-ssdsc2kb480g8l-480gb-2-5-pm-HBC00008X9KDF",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store Zm-Stc9 Super Iletken 4gr Yuksek Performanslı Termal Macun Termal Iletkenlik 9.1 W/m-K",
+    "price": "1.937,99 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-zm-stc9-super-iletken-4gr-yuksek-performansli-termal-macun-termal-iletkenlik-9-1-w-m-k-pm-HBC00006O6OQI",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store Mag A850GL Pcıe5 850W 80+ Gold Power Supply",
+    "price": "13.393,55 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-mag-a850gl-pcie5-850w-80-gold-power-supply-pm-HBC00006T136P",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store Ultra 64GB Sdxc Memory Card 100MB/S",
+    "price": "1.693,99 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-ultra-64gb-sdxc-memory-card-100mb-s-pm-HBC00006O6PEZ",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store Cep Telefonu Soğutucu Fan Type C Girişli Derece Göstergeli Radyatör Soğutucu",
+    "price": "2.585,99 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-cep-telefonu-sogutucu-fan-type-c-girisli-derece-gostergeli-radyator-sogutucu-pm-HBC00006T100H",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Micron",
+    "title": "Micron 5300 Pro 3840GB Sata 2.5 Sunucu Server Datacenter SSD",
+    "price": "40.968,75 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/micron-5300-pro-3840gb-sata-2-5-sunucu-server-datacenter-ssd-pm-HBC000007PJYS",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store Silent Master 200 mm Mavi LED Fan",
+    "price": "1.106,65 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-silent-master-200-mm-mavi-led-fan-pm-HBC00006O6FFA",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Gjob",
+    "title": "Gjob Macbook Pro EMC2745 Late 2013 512GB SSD Disk Çeviricisiz Tak Kullan",
+    "price": "5.999 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/gjob-macbook-pro-emc2745-late-2013-512gb-ssd-disk-ceviricisiz-tak-kullan-pm-HBC00006BONEQ",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Lantic",
+    "title": "Lantic Lantıc LA-480 480GB Sata3 2.5 6gb/s SSD Harddısk (Solıd State Dısk)",
+    "price": "11.453 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/lantic-la-480-480gb-sata3-2-5-6gb-s-ssd-harddisk-solid-state-disk-pm-HBC00007OROVG",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store G176J Dell Uyumlu 2.5\" Disk Kızağı (R610 R620 R630 R710 R720 R730)",
+    "price": "2.105,99 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-g176j-dell-uyumlu-2-5-disk-kizagi-r610-r620-r630-r710-r720-r730-pm-HBC00006O6KYO",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store Archer T6E, AC1300 Mbps Kablosuz Dual-Band Pcı Express Adaptör",
+    "price": "6.056,99 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-archer-t6e-ac1300-mbps-kablosuz-dual-band-pci-express-adaptor-pm-HBC00006O6JTQ",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store Enso Mesh Tg 4ARGB E-Atx Midi Tower, Tempered Glass Yan Parça Oyun Pc Tower Adreslenebilir Rgb Arka Plan Aydınlatması, Iyi Kablo Yönetimi, Rgb Ağ Ön Plaka (Siyah)",
+    "price": "6.477,99 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/enso-mesh-tg-4argb-e-atx-midi-tower-tempered-glass-yan-parca-oyun-pc-tower-adreslenebilir-rgb-arka-plan-aydinlatmasi-iyi-kablo-yonetimi-rgb-ag-on-plaka-siyah-pm-HBC00007C5GJ9",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Marka",
+    "title": "Marka Hp Elıtebook 630 G11 9Y7R7ET U5-125U 16GB 512GB SSD 13.3\" Fdos",
+    "price": "39.719,90 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/hp-elitebook-630-g11-9y7r7et-u5-125u-16gb-512gb-ssd-13-3-fdos-pm-HBC00008SEH8G",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Gjob",
+    "title": "Gjob imac A1418 2013 256GB SSD Disk",
+    "price": "3.290 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/gjob-imac-a1418-2013-256gb-ssd-disk-pm-HBC00005DQB6M",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Gjob",
+    "title": "Gjob Macbook Pro EMC2881 Mid 2014 256GB SSD Diskk Çeviricis Tak Kullan",
+    "price": "3.290 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/gjob-macbook-pro-emc2881-mid-2014-256gb-ssd-diskk-ceviricis-tak-kullan-pm-HBC00005KZWK4",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Store",
+    "title": "Store Mega 2560 R3 Klon (Usb Kablo Dahil)",
+    "price": "1.940,85 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/store-mega-2560-r3-klon-usb-kablo-dahil-pm-HBC00006O6KHU",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "N/A",
+    "title": "Wd Blue SN580 500 GB Nvme™ SSD",
+    "price": "8.589,06 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=17",
+    "product_url": "https://www.hepsiburada.com/wd-blue-sn580-500-gb-nvme-ssd-pm-HBC00008PKT0C",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  }
+]

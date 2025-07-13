@@ -1,0 +1,20 @@
+[
+  {
+    "model": "Zyxel",
+    "title": "Zyxel Atp 100 Fırewall Bundle ATP100-EU0102F",
+    "price": "22.422 TL",
+    "category_url": "https://www.hepsiburada.com/firewall-c-80774003?sayfa=3",
+    "product_url": "https://www.hepsiburada.com/zyxel-atp-100-firewall-bundle-atp100-eu0102f-pm-HBC00006OOSME",
+    "category": "Firewall",
+    "supercategory": "Ağ / Modem"
+  },
+  {
+    "model": "Fortinet",
+    "title": "Fortinet Fortigate 60F Cihaz + 3 Yıl Lisans",
+    "price": "46.499 TL",
+    "category_url": "https://www.hepsiburada.com/firewall-c-80774003?sayfa=3",
+    "product_url": "https://www.hepsiburada.com/fortinet-fortigate-60f-cihaz-3-yil-lisans-pm-HBC00004J64GJ",
+    "category": "Firewall",
+    "supercategory": "Ağ / Modem"
+  }
+]

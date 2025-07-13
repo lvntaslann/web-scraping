@@ -1,0 +1,29 @@
+[
+  {
+    "model": "Goldsoft",
+    "title": "Goldsoft Alim Çocuk 3.0",
+    "price": "101,99 TL",
+    "category_url": "https://www.hepsiburada.com/kultur-hobi-yazilimlari-c-60000204",
+    "product_url": "https://www.hepsiburada.com/goldsoft-alim-cocuk-3-0-pm-by40668",
+    "category": "Kültür ve Hobi Yazılımları",
+    "supercategory": "Yazılım Ürünleri"
+  },
+  {
+    "model": "Goldsoft",
+    "title": "Goldsoft Hayatüs Sahabe",
+    "price": "150 TL",
+    "category_url": "https://www.hepsiburada.com/kultur-hobi-yazilimlari-c-60000204",
+    "product_url": "https://www.hepsiburada.com/goldsoft-hayatus-sahabe-pm-by55556",
+    "category": "Kültür ve Hobi Yazılımları",
+    "supercategory": "Yazılım Ürünleri"
+  },
+  {
+    "model": "Goldsoft",
+    "title": "Goldsoft Alim 2.0",
+    "price": "150 TL",
+    "category_url": "https://www.hepsiburada.com/kultur-hobi-yazilimlari-c-60000204",
+    "product_url": "https://www.hepsiburada.com/goldsoft-alim-2-0-pm-by55555",
+    "category": "Kültür ve Hobi Yazılımları",
+    "supercategory": "Yazılım Ürünleri"
+  }
+]

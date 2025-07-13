@@ -1,0 +1,326 @@
+[
+  {
+    "model": "Hiksemi",
+    "title": "Hiksemi Future Lite 2TB 7300MB/s - 6350MB/s Gen4x4 PCI-e NVMe M.2 2280 SSD",
+    "price": "14.400 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/hiksemi-future-lite-2tb-7300mb-s-6350mb-s-gen4x4-pci-e-nvme-m-2-2280-ssd-pm-HBC00004UC3R9",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Turbox",
+    "title": "Turbox FastLab X Sata3 520/400Mbs 1TB SSD",
+    "price": "2.646,62 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/turbox-fastlab-x-sata3-520-400mbs-1tb-ssd-pm-HBC0000034IP8",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Xnews",
+    "title": "Xnews 870 Qvo 1tb Sata 2.5\" Dahili Katı Hal Sürücüsü (Ssd) (MZ-77Q1T0)",
+    "price": "4.699 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/xnews-870-qvo-1tb-sata-2-5-dahili-kati-hal-surucusu-ssd-mz-77q1t0-pm-HBC00004OKVJP",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Sandisk",
+    "title": "Sandisk Extreme SDSSDX3N-500G-G26, 500GB, 5150/4900, Gen4, Nvme Pcıe M.2 2280, SSD",
+    "price": "2.000,52 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/sandisk-extreme-sdssdx3n-500g-g26-500gb-5150-4900-gen4-nvme-pcie-m-2-2280-ssd-pm-HBC00008R2S5F",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "MLD",
+    "title": "MLD M300 500GB Nvme 2.5\" SSD 3300-3100 Mb/s BM-22M300P13-500",
+    "price": "1.462,99 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/mld-m300-500gb-nvme-2-5-ssd-3300-3100-mb-s-bm-22m300p13-500-pm-HBC00005JZ88M",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "FLY",
+    "title": "FLY Fly FPV1000256PR 256GB PV100 M2 Nvme 3D 3300/3100 2y FPV1000256PR",
+    "price": "940,29 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/fly-fpv1000256pr-256gb-pv100-m2-nvme-3d-3300-3100-2y-fpv1000256pr-pm-HBC00003XGVJ6",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Kioxia",
+    "title": "Kioxia Kıoxıa KBG60ZNS512G 512GB 4800/4000MB/S M.2 2230 Pcı-E Nvme SSD Bulk",
+    "price": "1.651 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/kioxia-kbg60zns512g-512gb-4800-4000mb-s-m-2-2230-pci-e-nvme-ssd-bulk-pm-HBC00008923CR",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Dahua",
+    "title": "Dahua SSD-C800AS256G 550-460MB 256GB SATA3 SSD",
+    "price": "778 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/dahua-ssd-c800as256g-550-460mb-256gb-sata3-ssd-pm-HBC00004HHXJD",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Crucial",
+    "title": "Crucial P310 2tb M.2 2280 Nvme SSD Pcıe CT2000P310SSD8 7,100MB/S 6,000MB/S , 5 Yıl Garanti,gen 4",
+    "price": "7.199 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/crucial-p310-2tb-m-2-2280-nvme-ssd-pcie-ct2000p310ssd8-7-100mb-s-6-000mb-s-5-yil-garanti-gen-4-pm-HBC00007MBLZO",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "MSI",
+    "title": "MSI Msı SSD Spatıum M470 Pro Pcıe 4.0 Nvme M.2 2tb R:6000 W:5000",
+    "price": "13.777,41 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/msi-ssd-spatium-m470-pro-pcie-4-0-nvme-m-2-2tb-r-6000-w-5000-pm-HBC00008HOE1T",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "HP",
+    "title": "HP Hp FX700 8U2N3AA 512GB 6300MB/S - 3100MB/S Pcı-E Nvme M.2 2280 SSD",
+    "price": "1.789 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/hp-fx700-8u2n3aa-512gb-6300mb-s-3100mb-s-pci-e-nvme-m-2-2280-ssd-pm-HBC000062LE7V",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "PNY",
+    "title": "PNY Pny CS2230 500 GB Nvme Pcıe M.2 SSD 3300/2500 (M280CS2230-500-RB)",
+    "price": "1.590 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/pny-cs2230-500-gb-nvme-pcie-m-2-ssd-3300-2500-m280cs2230-500-rb-pm-HBC00007JDF5J",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Samsung",
+    "title": "Samsung 512GB M.2 Pcıe Nvme 3500/2500MB/S (MZ-VL45120) SSD Disk (Kutusuz)",
+    "price": "1.799 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/samsung-512gb-m-2-pcie-nvme-3500-2500mb-s-mz-vl45120-ssd-disk-kutusuz-pm-HBC0000879ZO9",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Kingston",
+    "title": "Kingston Kıngston 2,5 960GB DC600M SEDC600M/960G 560MB/S 530MB/S Sata 3 (6gb/s)",
+    "price": "10.529,99 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/kingston-2-5-960gb-dc600m-sedc600m-960g-560mb-s-530mb-s-sata-3-6gb-s-pm-HBC00006QPY7D",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Kingston",
+    "title": "Kingston A400 960GB 500-450MB SSD",
+    "price": "2.799 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/kingston-a400-960gb-500-450mb-ssd-pm-HBC00005TBV2N",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Samsung",
+    "title": "Samsung 1TB SAMSUNG 980 PRO Heatsink M.2 NVMe MZ-V8P1T0CW (Resmi Distribütör Garantili)",
+    "price": "5.499 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/samsung-980-pro-1tb-7000mb-5000mb-pcie-4-0-x4-nvme-m-2-2280-ssd-pm-HBC00000YRFBV",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "MLD",
+    "title": "MLD M800 1TB 10300 MB/s 8500 MB/s NVME 2280 Gen5x4 SSD",
+    "price": "4.479 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/mld-m800-1tb-10300-mb-s-8500-mb-s-nvme-2280-gen5x4-ssd-pm-HBC00008JZPB3",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Crucial",
+    "title": "Crucial E100 480GB Pcıe Gen4 2280 Nvme M.2 SSD (4700-2500 Mb/s) CT480E100SSD8",
+    "price": "1.487,07 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd-4700-2500-mb-s-ct480e100ssd8-pm-HBC00007VS47H",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Patriot",
+    "title": "Patriot P220 512GB 550-500MB Sata3 SSD",
+    "price": "1.483,91 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/patriot-p220-512gb-550-500mb-sata3-ssd-pm-HBC00004SVJW6",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Afox",
+    "title": "Afox SD250-120GN 120GB SSD",
+    "price": "736,41 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/afox-sd250-120gn-120gb-ssd-pm-HBC00000LHSBD",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "WD",
+    "title": "WD 8TB BLACK SN850X WDS800T2XHE 7200-6600MB/s M2 NVME GEN4 DİSK",
+    "price": "34.199,15 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/wd-8tb-black-sn850x-wds800t2x0e-7200-6600mb-s-m2-nvme-gen4-disk-pm-HBC00008DYAKK",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Lexar",
+    "title": "Lexar Lnm610 1TB 3300-2600MB M.2 NVMe SSD",
+    "price": "2.599 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/lexar-lnm610-1tb-3300-2600mb-m-2-nvme-ssd-pm-HBC000063U32H",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Intel",
+    "title": "Intel 660P 512GB 1500MB-1000MB/s NVMe M.2 QLC SSD (SSDPEKNW512G8X1)",
+    "price": "3.850 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/intel-660p-512gb-1500mb-1000mb-s-m-2-sata-ssd-ssdpeknw512g8x1-pm-HB00000IIG2N",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Sandisk",
+    "title": "Sandisk Plus 1TB 535MB-450MB Sata3 SSD",
+    "price": "4.649,91 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/sandisk-plus-1tb-535mb-450mb-sata3-ssd-pm-HB00000HMLCG",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "HP",
+    "title": "HP S700 250GB 555/515MB/s Sata 3 2.5\" SSD 2DP98AA",
+    "price": "1.727,04 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/hp-s700-250gb-555-515mb-s-sata-3-2-5-ssd-2dp98aa-pm-HB00000I8L42",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Lexar",
+    "title": "Lexar Nm610 NVMe 250GB 2100-1200MB M.2 PCIe SSD",
+    "price": "893,34 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/lexar-nm610-nvme-250gb-2100-1200mb-m-2-pcie-ssd-pm-HB00000VITQZ",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Sandisk",
+    "title": "Sandisk Ultra 2 240GB 550MB-500MB SATA3 SSD",
+    "price": "6.509,91 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/sandisk-ultra-2-240gb-550mb-500mb-sata3-ssd-pm-bd801662",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Adata",
+    "title": "Adata SU630 240GB 520-450MB SATA 3 SSD",
+    "price": "2.879,90 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/adata-su630-240gb-520-450mb-sata-3-ssd-pm-HB00000JIN5M",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Sandisk",
+    "title": "Sandisk Ultra 3D 250GB 2400MB-950MB NVMe M.2 SSD",
+    "price": "7.438,14 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/sandisk-ultra-3d-250gb-2400mb-950mb-nvme-m-2-ssd-pm-HB00000WEC2R",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Crucial",
+    "title": "Crucial BX500 480GB 540MB-500MB 3D Nand SATA SSD",
+    "price": "4.999,90 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/crucial-bx500-480gb-540mb-500mb-3d-nand-sata-ssd-pm-HB00000M9G3E",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Sandisk",
+    "title": "Sandisk Ultra 2 480GB 550MB-500MB SATA3 SSD",
+    "price": "7.439,91 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/sandisk-ultra-2-480gb-550mb-500mb-sata3-ssd-pm-bd801663",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "WD",
+    "title": "WD Wd Blue 500GB 2400MB-1750MB M.2 SSD",
+    "price": "4.250 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/wd-blue-500gb-2400mb-1750mb-m-2-ssd-pm-HB00000VUSIM",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Adata",
+    "title": "Adata XPG SX6000 Pro 512GB 2100MB-1500MB NVM 1.2 SSD",
+    "price": "3.395,19 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/adata-xpg-sx6000-pro-512gb-2100mb-1500mb-nvm-1-2-ssd-pm-HB00000KYRXH",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Acer",
+    "title": "Acer SA100 120GB 560MB-500MB SATA SSD",
+    "price": "674 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/acer-sa100-120gb-560mb-500mb-sata-ssd-pm-HBC0000033F4R",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Fury",
+    "title": "Fury E-Sport 1 Tb 550MB-500MB/S Sata3 2,5 Gaming SSD",
+    "price": "4.998 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/fury-e-sport-1-tb-550mb-500mb-s-sata3-2-5-gaming-ssd-pm-HBC0000418HKY",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  },
+  {
+    "model": "Kingston",
+    "title": "Kingston Kıngston SNV3S/4000G 6000/5000MB/S 4tb 2280 Nvme SSD",
+    "price": "12.609,03 TL",
+    "category_url": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814?sayfa=30",
+    "product_url": "https://www.hepsiburada.com/kingston-snv3s-4000g-6000-5000mb-s-4tb-2280-nvme-ssd-pm-HBC0000786FIT",
+    "category": "SSD (Solid State Drive)",
+    "supercategory": "Veri Depolama"
+  }
+]
