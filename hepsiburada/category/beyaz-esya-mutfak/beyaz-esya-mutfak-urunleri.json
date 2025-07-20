@@ -1,0 +1,914 @@
+[
+  {
+    "title": "Beyaz Eşya / Mutfak",
+    "href": "https://www.hepsiburada.com/beyaz-esya-mutfak-urunleri-c-2147483637",
+    "category": "Beyaz Eşya / Mutfak",
+    "children": [
+      {
+        "title": "Beyaz Eşya & Ankastre",
+        "href": "https://www.hepsiburada.com/beyaz-esya-ankastreler-c-235604",
+        "category": "Beyaz Eşya & Ankastre",
+        "children": [
+          {
+            "title": "Ankastre Setler",
+            "href": "https://www.hepsiburada.com/ankastre-setler-c-234329",
+            "category": "Ankastre Setler",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Aspiratörler",
+            "href": "https://www.hepsiburada.com/aspiratorler-c-22002",
+            "category": "Aspiratörler",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Bulaşık Makineleri",
+            "href": "https://www.hepsiburada.com/bulasik-makineleri-c-22156",
+            "category": "Bulaşık Makineleri",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Buzdolapları",
+            "href": "https://www.hepsiburada.com/buzdolaplari-c-22154",
+            "category": "Buzdolapları",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Çamaşır Makineleri",
+            "href": "https://www.hepsiburada.com/camasir-makineleri-c-155121",
+            "category": "Çamaşır Makineleri",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Davlumbazlar",
+            "href": "https://www.hepsiburada.com/davlumbazlar-c-22006",
+            "category": "Davlumbazlar",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Derin Dondurucular",
+            "href": "https://www.hepsiburada.com/derin-dondurucular-c-22266",
+            "category": "Derin Dondurucular",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Fırınlar",
+            "href": "https://www.hepsiburada.com/firinlar-c-22016",
+            "category": "Fırınlar",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Mikrodalga Fırınlar",
+            "href": "https://www.hepsiburada.com/mikrodalga-firinlar-c-22021",
+            "category": "Mikrodalga Fırınlar",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Kurutma Makineleri",
+            "href": "https://www.hepsiburada.com/kurutma-makineleri-c-153223",
+            "category": "Kurutma Makineleri",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Ocaklar",
+            "href": "https://www.hepsiburada.com/ocaklar-c-22026",
+            "category": "Ocaklar",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Su Sebili",
+            "href": "https://www.hepsiburada.com/su-sebilleri-c-236214",
+            "category": "Su Sebili",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Beyaz Eşya Paketi",
+            "href": "https://www.hepsiburada.com/beyaz-esya-paketleri-c-60005511",
+            "category": "Beyaz Eşya Paketi",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Beyaz Eşya Yedek Parçaları",
+            "href": "https://www.hepsiburada.com/beyaz-esya-bakim-urunleri-c-60004956",
+            "category": "Beyaz Eşya Yedek Parçaları",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Kurutmalı Çamaşır Makineleri",
+            "href": "https://www.hepsiburada.com/kurutmali-camasir-makinesi-c-80813000",
+            "category": "Kurutmalı Çamaşır Makineleri",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          },
+          {
+            "title": "Şarap Dolapları",
+            "href": "https://www.hepsiburada.com/sarap-dolabi-c-80813001",
+            "category": "Şarap Dolapları",
+            "children": [],
+            "supercategory": "Beyaz Eşya & Ankastre"
+          }
+        ]
+      },
+      {
+        "title": "Elektrikli Mutfak Aletleri",
+        "href": "https://www.hepsiburada.com/elektrikli-mutfak-aletleri-c-22001",
+        "category": "Elektrikli Mutfak Aletleri",
+        "children": [
+          {
+            "title": "Çay Makineleri",
+            "href": "https://www.hepsiburada.com/cay-makineleri-c-22005",
+            "category": "Çay Makineleri",
+            "children": [
+              {
+                "title": "Elektrikli Çay Makineleri",
+                "href": "https://www.hepsiburada.com/elektrikli-cay-makineleri-c-60006400",
+                "category": "Elektrikli Çay Makineleri",
+                "children": [],
+                "supercategory": "Elektrikli Mutfak Aletleri"
+              },
+              {
+                "title": "Semaverler",
+                "href": "https://www.hepsiburada.com/semaverler-c-231428",
+                "category": "Semaverler",
+                "children": [],
+                "supercategory": "Elektrikli Mutfak Aletleri"
+              }
+            ],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Kahve Makineleri",
+            "href": "https://www.hepsiburada.com/kahve-makineleri-c-22348",
+            "category": "Kahve Makineleri",
+            "children": [
+              {
+                "title": "Türk Kahvesi Makineleri",
+                "href": "https://www.hepsiburada.com/turk-kahvesi-makineleri-c-60006398",
+                "category": "Türk Kahvesi Makineleri",
+                "children": [],
+                "supercategory": "Elektrikli Mutfak Aletleri"
+              },
+              {
+                "title": "Filtre Kahve Makineleri",
+                "href": "https://www.hepsiburada.com/filtre-kahve-makineleri-c-60006399",
+                "category": "Filtre Kahve Makineleri",
+                "children": [],
+                "supercategory": "Elektrikli Mutfak Aletleri"
+              },
+              {
+                "title": "Espresso & Cappuccino Kahve Makineleri",
+                "href": "https://www.hepsiburada.com/espresso-cappuccino-makineleri-c-60003707",
+                "category": "Espresso & Cappuccino Kahve Makineleri",
+                "children": [],
+                "supercategory": "Elektrikli Mutfak Aletleri"
+              },
+              {
+                "title": "Kapsül Kahve Makineleri",
+                "href": "https://www.hepsiburada.com/kapsul-kahve-makineleri-c-60004624",
+                "category": "Kapsül Kahve Makineleri",
+                "children": [],
+                "supercategory": "Elektrikli Mutfak Aletleri"
+              },
+              {
+                "title": "Kahve Değirmeni & Öğütücüler",
+                "href": "https://www.hepsiburada.com/kahve-degirmeni-ogutuculeri-c-237199",
+                "category": "Kahve Değirmeni & Öğütücüler",
+                "children": [],
+                "supercategory": "Elektrikli Mutfak Aletleri"
+              },
+              {
+                "title": "Aksesuarlar",
+                "href": "https://www.hepsiburada.com/kahve-makinesi-aksesuarlari-c-60003708",
+                "category": "Aksesuarlar",
+                "children": [],
+                "supercategory": "Elektrikli Mutfak Aletleri"
+              }
+            ],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Blender",
+            "href": "https://www.hepsiburada.com/blenderlar-c-22003",
+            "category": "Blender",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Tost Makineleri",
+            "href": "https://www.hepsiburada.com/tost-makineleri-c-22014",
+            "category": "Tost Makineleri",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Mutfak Şefi",
+            "href": "https://www.hepsiburada.com/mutfak-sefi-c-232495",
+            "category": "Mutfak Şefi",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Meyve Sıkıcıları",
+            "href": "https://www.hepsiburada.com/meyve-sikacaklari-c-22020",
+            "category": "Meyve Sıkıcıları",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Fritözler",
+            "href": "https://www.hepsiburada.com/fritozler-c-22017",
+            "category": "Fritözler",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Mini/Midi Fırınlar",
+            "href": "https://www.hepsiburada.com/mini-midi-firinlar-c-233088",
+            "category": "Mini/Midi Fırınlar",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Buharlı Pişiriciler",
+            "href": "https://www.hepsiburada.com/buharli-pisiriciler-c-231596",
+            "category": "Buharlı Pişiriciler",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Doğrayıcılar/Rondolar",
+            "href": "https://www.hepsiburada.com/dograyicilar-rondolar-c-22008",
+            "category": "Doğrayıcılar/Rondolar",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Elektrikli Izgara-Barbekü",
+            "href": "https://www.hepsiburada.com/elektrikli-izgara-barbekuler-c-22013",
+            "category": "Elektrikli Izgara-Barbekü",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Elektrikli Tencere/Tavalar",
+            "href": "https://www.hepsiburada.com/elektrikli-tencere-tavalar-c-232541",
+            "category": "Elektrikli Tencere/Tavalar",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Ekmek Kızartıcılar",
+            "href": "https://www.hepsiburada.com/ekmek-kizarticilar-c-22009",
+            "category": "Ekmek Kızartıcılar",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Ekmek Yapma Makinesi",
+            "href": "https://www.hepsiburada.com/ekmek-yapma-makineleri-c-22276",
+            "category": "Ekmek Yapma Makinesi",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Kıyma Makineleri",
+            "href": "https://www.hepsiburada.com/kiyma-makineleri-c-22018",
+            "category": "Kıyma Makineleri",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Mısır Patlatma Makineleri",
+            "href": "https://www.hepsiburada.com/misir-patlatma-makineleri-c-22056",
+            "category": "Mısır Patlatma Makineleri",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Mikserler",
+            "href": "https://www.hepsiburada.com/mikserler-c-22022",
+            "category": "Mikserler",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Mutfak Robotları",
+            "href": "https://www.hepsiburada.com/mutfak-robotlari-c-22025",
+            "category": "Mutfak Robotları",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Su Isıtıcılar",
+            "href": "https://www.hepsiburada.com/su-isiticilar-c-22027",
+            "category": "Su Isıtıcılar",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Waffle Makineleri",
+            "href": "https://www.hepsiburada.com/waffle-makineleri-c-231689",
+            "category": "Waffle Makineleri",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Yoğurt Makineleri",
+            "href": "https://www.hepsiburada.com/yogurt-makineleri-c-232334",
+            "category": "Yoğurt Makineleri",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Yumurta Pişirme Cihazları",
+            "href": "https://www.hepsiburada.com/yumurta-pisirme-cihazlari-c-17003942",
+            "category": "Yumurta Pişirme Cihazları",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Özel Mutfak Aletleri",
+            "href": "https://www.hepsiburada.com/ozel-mutfak-aletleri-c-60002403",
+            "category": "Özel Mutfak Aletleri",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Endüstriyel Mutfak Ürünleri",
+            "href": "https://www.hepsiburada.com/endustriyel-mutfak-urunleri-c-60003096",
+            "category": "Endüstriyel Mutfak Ürünleri",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Mutfak Tartıları",
+            "href": "https://www.hepsiburada.com/mutfak-tartilari-c-60003748",
+            "category": "Mutfak Tartıları",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Soda Makinesi",
+            "href": "https://www.hepsiburada.com/soda-makinesi-c-60005961",
+            "category": "Soda Makinesi",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Elektrikli Mutfak Aleti Yedek Parça & Aksesuarları",
+            "href": "https://www.hepsiburada.com/elektrikli-mutfak-aleti-yedek-parca-aksesuarlari-c-80168015",
+            "category": "Elektrikli Mutfak Aleti Yedek Parça & Aksesuarları",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          },
+          {
+            "title": "Elektrikli Çeyiz Seti",
+            "href": "https://www.hepsiburada.com/elektrikli-ceyiz-seti-c-80752000",
+            "category": "Elektrikli Çeyiz Seti",
+            "children": [],
+            "supercategory": "Elektrikli Mutfak Aletleri"
+          }
+        ]
+      },
+      {
+        "title": "Mutfak Gereçleri",
+        "href": "https://www.hepsiburada.com/mutfak-gerecleri-c-22500",
+        "category": "Mutfak Gereçleri",
+        "children": [
+          {
+            "title": "Endüstriyel Mutfak Gereçleri",
+            "href": "https://www.hepsiburada.com/endustriyel-mutfak-gerecleri-c-60005528",
+            "category": "Endüstriyel Mutfak Gereçleri",
+            "children": [],
+            "supercategory": "Mutfak Gereçleri"
+          },
+          {
+            "title": "Yemek Hazırlama",
+            "href": "https://www.hepsiburada.com/yemek-hazirlama-gerecleri-c-80320060",
+            "category": "Yemek Hazırlama",
+            "children": [
+              {
+                "title": "Servis Aletleri",
+                "href": "https://www.hepsiburada.com/servis-aletleri-c-60003764",
+                "category": "Servis Aletleri",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Bıçaklar",
+                "href": "https://www.hepsiburada.com/bicaklar-rendeler-c-238128",
+                "category": "Bıçaklar",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Mutfak Ekipmanları",
+                "href": "https://www.hepsiburada.com/mutfak-ekipmanlari-c-237529",
+                "category": "Mutfak Ekipmanları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Kesme Tahtası",
+                "href": "https://www.hepsiburada.com/kesme-tahtalari-c-231987",
+                "category": "Kesme Tahtası",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Rendeler",
+                "href": "https://www.hepsiburada.com/rendeler-c-60003718",
+                "category": "Rendeler",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Meyve & Sebze Soyacağı",
+                "href": "https://www.hepsiburada.com/meyve-sebze-soyacagi-c-80320061",
+                "category": "Meyve & Sebze Soyacağı",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Pratik Mutfak Aletleri",
+                "href": "https://www.hepsiburada.com/pratik-mutfak-aletleri-c-233318",
+                "category": "Pratik Mutfak Aletleri",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Sarımsak & Patates Ezici",
+                "href": "https://www.hepsiburada.com/sarimsak-patates-ezici-c-80320063",
+                "category": "Sarımsak & Patates Ezici",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Süzgeç",
+                "href": "https://www.hepsiburada.com/suzgec-c-80320064",
+                "category": "Süzgeç",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Yumurta Fırçası",
+                "href": "https://www.hepsiburada.com/yumurta-fircasi-c-80322218",
+                "category": "Yumurta Fırçası",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Çırpıcı",
+                "href": "https://www.hepsiburada.com/cirpici-c-80322221",
+                "category": "Çırpıcı",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Limon Sıkacağı",
+                "href": "https://www.hepsiburada.com/limon-sikacagi-c-80667012",
+                "category": "Limon Sıkacağı",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Şiş",
+                "href": "https://www.hepsiburada.com/sis-c-60005542",
+                "category": "Şiş",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              }
+            ],
+            "supercategory": "Mutfak Gereçleri"
+          },
+          {
+            "title": "Pişirme",
+            "href": "https://www.hepsiburada.com/pisirme-c-80667013",
+            "category": "Pişirme",
+            "children": [
+              {
+                "title": "Tencere Setleri/Tencereler",
+                "href": "https://www.hepsiburada.com/tencere-setleri-tencereler-c-22535",
+                "category": "Tencere Setleri/Tencereler",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Tavalar",
+                "href": "https://www.hepsiburada.com/tavalar-c-22203",
+                "category": "Tavalar",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Düdüklü Tencereler",
+                "href": "https://www.hepsiburada.com/duduklu-tencereler-c-17006471",
+                "category": "Düdüklü Tencereler",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Tencere Yedek Parçaları & Aksesuarları",
+                "href": "https://www.hepsiburada.com/tencere-yedek-parcalari-aksesuarlari-c-80696037",
+                "category": "Tencere Yedek Parçaları & Aksesuarları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              }
+            ],
+            "supercategory": "Mutfak Gereçleri"
+          },
+          {
+            "title": "Fırında Pişirme",
+            "href": "https://www.hepsiburada.com/firin-kaplari-kek-kaliplari-c-232420",
+            "category": "Fırında Pişirme",
+            "children": [
+              {
+                "title": "Kek Kalıbı",
+                "href": "https://www.hepsiburada.com/kek-kalibi-c-80349335",
+                "category": "Kek Kalıbı",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Fırın Tepsisi",
+                "href": "https://www.hepsiburada.com/firin-tepsisi-c-80349336",
+                "category": "Fırın Tepsisi",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Cam Tepsi",
+                "href": "https://www.hepsiburada.com/cam-tepsi-c-80349337",
+                "category": "Cam Tepsi",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Kurabiye Kalıbı",
+                "href": "https://www.hepsiburada.com/kurabiye-kalibi-c-80349338",
+                "category": "Kurabiye Kalıbı",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Güveç",
+                "href": "https://www.hepsiburada.com/guvec-c-80349339",
+                "category": "Güveç",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Pasta Malzemeleri",
+                "href": "https://www.hepsiburada.com/pasta-malzemeleri-c-80349340",
+                "category": "Pasta Malzemeleri",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              }
+            ],
+            "supercategory": "Mutfak Gereçleri"
+          },
+          {
+            "title": "Sofra, Servis & Sunum",
+            "href": "https://www.hepsiburada.com/sofra-servis-sunum-c-80667016",
+            "category": "Sofra, Servis & Sunum",
+            "children": [
+              {
+                "title": "Sosluk",
+                "href": "https://www.hepsiburada.com/sosluklar-c-233761",
+                "category": "Sosluk",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Yemek Takımları",
+                "href": "https://www.hepsiburada.com/yemek-takimlari-c-60006075",
+                "category": "Yemek Takımları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Çatal, Kaşık & Bıçaklar",
+                "href": "https://www.hepsiburada.com/catal-kasik-bicak-takimlari-c-235155",
+                "category": "Çatal, Kaşık & Bıçaklar",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Kahvaltı Takımları",
+                "href": "https://www.hepsiburada.com/kahvalti-takimlari-c-17008153",
+                "category": "Kahvaltı Takımları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Kahvaltılıklar",
+                "href": "https://www.hepsiburada.com/kahvaltiliklar-c-80516058",
+                "category": "Kahvaltılıklar",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Servis Tabakları",
+                "href": "https://www.hepsiburada.com/servis-tabaklari-c-60001309",
+                "category": "Servis Tabakları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Bardaklar",
+                "href": "https://www.hepsiburada.com/bardaklar-c-60003715",
+                "category": "Bardaklar",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Sürahiler",
+                "href": "https://www.hepsiburada.com/surahiler-c-60003714",
+                "category": "Sürahiler",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Çerezlik",
+                "href": "https://www.hepsiburada.com/cerezlik-c-80327171",
+                "category": "Çerezlik",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Kase",
+                "href": "https://www.hepsiburada.com/kase-c-80327170",
+                "category": "Kase",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Servis Tepsileri",
+                "href": "https://www.hepsiburada.com/servis-tepsileri-c-231026",
+                "category": "Servis Tepsileri",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Baharat Setleri",
+                "href": "https://www.hepsiburada.com/baharat-setleri-c-231925",
+                "category": "Baharat Setleri",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              }
+            ],
+            "supercategory": "Mutfak Gereçleri"
+          },
+          {
+            "title": "Çay & Kahve Demleme",
+            "href": "https://www.hepsiburada.com/caydanlik-cezveler-c-22530",
+            "category": "Çay & Kahve Demleme",
+            "children": [
+              {
+                "title": "Çaydanlıklar",
+                "href": "https://www.hepsiburada.com/caydanliklar-c-60003716",
+                "category": "Çaydanlıklar",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Cezveler",
+                "href": "https://www.hepsiburada.com/cezveler-c-60003717",
+                "category": "Cezveler",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Moka Pot",
+                "href": "https://www.hepsiburada.com/moka-pot-c-80167023",
+                "category": "Moka Pot",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "French Press",
+                "href": "https://www.hepsiburada.com/french-press-c-80167024",
+                "category": "French Press",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Çay Süzgeci",
+                "href": "https://www.hepsiburada.com/cay-suzgeci-c-80167025",
+                "category": "Çay Süzgeci",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Sifon Kahve",
+                "href": "https://www.hepsiburada.com/sifon-kahve-c-80167026",
+                "category": "Sifon Kahve",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Demlikler",
+                "href": "https://www.hepsiburada.com/demlik-c-80297163",
+                "category": "Demlikler",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              }
+            ],
+            "supercategory": "Mutfak Gereçleri"
+          },
+          {
+            "title": "Saklama, Düzenleme",
+            "href": "https://www.hepsiburada.com/ekmek-kutusu-saklama-kaplari-c-231100",
+            "category": "Saklama, Düzenleme",
+            "children": [
+              {
+                "title": "Saklama Kapları",
+                "href": "https://www.hepsiburada.com/saklama-kaplari-c-60003720",
+                "category": "Saklama Kapları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Ekmek Kutusu",
+                "href": "https://www.hepsiburada.com/ekmek-kutulari-c-239793",
+                "category": "Ekmek Kutusu",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Kavanoz",
+                "href": "https://www.hepsiburada.com/kavanoz-c-80330139",
+                "category": "Kavanoz",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Bulaşık Sepetleri",
+                "href": "https://www.hepsiburada.com/bulasik-sepetleri-c-60003719",
+                "category": "Bulaşık Sepetleri",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Sebzelikler",
+                "href": "https://www.hepsiburada.com/sebzelikler-c-239208",
+                "category": "Sebzelikler",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Kaşıklık",
+                "href": "https://www.hepsiburada.com/kasiklik-c-80667014",
+                "category": "Kaşıklık",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Organizer",
+                "href": "https://www.hepsiburada.com/organizer-c-80667015",
+                "category": "Organizer",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              }
+            ],
+            "supercategory": "Mutfak Gereçleri"
+          },
+          {
+            "title": "Termoslar",
+            "href": "https://www.hepsiburada.com/termoslar-c-236712",
+            "category": "Termoslar",
+            "children": [],
+            "supercategory": "Mutfak Gereçleri"
+          },
+          {
+            "title": "Çeyiz Setleri",
+            "href": "https://www.hepsiburada.com/ceyiz-setleri-c-80167008",
+            "category": "Çeyiz Setleri",
+            "children": [
+              {
+                "title": "Çeyiz Yemek Takımları",
+                "href": "https://www.hepsiburada.com/ceyiz-yemek-takimlari-c-80168030",
+                "category": "Çeyiz Yemek Takımları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Çeyiz Çatal, Kaşık & Bıçak Takımları",
+                "href": "https://www.hepsiburada.com/ceyiz-catal-kasik-bicak-takimlari-c-80168032",
+                "category": "Çeyiz Çatal, Kaşık & Bıçak Takımları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Çeyiz Tencereleri",
+                "href": "https://www.hepsiburada.com/ceyiz-tencereleri-c-80168033",
+                "category": "Çeyiz Tencereleri",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              },
+              {
+                "title": "Çeyiz Tavaları",
+                "href": "https://www.hepsiburada.com/ceyiz-tavalari-c-80168034",
+                "category": "Çeyiz Tavaları",
+                "children": [],
+                "supercategory": "Mutfak Gereçleri"
+              }
+            ],
+            "supercategory": "Mutfak Gereçleri"
+          }
+        ]
+      },
+      {
+        "title": "Ev Gereçleri",
+        "href": "https://www.hepsiburada.com/ev-gerecleri-c-60001549",
+        "category": "Ev Gereçleri",
+        "children": [
+          {
+            "title": "Ütü Masaları ve Aksesuarları",
+            "href": "https://www.hepsiburada.com/utu-masalari-aksesuarlari-c-60001551",
+            "category": "Ütü Masaları ve Aksesuarları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Çamaşır Kurutma Askıları",
+            "href": "https://www.hepsiburada.com/camasir-kurutma-askilari-c-60001552",
+            "category": "Çamaşır Kurutma Askıları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Pratik Ev Gereçleri",
+            "href": "https://www.hepsiburada.com/pratik-ev-gerecleri-c-60003184",
+            "category": "Pratik Ev Gereçleri",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Elbise Askıları",
+            "href": "https://www.hepsiburada.com/elbise-askilari-c-60002194",
+            "category": "Elbise Askıları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Çöp Kovaları",
+            "href": "https://www.hepsiburada.com/cop-kovalari-c-60002925",
+            "category": "Çöp Kovaları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Fırça ve Moplar",
+            "href": "https://www.hepsiburada.com/firca-moplar-c-60002920",
+            "category": "Fırça ve Moplar",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Pazar Arabaları",
+            "href": "https://www.hepsiburada.com/pazar-arabalari-c-60002215",
+            "category": "Pazar Arabaları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Oda Kokuları",
+            "href": "https://www.hepsiburada.com/oda-kokulari-c-60002924",
+            "category": "Oda Kokuları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Temizlik Bezleri",
+            "href": "https://www.hepsiburada.com/temizlik-bezleri-c-60002922",
+            "category": "Temizlik Bezleri",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Plastik Temizlik Malzemeleri",
+            "href": "https://www.hepsiburada.com/plastik-temizlik-malzemeleri-c-60002919",
+            "category": "Plastik Temizlik Malzemeleri",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          }
+        ]
+      }
+    ]
+  }
+]

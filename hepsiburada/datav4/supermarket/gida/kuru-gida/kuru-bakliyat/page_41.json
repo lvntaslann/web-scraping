@@ -1,0 +1,200 @@
+[
+  {
+    "model": "Yazar",
+    "title": "Yeşil Mercimek 25 kg",
+    "price": "2.857,97 TL",
+    "rating": "4,5",
+    "evaluation": "(2)",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/yazar-yesil-mercimek-25-kg-pm-HB00000HN0FR",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Yazar",
+    "title": "Iri Pilavlık Bulgur 25 kg",
+    "price": "1.367,88 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/yazar-iri-pilavlik-bulgur-25-kg-pm-HB000013EUC2",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Yazar",
+    "title": "Orti Osmancık Pirinç 5 kg x 4 Paket",
+    "price": "1.733,04 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/orti-osmancik-pirinc-5-kg-x-4-paket-pm-HBC00004EADLW",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Yazar",
+    "title": "Orti Kuru Fasulye 25 Kg.",
+    "price": "2.353,14 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/yazar-orti-kuru-fasulye-25-kg-pm-HBC00004IMUP0",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Yazar",
+    "title": "Yerli Aşurelik Buğday 1 Kg. x 5 Paket",
+    "price": "302,82 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/yazar-yerli-asurelik-bugday-1-kg-x-5-paket-pm-HB000013V4XB",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Memişoğlu Baharat",
+    "title": "Kara Buğday 250 gr",
+    "price": "109 TL",
+    "rating": "4,7",
+    "evaluation": "(3)",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/memisoglu-baharat-kara-bugday-250-gr-pm-HB000003U3JR",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Aktarix",
+    "title": "50 gr Bakla Içi / Kuru Bakla",
+    "price": "87,50 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/50-gr-bakla-ici-kuru-bakla-p-HBCV000083UXJB",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Naturus",
+    "title": "Glutensiz Baldo Pirinç 750G",
+    "price": "199,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/naturus-glutensiz-baldo-pirinc-750g-pm-HBC00008HQ5IH",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Scotti",
+    "title": "Hakumaki Susi Pirinci 500 gr",
+    "price": "316,50 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/scotti-hakumaki-susi-pirinci-500-gr-pm-HBC000014QTM8",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Aktarix",
+    "title": "1 kg Glutensiz Chia Tohumu Unu",
+    "price": "302,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/aktarix-1-kg-glutensiz-chia-tohumu-unu-pm-HBC000084IC51",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Aktarcınız",
+    "title": "Akbaş Orta Bulgur 1 kg",
+    "price": "129,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/aktarciniz-akbas-orta-bulgur-1-kg-pm-HBC00008VMQ5Y",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Aktarix",
+    "title": "1 kg Beyaz Chia Tohumu + 1 kg Siyah Chia Tohumu",
+    "price": "511,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/aktarix-1-kg-beyaz-chia-tohumu-1-kg-siyah-chia-tohumu-pm-HBC000084IBET",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Anadoludan Gelsin",
+    "title": "Doğal Yerli Kırmızı Mercimek",
+    "price": "199,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/anadoludan-gelsin-dogal-yerli-kirmizi-mercimek-p-HBCV00005CRI4J",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Duru Bakliyat",
+    "title": "Duru Baldo Pirinç 1 kg x 4'lü",
+    "price": "615 TL",
+    "rating": "5",
+    "evaluation": "(3)",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/duru-bakliyat-duru-baldo-pirinc-1-kg-x-4-lu-pm-HBC000003YRKX",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Aktarix",
+    "title": "50 gr Beyaz Sorgum Tohumu",
+    "price": "85,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/50-gr-beyaz-sorgum-tohumu-p-HBCV000083UY3S",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Duru",
+    "title": "Dermason Fasülye Baldo Pirinç Seti",
+    "price": "440,22 TL",
+    "rating": "4,3",
+    "evaluation": "(4)",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/duru-dermason-fasulye-baldo-pirinc-seti-pm-HB00000PPQXJ",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Kakulem",
+    "title": "Sertifikalı Filizlendirilmiş Glutensiz Maş Fasulyesi 1 kg",
+    "price": "299,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/sertifikali-filizlendirilmis-glutensiz-mas-fasulyesi-1-kg-pm-HBC00006W0J7C",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  },
+  {
+    "model": "Aktarcınız",
+    "title": "Birlik Kalyon Baldo Pirinç 1 kg",
+    "price": "249,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuru-bakliyatlar-c-28001582?sayfa=41",
+    "product_url": "https://www.hepsiburada.com/aktarciniz-birlik-kalyon-baldo-pirinc-1-kg-pm-HBC00008VROA8",
+    "category": "Kuru Bakliyat",
+    "supercategory": "Gıda"
+  }
+]

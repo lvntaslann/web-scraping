@@ -1,0 +1,804 @@
+[
+  {
+    "title": "Ev Elektroniği",
+    "href": "https://www.hepsiburada.com/ev-elektronik-urunleri-c-2147483638",
+    "category": "Ev Elektroniği",
+    "children": [
+      {
+        "title": "Ses ve Görüntü Sistemleri",
+        "href": "https://www.hepsiburada.com/ses-goruntu-sistemleri-c-17201",
+        "category": "Ses ve Görüntü Sistemleri",
+        "children": [
+          {
+            "title": "Televizyon, LED Ekran",
+            "href": "https://www.hepsiburada.com/led-tv-televizyonlar-c-163192",
+            "category": "Televizyon, LED Ekran",
+            "children": [],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "Bluetooth Hoparlör",
+            "href": "https://www.hepsiburada.com/bluetooth-hoparlorler-c-60004557",
+            "category": "Bluetooth Hoparlör",
+            "children": [],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "Ev Sinema Sistemleri",
+            "href": "https://www.hepsiburada.com/ev-sinema-sistemleri-c-152492",
+            "category": "Ev Sinema Sistemleri",
+            "children": [
+              {
+                "title": "Sinema Sistemi",
+                "href": "https://www.hepsiburada.com/ev-sinema-sistemleri-c-60007251",
+                "category": "Sinema Sistemi",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "DVD Oynatıcılar",
+                "href": "https://www.hepsiburada.com/dvd-oynaticilar-c-157458",
+                "category": "DVD Oynatıcılar",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Blu-Ray ve DVD Oynatıcılar",
+                "href": "https://www.hepsiburada.com/dvd-blu-ray-oynaticilar-c-155124",
+                "category": "Blu-Ray ve DVD Oynatıcılar",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Receiver Amfiler",
+                "href": "https://www.hepsiburada.com/amfi-receiver-c-60008219",
+                "category": "Receiver Amfiler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Media Player",
+                "href": "https://www.hepsiburada.com/media-player-c-80271010",
+                "category": "Media Player",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Hoparlör Ayakları & Askıları",
+                "href": "https://www.hepsiburada.com/hoparlor-ayaklari-askilari-c-17290",
+                "category": "Hoparlör Ayakları & Askıları",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Soundbar",
+                "href": "https://www.hepsiburada.com/soundbar-c-60008218",
+                "category": "Soundbar",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Subwoofer (Ev Tipi)",
+                "href": "https://www.hepsiburada.com/ev-tipi-subwoofer-c-60007247",
+                "category": "Subwoofer (Ev Tipi)",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Portatif DVD Oynatıcılar",
+                "href": "https://www.hepsiburada.com/portatif-dvd-oynaticilar-c-157397",
+                "category": "Portatif DVD Oynatıcılar",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              }
+            ],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "Uydu Alıcıları",
+            "href": "https://www.hepsiburada.com/uydu-alicilari-c-155057",
+            "category": "Uydu Alıcıları",
+            "children": [],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "Kablo & Soketler",
+            "href": "https://www.hepsiburada.com/kablo-soketler-c-157410",
+            "category": "Kablo & Soketler",
+            "children": [],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "Müzik Sistemleri",
+            "href": "https://www.hepsiburada.com/muzik-sistemleri-c-17499",
+            "category": "Müzik Sistemleri",
+            "children": [
+              {
+                "title": "Müzik Seti",
+                "href": "https://www.hepsiburada.com/muzik-setleri-c-17011",
+                "category": "Müzik Seti",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Portatif Sistemler",
+                "href": "https://www.hepsiburada.com/portatif-sistemler-c-17012",
+                "category": "Portatif Sistemler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Pikap",
+                "href": "https://www.hepsiburada.com/pikap-c-60007403",
+                "category": "Pikap",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Stereo Amfiler",
+                "href": "https://www.hepsiburada.com/stereo-amfi-c-60008221",
+                "category": "Stereo Amfiler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Alarm Saatli Radyolar",
+                "href": "https://www.hepsiburada.com/alarm-saatli-radyolar-c-17498",
+                "category": "Alarm Saatli Radyolar",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Taşınabilir Amfili Hoparlörler",
+                "href": "https://www.hepsiburada.com/tasinabilir-anfi-c-60007250",
+                "category": "Taşınabilir Amfili Hoparlörler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              }
+            ],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "Güvenlik Sistemleri",
+            "href": "https://www.hepsiburada.com/guvenlik-sistemleri-c-161719",
+            "category": "Güvenlik Sistemleri",
+            "children": [
+              {
+                "title": "Güvenlik Kamerası",
+                "href": "https://www.hepsiburada.com/guvenlik-kameralari-c-161837",
+                "category": "Güvenlik Kamerası",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Dedektörler",
+                "href": "https://www.hepsiburada.com/dedektorler-c-162002",
+                "category": "Dedektörler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Alarm Sistemleri",
+                "href": "https://www.hepsiburada.com/alarm-sistemleri-c-162051",
+                "category": "Alarm Sistemleri",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Alarm Sistemleri Aksesuarları",
+                "href": "https://www.hepsiburada.com/alarm-sistemleri-aksesuarlari-c-162052",
+                "category": "Alarm Sistemleri Aksesuarları",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Kişisel Güvenlik Ekipmanları",
+                "href": "https://www.hepsiburada.com/kisisel-guvenlik-ekipmanlari-c-162876",
+                "category": "Kişisel Güvenlik Ekipmanları",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "DVR Kayıt Cihazı",
+                "href": "https://www.hepsiburada.com/dvr-kayit-cihazi-c-60007237",
+                "category": "DVR Kayıt Cihazı",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Yan Ekipmanlar",
+                "href": "https://www.hepsiburada.com/yan-ekipmanlar-c-60007238",
+                "category": "Yan Ekipmanlar",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Kamera Sistemi",
+                "href": "https://www.hepsiburada.com/kamera-sistemleri-c-60007380",
+                "category": "Kamera Sistemi",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Kamera Aksesuarları",
+                "href": "https://www.hepsiburada.com/kamera-aksesuarlari-c-80331054",
+                "category": "Kamera Aksesuarları",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              }
+            ],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "TV Aksesuarları",
+            "href": "https://www.hepsiburada.com/tv-aksesuarlari-c-8003673",
+            "category": "TV Aksesuarları",
+            "children": [
+              {
+                "title": "Tv Askı Aparatları",
+                "href": "https://www.hepsiburada.com/tv-aski-aparatlari-c-17539",
+                "category": "Tv Askı Aparatları",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "3D Gözlük",
+                "href": "https://www.hepsiburada.com/3d-gozlukler-c-60004528",
+                "category": "3D Gözlük",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Akıllı TV Aksesuarları",
+                "href": "https://www.hepsiburada.com/akilli-tv-aksesuarlari-c-60004529",
+                "category": "Akıllı TV Aksesuarları",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Uzaktan Kumandalar",
+                "href": "https://www.hepsiburada.com/uzaktan-kumandalar-c-157396",
+                "category": "Uzaktan Kumandalar",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Ekran Temizleme Ürünleri",
+                "href": "https://www.hepsiburada.com/ekran-temizleme-urunleri-c-157463",
+                "category": "Ekran Temizleme Ürünleri",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "TV Ekran Koruyucular",
+                "href": "https://www.hepsiburada.com/tv-ekran-koruyucular-c-80407000",
+                "category": "TV Ekran Koruyucular",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Dijital Yayın Paketleri",
+                "href": "https://www.hepsiburada.com/dijital-yayin-paketleri-c-60002696",
+                "category": "Dijital Yayın Paketleri",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "TV Montaj",
+                "href": "https://www.hepsiburada.com/tv-montaj-c-80788007",
+                "category": "TV Montaj",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "TV Yedek Parçaları",
+                "href": "https://www.hepsiburada.com/tv-yedek-parcalari-c-80827002",
+                "category": "TV Yedek Parçaları",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              }
+            ],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "Uydu Alıcısı Aksesuarları",
+            "href": "https://www.hepsiburada.com/uydu-alicisi-aksesuarlari-c-155056",
+            "category": "Uydu Alıcısı Aksesuarları",
+            "children": [
+              {
+                "title": "Çanak Antenler",
+                "href": "https://www.hepsiburada.com/canak-antenler-c-157192",
+                "category": "Çanak Antenler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Dıseq Motorlar",
+                "href": "https://www.hepsiburada.com/diseq-motorlar-c-157201",
+                "category": "Dıseq Motorlar",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Lnbler",
+                "href": "https://www.hepsiburada.com/lnbler-c-157193",
+                "category": "Lnbler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Switchler",
+                "href": "https://www.hepsiburada.com/uydu-alicisi-switchleri-c-157196",
+                "category": "Switchler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Tv Antenleri",
+                "href": "https://www.hepsiburada.com/tv-antenleri-c-157876",
+                "category": "Tv Antenleri",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Uydu Bölücüler",
+                "href": "https://www.hepsiburada.com/uydu-boluculer-c-160957",
+                "category": "Uydu Bölücüler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Uydu Prizleri",
+                "href": "https://www.hepsiburada.com/uydu-prizleri-c-163488",
+                "category": "Uydu Prizleri",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Uydu Santrali",
+                "href": "https://www.hepsiburada.com/uydu-santralleri-c-60000539",
+                "category": "Uydu Santrali",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Uydu Yön Bulucular",
+                "href": "https://www.hepsiburada.com/uydu-yon-bulucular-c-154296",
+                "category": "Uydu Yön Bulucular",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Uydu Konnektörleri",
+                "href": "https://www.hepsiburada.com/uydu-konnektorleri-c-155523",
+                "category": "Uydu Konnektörleri",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              },
+              {
+                "title": "Uydu Kabloları",
+                "href": "https://www.hepsiburada.com/uydu-kablolari-c-154297",
+                "category": "Uydu Kabloları",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              }
+            ],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          },
+          {
+            "title": "Ev Sinema Hoparlörleri",
+            "href": "https://www.hepsiburada.com/ev-sinema-hoparlorleri-c-152491",
+            "category": "Ev Sinema Hoparlörleri",
+            "children": [
+              {
+                "title": "Ses Bombası Hoparlörler",
+                "href": "https://www.hepsiburada.com/ses-bombasi-c-60007249",
+                "category": "Ses Bombası Hoparlörler",
+                "children": [],
+                "supercategory": "Ses ve Görüntü Sistemleri"
+              }
+            ],
+            "supercategory": "Ses ve Görüntü Sistemleri"
+          }
+        ]
+      },
+      {
+        "title": "Elektrikli Ev Aletleri",
+        "href": "https://www.hepsiburada.com/elektrikli-ev-aletleri-c-17071",
+        "category": "Elektrikli Ev Aletleri",
+        "children": [
+          {
+            "title": "Ütüler",
+            "href": "https://www.hepsiburada.com/utuler-c-155122",
+            "category": "Ütüler",
+            "children": [
+              {
+                "title": "Buharlı Ütü",
+                "href": "https://www.hepsiburada.com/buharli-utu-c-80162056",
+                "category": "Buharlı Ütü",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Buhar Kazanlı Ütü",
+                "href": "https://www.hepsiburada.com/buhar-kazanli-utu-c-80162057",
+                "category": "Buhar Kazanlı Ütü",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              }
+            ],
+            "supercategory": "Elektrikli Ev Aletleri"
+          },
+          {
+            "title": "Süpürgeler",
+            "href": "https://www.hepsiburada.com/supurgeler-c-155123",
+            "category": "Süpürgeler",
+            "children": [
+              {
+                "title": "Toz Torbasız Süpürge",
+                "href": "https://www.hepsiburada.com/toz-torbasiz-supurge-c-80160030",
+                "category": "Toz Torbasız Süpürge",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Dikey Süpürge",
+                "href": "https://www.hepsiburada.com/dikey-supurge-c-80160032",
+                "category": "Dikey Süpürge",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Şarjlı Süpürge",
+                "href": "https://www.hepsiburada.com/sarjli-supurgeler-c-159445",
+                "category": "Şarjlı Süpürge",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Robot Süpürge",
+                "href": "https://www.hepsiburada.com/robot-supurge-c-80160033",
+                "category": "Robot Süpürge",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Toz Torbalı Süpürge",
+                "href": "https://www.hepsiburada.com/toz-torbali-supurge-c-80160029",
+                "category": "Toz Torbalı Süpürge",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Halı Yıkama Makinası",
+                "href": "https://www.hepsiburada.com/hali-yikama-makinalari-c-17793",
+                "category": "Halı Yıkama Makinası",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Buharlı Temizleyici",
+                "href": "https://www.hepsiburada.com/buharli-temizleyici-c-80160034",
+                "category": "Buharlı Temizleyici",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Süpürge Aksesuarları",
+                "href": "https://www.hepsiburada.com/supurge-aksesuarlari-c-17712",
+                "category": "Süpürge Aksesuarları",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Sulu Süpürge",
+                "href": "https://www.hepsiburada.com/sulu-supurge-c-80160031",
+                "category": "Sulu Süpürge",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              }
+            ],
+            "supercategory": "Elektrikli Ev Aletleri"
+          },
+          {
+            "title": "Hava Temizleme & Nem Alma Cihazları",
+            "href": "https://www.hepsiburada.com/hava-temizleme-nem-alma-cihazlari-c-17175",
+            "category": "Hava Temizleme & Nem Alma Cihazları",
+            "children": [
+              {
+                "title": "Hava Temizleme Cihazı",
+                "href": "https://www.hepsiburada.com/hava-temizleme-cihazi-c-80162058",
+                "category": "Hava Temizleme Cihazı",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Nem Alma Cihazı",
+                "href": "https://www.hepsiburada.com/nem-alma-cihazi-c-80162059",
+                "category": "Nem Alma Cihazı",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              }
+            ],
+            "supercategory": "Elektrikli Ev Aletleri"
+          },
+          {
+            "title": "Dikiş Makinaları & Aksesuarları",
+            "href": "https://www.hepsiburada.com/dikis-makinesi-aksesuarlari-c-17693",
+            "category": "Dikiş Makinaları & Aksesuarları",
+            "children": [
+              {
+                "title": "Dikiş Makinaları",
+                "href": "https://www.hepsiburada.com/dikis-makinalari-c-162152",
+                "category": "Dikiş Makinaları",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              },
+              {
+                "title": "Dikiş Makinası Aksesuarları",
+                "href": "https://www.hepsiburada.com/dikis-makinasi-aksesuarlari-c-162153",
+                "category": "Dikiş Makinası Aksesuarları",
+                "children": [],
+                "supercategory": "Elektrikli Ev Aletleri"
+              }
+            ],
+            "supercategory": "Elektrikli Ev Aletleri"
+          }
+        ]
+      },
+      {
+        "title": "Isıtma ve Soğutma",
+        "href": "https://www.hepsiburada.com/isitma-sogutma-urunleri-c-161876",
+        "category": "Isıtma ve Soğutma",
+        "children": [
+          {
+            "title": "Klimalar",
+            "href": "https://www.hepsiburada.com/klimalar-c-17453",
+            "category": "Klimalar",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Kombiler",
+            "href": "https://www.hepsiburada.com/kombiler-c-17723",
+            "category": "Kombiler",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Vantilatörler",
+            "href": "https://www.hepsiburada.com/vantilatorler-c-17412",
+            "category": "Vantilatörler",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Şofbenler",
+            "href": "https://www.hepsiburada.com/sofbenler-c-17434",
+            "category": "Şofbenler",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Termosifonlar",
+            "href": "https://www.hepsiburada.com/termosifonlar-c-17769",
+            "category": "Termosifonlar",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Sobalar ve Isıtıcılar",
+            "href": "https://www.hepsiburada.com/sobalar-isiticilar-c-8001872",
+            "category": "Sobalar ve Isıtıcılar",
+            "children": [
+              {
+                "title": "Isıtıcı Ayakları & Aparatlar",
+                "href": "https://www.hepsiburada.com/infrared-isitici-ayaklari-c-8001883",
+                "category": "Isıtıcı Ayakları & Aparatlar",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Infrared Isıtıcılar",
+                "href": "https://www.hepsiburada.com/infrared-isiticilar-c-80081036",
+                "category": "Infrared Isıtıcılar",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Yağlı Radyatörler",
+                "href": "https://www.hepsiburada.com/yagli-radyator-c-80081037",
+                "category": "Yağlı Radyatörler",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Quartz Sobalar",
+                "href": "https://www.hepsiburada.com/quartz-soba-c-80081038",
+                "category": "Quartz Sobalar",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Fanlı Isıtıcılar",
+                "href": "https://www.hepsiburada.com/fanli-isiticilar-c-80081039",
+                "category": "Fanlı Isıtıcılar",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Ayak Isıtıcıları",
+                "href": "https://www.hepsiburada.com/ayak-isitici-c-80081040",
+                "category": "Ayak Isıtıcıları",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Konvektörler",
+                "href": "https://www.hepsiburada.com/konvektor-c-80081041",
+                "category": "Konvektörler",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Seramik Isıtıcılar",
+                "href": "https://www.hepsiburada.com/seramik-isiticilar-c-80081042",
+                "category": "Seramik Isıtıcılar",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Doğalgaz Sobaları",
+                "href": "https://www.hepsiburada.com/dogalgaz-sobasi-c-80081043",
+                "category": "Doğalgaz Sobaları",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Karbon Isıtıcı",
+                "href": "https://www.hepsiburada.com/karbon-isitici-c-80091008",
+                "category": "Karbon Isıtıcı",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Konveksiyonel Isıtıcı",
+                "href": "https://www.hepsiburada.com/konveksiyonel-isitici-c-80091010",
+                "category": "Konveksiyonel Isıtıcı",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              },
+              {
+                "title": "Panel Isıtıcı",
+                "href": "https://www.hepsiburada.com/panel-isitici-c-80091012",
+                "category": "Panel Isıtıcı",
+                "children": [],
+                "supercategory": "Isıtma ve Soğutma"
+              }
+            ],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Hava Perdeleri",
+            "href": "https://www.hepsiburada.com/hava-perdeleri-c-157284",
+            "category": "Hava Perdeleri",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Portatif Soğutucular",
+            "href": "https://www.hepsiburada.com/portatif-sogutucular-c-8003156",
+            "category": "Portatif Soğutucular",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Termoboyler",
+            "href": "https://www.hepsiburada.com/termoboyler-c-60006329",
+            "category": "Termoboyler",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Tavan Vantilatörleri",
+            "href": "https://www.hepsiburada.com/tavan-vantilatorleri-c-80239029",
+            "category": "Tavan Vantilatörleri",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Isıtma, Soğutma Yedek Parçaları",
+            "href": "https://www.hepsiburada.com/isitma-sogutma-yedek-parcalari-c-80419094",
+            "category": "Isıtma, Soğutma Yedek Parçaları",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          },
+          {
+            "title": "Isıtma, Soğutma Hizmetleri",
+            "href": "https://www.hepsiburada.com/isitma-sogutma-hizmetleri-c-80757002",
+            "category": "Isıtma, Soğutma Hizmetleri",
+            "children": [],
+            "supercategory": "Isıtma ve Soğutma"
+          }
+        ]
+      },
+      {
+        "title": "Ev Gereçleri",
+        "href": "https://www.hepsiburada.com/ev-gerecleri-c-60002911",
+        "category": "Ev Gereçleri",
+        "children": [
+          {
+            "title": "Ütü Masaları ve Aksesuarları",
+            "href": "https://www.hepsiburada.com/utu-masasi-aksesuarlari-c-153271",
+            "category": "Ütü Masaları ve Aksesuarları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Çamaşır Kurutucular",
+            "href": "https://www.hepsiburada.com/camasir-kurutucular-c-153276",
+            "category": "Çamaşır Kurutucular",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Oda Kokuları",
+            "href": "https://www.hepsiburada.com/oda-kokulari-c-60002913",
+            "category": "Oda Kokuları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Elbise Askıları",
+            "href": "https://www.hepsiburada.com/elbise-askilari-c-60002190",
+            "category": "Elbise Askıları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Pazar Arabaları",
+            "href": "https://www.hepsiburada.com/pazar-arabalari-c-60002196",
+            "category": "Pazar Arabaları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Plastik Temizlik Malzemeleri",
+            "href": "https://www.hepsiburada.com/plastik-temizlik-malzemeleri-c-60002914",
+            "category": "Plastik Temizlik Malzemeleri",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Fırça ve Moplar",
+            "href": "https://www.hepsiburada.com/firca-moplar-c-60002915",
+            "category": "Fırça ve Moplar",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Çöp Kovaları",
+            "href": "https://www.hepsiburada.com/cop-kovalari-c-60002912",
+            "category": "Çöp Kovaları",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Temizlik Bezleri",
+            "href": "https://www.hepsiburada.com/temizlik-bezleri-c-60002917",
+            "category": "Temizlik Bezleri",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          },
+          {
+            "title": "Pratik Ev Gereçleri",
+            "href": "https://www.hepsiburada.com/pratik-ev-gerecleri-c-60003114",
+            "category": "Pratik Ev Gereçleri",
+            "children": [],
+            "supercategory": "Ev Gereçleri"
+          }
+        ]
+      }
+    ]
+  }
+]

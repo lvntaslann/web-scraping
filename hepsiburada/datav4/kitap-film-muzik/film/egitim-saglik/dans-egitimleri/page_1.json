@@ -1,0 +1,46 @@
+[
+  {
+    "model": "Store",
+    "title": "Kimya Konu Özetli Soru Bankası",
+    "price": "420,90 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/dans-egitimleri-cd-dvd-c-186051?sayfa=1",
+    "product_url": "https://www.hepsiburada.com/kimya-konu-ozetli-soru-bankasi-pm-HBC00008F7KVI",
+    "category": "Dans Eğitimleri",
+    "supercategory": "Film"
+  },
+  {
+    "model": "SBM",
+    "title": "Sb Matematik Kazanım Odaklı Çalışma Kitabı 3.sınıf",
+    "price": "271,74 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/dans-egitimleri-cd-dvd-c-186051?sayfa=1",
+    "product_url": "https://www.hepsiburada.com/sb-matematik-kazanim-odakli-calisma-kitabi-3-sinif-pm-HBC00008A0R86",
+    "category": "Dans Eğitimleri",
+    "supercategory": "Film"
+  },
+  {
+    "model": "SBM",
+    "title": "Sb Zeka Makinesi Serbest Etkinlik Kitabı 1.ve 2.sınıf",
+    "price": "312,59 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/dans-egitimleri-cd-dvd-c-186051?sayfa=1",
+    "product_url": "https://www.hepsiburada.com/sb-zeka-makinesi-serbest-etkinlik-kitabi-1-ve-2-sinif-pm-HBC000089F089",
+    "category": "Dans Eğitimleri",
+    "supercategory": "Film"
+  },
+  {
+    "model": "N/A",
+    "title": "Rock & Roll ( VCD )",
+    "price": "299 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/dans-egitimleri-cd-dvd-c-186051?sayfa=1",
+    "product_url": "https://www.hepsiburada.com/rock-roll-vcd-pm-vcdgala98",
+    "category": "Dans Eğitimleri",
+    "supercategory": "Film"
+  }
+]

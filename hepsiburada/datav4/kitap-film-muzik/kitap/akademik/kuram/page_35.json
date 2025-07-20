@@ -1,0 +1,123 @@
+[
+  {
+    "model": "Nobel Akademik Yayıncılık",
+    "title": "Türk Dili",
+    "price": "255,64 TL",
+    "rating": "5",
+    "evaluation": "(1)",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/turk-dili-pm-HB0000012CRN",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Akademisyen Kitabevi",
+    "title": "Bilimsel Araştırma ve Yayın Etiği",
+    "price": "221,16 TL",
+    "rating": "4,8",
+    "evaluation": "(6)",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/bilimsel-arastirma-ve-yayin-etigi-pm-HB00000O85P2",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Nobel Akademik Yayıncılık",
+    "title": "Sporda Performans Ölçümü ve Analitik",
+    "price": "384,83 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/sporda-performans-olcumu-ve-analitik-pm-HB00000O85JJ",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Palme Yayıncılık - Akademik Kitaplar",
+    "title": "Olgularla Radyoloji Kas İskelet Radyolojisi",
+    "price": "1.055 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/olgularla-radyoloji-kas-iskelet-radyolojisi-pm-HB0000012HLQ",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Palme Yayıncılık - Akademik Kitaplar",
+    "title": "Genel Kimya - Kenneth A. Goldsby",
+    "price": "795 TL",
+    "rating": "5",
+    "evaluation": "(12)",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/genel-kimya-kenneth-a-goldsby-pm-HB0000012L9O",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Der Yayınları",
+    "title": "Siyasi Partiler Hukuku",
+    "price": "520 TL",
+    "rating": "5",
+    "evaluation": "(1)",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/siyasi-partiler-hukuku-pm-HB0000012IZ6",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Nobel Akademik Yayıncılık",
+    "title": "Teori ve Uygulamada Kariyer - Nihat Erdoğmuş",
+    "price": "540,58 TL",
+    "rating": "5",
+    "evaluation": "(1)",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/teori-ve-uygulamada-kariyer-nihat-erdogmus-pm-HBC00001S7RB4",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Nobel Akademik Yayıncılık",
+    "title": "Sürdürülebilir Su Yönetimi ve Tekstil Terbiyesi - Meliha Oktav Bulut",
+    "price": "231,88 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/nobel-akademik-yayincilik-surdurulebilir-su-yonetimi-ve-tekstil-terbiyesi-meliha-oktav-bulut-pm-HBC00001NEZEL",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Nobel Akademik Yayıncılık",
+    "title": "Kurum Kimliği - Mina Özevren",
+    "price": "263,56 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/nobel-akademik-yayincilik-kurum-kimligi-mina-ozevren-pm-HBC00001FK60C",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Nobel Akademik Yayıncılık",
+    "title": "Mplus ile Yapısal Eşitlik Modellemesi Uygulamaları",
+    "price": "631,06 TL",
+    "rating": "N/A",
+    "evaluation": "N/A",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/mplus-ile-yapisal-esitlik-modellemesi-uygulamalari-pm-HBC00000ODOXL",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  },
+  {
+    "model": "Nobel Akademik Yayıncılık",
+    "title": "Örgütlerde Çalışan Performans Yönetimi - Altan Doğan",
+    "price": "529,98 TL",
+    "rating": "5",
+    "evaluation": "(1)",
+    "category_url": "https://www.hepsiburada.com/kuram-kitaplari-c-9950?sayfa=35",
+    "product_url": "https://www.hepsiburada.com/orgutlerde-calisan-performans-yonetimi-altan-dogan-pm-HBC00001J1O3D",
+    "category": "Kuram",
+    "supercategory": "Kitap"
+  }
+]

@@ -11,9 +11,9 @@ from slugify import slugify
 
 # === Ayarlar ===
 DRIVER_PATH = r"C:\Users\kurt_\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
-CATEGORY_JSON_PATH = "category_updated.json"
-BASE_OUTPUT_DIR = "datav3"
-SUPER_CATEGORY_BULK_SAVE = ["bilgisayar sistemleri ve ekipmanları"]
+CATEGORY_JSON_PATH = "category/ev-yasam-kirtasiye-ofis/ev-dekorasyon.json"
+BASE_OUTPUT_DIR = "datav4/ev-yasam-kirtasiye-ofis"
+SUPER_CATEGORY_BULK_SAVE = ["Ev Dekorasyon"]
 
 def human_like_delay(min_sec=0.5, max_sec=2.0):
     time.sleep(random.uniform(min_sec, max_sec))
@@ -36,12 +36,18 @@ def scrape_product_data(driver, url, supercategory, current_title, parent_title,
     product_links = driver.find_elements(By.CSS_SELECTOR, ".productCard-module_article__HJ97o")
 
     for idx, card in enumerate(cards):
-        model = title = price = "N/A"
+        model = title = price =rating=evaluation= "N/A"
         try:
             model = card.find_element(By.CSS_SELECTOR, ".title-module_brandText__GIxWY").text.strip()
         except: pass
         try:
-            title = card.find_element(By.CSS_SELECTOR, ".title-module_titleText__8FlNQ").text.strip()
+            title_elem = card.find_elements(By.CSS_SELECTOR, ".title-module_titleText__8FlNQ")
+            if title_elem:
+                raw_title = title_elem[0].text.strip()
+                if model != "N/A" and raw_title.startswith(model):
+                    title = raw_title[len(model):].strip()
+                else:
+                    title = raw_title
         except: pass
         try:
             price = card.find_element(By.CSS_SELECTOR, ".price-module_finalPrice__LtjvY").text.strip()
@@ -54,6 +60,18 @@ def scrape_product_data(driver, url, supercategory, current_title, parent_title,
             product_url = link_element.get_attribute("href").strip()
         except:
             product_url = url
+        try:
+            eval_elem = card.find_elements(By.CSS_SELECTOR, ".rate-module_count__fjUng")
+            if eval_elem and eval_elem[0].text.strip():
+                evaluation = eval_elem[0].text.strip()
+        except:
+            pass
+        try:
+            rating_elem = card.find_elements(By.CSS_SELECTOR, ".rate-module_rating__19oVu")
+            if rating_elem and rating_elem[0].text.strip():
+                rating = rating_elem[0].text.strip()
+        except:
+            pass
 
         adjusted_category = current_title
 
@@ -61,6 +79,8 @@ def scrape_product_data(driver, url, supercategory, current_title, parent_title,
             "model": model,
             "title": title,
             "price": price,
+            "rating":rating,
+            "evaluation":evaluation,
             "category_url": url,
             "product_url": product_url,
             "category": adjusted_category,
@@ -85,6 +105,12 @@ def scrape_category(driver, url, folder_path, current_title, supercategory, pare
         print(f"\nSayfa {page} yükleniyor: {paged_url}")
         driver.get(paged_url)
         human_like_delay(2.0, 4.0)
+
+        # Yeni: Sayfa yönlendirme kontrolü
+        current_loaded_url = driver.current_url
+        if page > 1 and current_loaded_url.rstrip('/') == url.rstrip('/'):
+            print(f"Sayfa {page} için istenen URL'ye gidilemedi, yönlendirme oldu: {current_loaded_url}")
+            break
 
         products = scrape_product_data(driver, paged_url, supercategory, current_title, parent_title, folder_path)
         if not products:
@@ -119,32 +145,17 @@ def scrape_category(driver, url, folder_path, current_title, supercategory, pare
             json.dump(all_products, f, ensure_ascii=False, indent=2)
         print(f"\nTüm ürünler topluca kaydedildi: {file_path}")
 
+
 def process_category_tree(driver, node, parent_path, depth=0, parent_title=None):
     current_title = node["title"]
+    current_category = node["category"]
     current_slug = slugify(current_title)
     current_path = os.path.join(parent_path, current_slug)
-    supercategory = node.get("supercategory", "Bilinmeyen")
+    supercategory = node.get("supercategory", current_category)
 
     if node.get("children"):
         for child in node["children"]:
             process_category_tree(driver, child, current_path, depth + 1, parent_title=current_title)
-
-        # Alt klasörleri birleştir
-        merged = []
-        for path in glob.glob(os.path.join(current_path, "*", "*.json")):
-            try:
-                with open(path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    if isinstance(data, list):
-                        merged.extend(data)
-            except Exception as e:
-                print(f"Hata: {path} ({e})")
-
-        if merged:
-            output_file = os.path.join(current_path, f"all_products_{slugify(current_title)}_{len(merged)}.json")
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(merged, f, ensure_ascii=False, indent=2)
-            print(f"\nAlt kategoriler birleştirildi: {output_file}")
     else:
         scrape_category(
             driver=driver,
@@ -192,7 +203,12 @@ if __name__ == "__main__":
             tree = json.load(f)
 
         os.makedirs(BASE_OUTPUT_DIR, exist_ok=True)
-        process_category_tree(driver, tree, BASE_OUTPUT_DIR)
+
+        if isinstance(tree, list):
+            for node in tree:
+                process_category_tree(driver, node, BASE_OUTPUT_DIR)
+        else:
+            process_category_tree(driver, tree, BASE_OUTPUT_DIR)
 
     finally:
         merge_all_product_files(BASE_OUTPUT_DIR)

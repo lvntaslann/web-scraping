@@ -1,0 +1,35 @@
+[
+  {
+    "model": "Pınar",
+    "title": "Yağlı Süt 6x200 ml",
+    "price": "107,40 TL",
+    "rating": "4,8",
+    "evaluation": "(98)",
+    "category_url": "https://www.hepsiburada.com/sutler-c-60003424?sayfa=1",
+    "product_url": "https://www.hepsiburada.com/pinar-yagli-sut-6x200-ml-pm-zypinar153100006",
+    "category": "Süt",
+    "supercategory": "Ofis Tüketim Malzemeleri"
+  },
+  {
+    "model": "Pınar",
+    "title": "Tam Yağlı Süt 4x1 lt",
+    "price": "198 TL",
+    "rating": "4,5",
+    "evaluation": "(14)",
+    "category_url": "https://www.hepsiburada.com/sutler-c-60003424?sayfa=1",
+    "product_url": "https://www.hepsiburada.com/pinar-sut-tam-yagli-4-lu-1000-ml-pm-zypinar153100004",
+    "category": "Süt",
+    "supercategory": "Ofis Tüketim Malzemeleri"
+  },
+  {
+    "model": "Pınar",
+    "title": "Süt Light (0.1 Yağ) 4 'lü 1000 ml",
+    "price": "674 TL",
+    "rating": "5",
+    "evaluation": "(1)",
+    "category_url": "https://www.hepsiburada.com/sutler-c-60003424?sayfa=1",
+    "product_url": "https://www.hepsiburada.com/pinar-sut-light-0-1-yag-4-lu-1000-ml-pm-zypinar153103314",
+    "category": "Süt",
+    "supercategory": "Ofis Tüketim Malzemeleri"
+  }
+]
